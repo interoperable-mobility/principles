@@ -1,7 +1,10 @@
 # Mobility Data Interoperability Principles
 
+This is a website representing the developing Moblity Data Interoperability Principles, currently being rendered to [https://interoperable-mobility.github.io/principles/](https://interoperable-mobility.github.io/principles/).
+
 ## Attribution
 
+tktk
 
 
 ### Template
