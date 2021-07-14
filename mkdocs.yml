@@ -1,7 +1,14 @@
-site_name: "cal-itp/mkdocs-template"
-site_url: https://docs.calitp.org/mkdocs-template
-repo_url: https://github.com/cal-itp/mkdocs-template
+site_name: "interoperable-mobility/principles"
+site_url: https://interoperable-mobility.github.io/principles
+repo_url: https://github.com/interoperable-mobility/principles
 edit_uri: edit/main/docs
+
+nav:
+    - Principles: index.md
+    - About: about.md
+    - Implementation: implementation.md
+    - Support: support.md
+    - Details: definitions.md
 
 theme:
   name: material
@@ -37,11 +44,13 @@ extra_javascript:
 
 extra_css:
   - https://use.fontawesome.com/releases/v5.13.0/css/all.css
+  - css/additional.css
 
 markdown_extensions:
   - admonition
   - codehilite:
       linenums: true
+  - def_list
   - pymdownx.inlinehilite
   - pymdownx.tasklist:
       custom_checkbox: true
@@ -56,5 +65,13 @@ markdown_extensions:
   - toc:
       # insert a blank space before the character
       permalink: " ¶"
+      toc_depth: 2
   - smarty
   - fontawesome_markdown
+  - pymdownx.details
+
+extra:
+  mobility_technology_component: 
+    short: "Any hardware or software component (click for full def.)"
+
+    
