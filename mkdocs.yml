@@ -69,9 +69,4 @@ markdown_extensions:
   - smarty
   - fontawesome_markdown
   - pymdownx.details
-
-extra:
-  mobility_technology_component: 
-    short: "Any hardware or software component (click for full def.)"
-
-    
+  
