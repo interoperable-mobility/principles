@@ -1,7 +1,7 @@
 ## Definitions
 
-<a name="mobility_technology_component"></a>
-[**Mobility Technology Component**](#mobility_technology_component)
+<a name="transporation_technology_component"></a>
+[**Transportation Technology Component**](#transportation_technology_component)
 :   Any hardware or software component that is used  to:  
 
      - Plan journeys (e.g.  journey planning applications),
@@ -82,3 +82,4 @@
 
     __Overall System vs Specific Component__: The Mobility Data Interoperability Principles address high-level needs in order to achieve an overall [systems](#mobility_technology_system) which operates on and leverages interoperable data, whereas the California Minimum GTFS Guidelines provides the details about how to achieve this interoperability for a particular data transaction (rider-facing information).  Many of the sub-systems could have more specific implementation guidelines in the future which would list specific open standards to employ, etc. <p><br>
     __Collective vs California__: The Mobility Data Interoperability Principles Represents the collective perspective of a significant portion of the mobility ecosystem whereas the [California Minimum GTFS Guidelines](https://dot.ca.gov/cal-itp/california-minimum-general-transit-feed-specification-gtfs-guidelines), while built on top of collective documents such as GTFS Best Practices, are managed by Caltrans and represent an expectation which is based off of specific support which Caltrans intends to provide. 
+

@@ -39,3 +39,7 @@ p, a, li {
     font-weight: 300;
     font-size: .7rem;
 }
+
+.md-typeset.logo img {
+    height: 200;
+}

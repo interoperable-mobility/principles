@@ -8,6 +8,7 @@ nav:
     - About: about.md
     - Implementation: implementation.md
     - Support: support.md
+    - Process: process.md
     - Details: definitions.md
 
 theme:
@@ -47,6 +48,7 @@ extra_css:
   - css/additional.css
 
 markdown_extensions:
+  - attr_list
   - admonition
   - codehilite:
       linenums: true
@@ -69,4 +71,6 @@ markdown_extensions:
   - smarty
   - fontawesome_markdown
   - pymdownx.details
+  - pymdownx.snippets
+  - abbr
   

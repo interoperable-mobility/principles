@@ -1,0 +1,9 @@
+*[transporation technology component]:  Any hardware or software component that is used to plan journeys; provide mobility information to travelers; conduct transactions between mobility providers and travelers; facilitate the duties of drivers, operators or other on-board staff; facilitate the duties of dispatch, supervisory, or scheduling staff; or manage the mobility system. 
+*[open standard]: A specific ontology, schema, or format used by the mobility industry in order to facilitate the consistent communication of information between devices which is free from cost and restrictions to use; publicly documented in its entirety; actively maintained by an independent organization; contains structured releases, versions, or changelogs; and has an open community of contributors and users, and transparent, inclusive governance.
+*[mobility service provider]: Any organization that transports people or directly facilitates transport (e.g. a public transportation agency, a private tour bus, vehicle share, rideshare, or a non-emergency medical transportation (NEMT) company).
+*[mobility data]: Data used by any mobility technology component to execute its core functions.
+*[interoperability]: The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.
+*[Transportation Technology Company]: Any organization that provides a Mobility Technology Component.
+*[Transportation System Manager]: Any organization that coordinates the service of multiple mobility providers; procures or regulates the services of a third-party mobility provider;  maintains (or funds the maintenance of) physical infrastructure used by transit providers to transport people; or  receives legally mandated reports from transit providers in order to maintain service quality, safety, and efficiency.
+
+
