@@ -1,7 +1,7 @@
 !!! warning
     This content is currently in draft.
 
-The Mobility Data Interoperability Principles were developed by the above [listed co-authors(index.md#co-authors)] with significant input from generous reviewers in support of a common vision for [interoperability](definitions.md#interoperability)). Additional information about the development process and implementation can be found in its respective section.  
+The Mobility Data Interoperability Principles were developed by the above [listed co-authors](index.md#co-authors) with significant input from [co-signers](index.md#co-signers)  generous reviewers in support of a common vision for [interoperability](definitions.md#interoperability)). Additional information about the development process and implementation can be found in its respective section.  
 
 # Context
 ## Background
@@ -87,5 +87,10 @@ The Mobility Data Interoperability Principles will clearly designate the roles t
 
 **Note that some reviewers are not public at this time do to organizational permissions processes.  Accordingly, this list will grow as approvals are made.**
 
+ - San Francisco County Transportation Authority (SFCTA)  
+ - Seattle Department of Transportation (SDOT)  
+ - Transit Center  
 
 
+
+--8<-- "includes/glossary.md"

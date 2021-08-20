@@ -76,7 +76,9 @@ Signatories will be asked to formally indicate support following v1.0 being froz
 
 *In alphabetical order. Co-author list will be finalized after v1.0 frozen.*
 
-[**Apply to be a co-author by September 13th 2021**](https://forms.gle/ZW3Uk9e7y8VWtre86)You can find out more information about becoming a co-author or supporting the Principles by reviewing the [support](support.md) section. 
+[**Apply to be a co-author by September 13th 2021**](https://forms.gle/ZW3Uk9e7y8VWtre86).
+
+You can find out more information about becoming a co-author or supporting the Principles by reviewing the [support](support.md) section. 
 
 
 --8<-- "includes/glossary.md"

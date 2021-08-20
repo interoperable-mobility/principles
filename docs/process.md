@@ -26,7 +26,7 @@ More details about the admin draft review process can be found in the [Admin Dra
  - 8/16 Final up/down on how individuals and organizations will appear on public release  
  - ASAP after 8/16: Public launch of website and press release published  
  - 9/9  Public info session  
- - 9/13 Review comments and applications to be a co-author due  
+ - 9/13 [Review comments](https://forms.gle/ZW3Uk9e7y8VWtre86) and [applications to be a co-author](https://forms.gle/ZW3Uk9e7y8VWtre86) due  
  - 9/15 Co-authors review incoming comments/suggestions on an ongoing basis, prioritizing those submitted by 9/13  
  - 9/15 Co-authors review applications to be a co-author.
 
@@ -42,9 +42,9 @@ In addition to being an official co-author or cosignatory, we have identified th
 
 |  |  | 
 | :--- | :--- |
-| Internal champion | Be an advocate for the Principles within your organization by using the community resources or developing your own. <br> If possible, work towards your organization co-signing the Principles. <br> Let us know how we can support you and your organization to implement the Principles. |
-| Reviewer | Review documents and resources and provide comments and feedback. <br> Submit comments here before September 13th <br> (optional) Have your individual or organization’s name listed as a reviewer. |
-| Contributor | Lead or support implementation resources. <br> Please indicate your interest before September 13th |
+| Internal champion | Be an advocate for the Principles within your organization by using the community resources or developing your own. <br> If possible, work towards your organization co-signing the Principles. <br> [Let us know](https://forms.gle/PE5TjvFCjyq8xUub6) how we can support you and your organization to implement the Principles. |
+| Reviewer | Review documents and resources and provide comments and feedback. <br> [Submit comments here](https://forms.gle/Z2gqhD98fcV677Rt5) before September 13th <br> (optional) Have your individual or organization’s name listed as a reviewer. |
+| Contributor | Lead or support implementation resources. <br> [Please indicate your interest](https://forms.gle/S73T6HeKn8qDLy7e7) before September 13th |
 
 ## Ongoing Governance
 Changes to the Principles will be evaluated by the co-authors on a regular basis.  If consensus cannot be reached among the co-authors, changes will be raised to a majority vote. Co-authors will consider that changes may affect the co-signers’ willingness to continue their support.  
@@ -52,3 +52,4 @@ Changes to the Principles will be evaluated by the co-authors on a regular basis
 Ongoing management and leadership of the Principles is an ongoing discussion among the co-authors and co-signers as is a process by which to admit additional co-authors subsequent to the public-draft release.
 
 
+--8<-- "includes/glossary.md"
