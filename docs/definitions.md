@@ -84,8 +84,8 @@
      - Is documented in its entirety on a public webpage in human-readable form
      - Is documented in a language-neutral machine-readable format at a permalink in a format applicable to the following categories of schemas:
 
-        - API: OpenAPI
-        - Tabular data schemas(i.e. csvs): frictionless data table, data resource or data package
-        - Tagged data schemas: json-schema
+        - API: [OpenAPI](https://www.openapis.org/)
+        - Tabular data schemas(i.e. csvs): [frictionless](https://frictionlessdata.io/standards/) data table, data resource or data package
+        - Tagged data schemas: [json-schema](https://json-schema.org/)
         
      - Uses structured releases, versions, or changelogs.

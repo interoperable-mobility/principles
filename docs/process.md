@@ -24,11 +24,11 @@ More details about the admin draft review process can be found in the [Admin Dra
 *Current Phase*
 
  - 8/16 Final up/down on how individuals and organizations will appear on public release  
- - ASAP after 8/16: Public launch of website and press release published  
- - 9/9  Public info session  
+ - 8/20 Public launch of website 
+ - 9/9  Public info session  [(register now)](https://us02web.zoom.us/meeting/register/tZIkcuygrj4qGNYoe9HRkAg_cxmWecRDma2t)
  - 9/13 [Review comments](https://forms.gle/ZW3Uk9e7y8VWtre86) and [applications to be a co-author](https://forms.gle/ZW3Uk9e7y8VWtre86) due  
- - 9/15 Co-authors review incoming comments/suggestions on an ongoing basis, prioritizing those submitted by 9/13  
- - 9/15 Co-authors review applications to be a co-author.
+ - 9/15 Co-authors review incoming [comments/suggestions](https://forms.gle/ZW3Uk9e7y8VWtre86) on an ongoing basis, prioritizing those submitted by 9/13  
+ - 9/15 Co-authors review [applications to be a co-author](https://forms.gle/ZW3Uk9e7y8VWtre86).
 
 ### Version 1.0 Release Process
 

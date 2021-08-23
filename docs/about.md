@@ -1,15 +1,13 @@
 !!! warning
     This content is currently in draft.
 
-The Mobility Data Interoperability Principles were developed by the above [listed co-authors](index.md#co-authors) with significant input from [co-signers](index.md#co-signers)  generous reviewers in support of a common vision for [interoperability](definitions.md#interoperability)). Additional information about the development process and implementation can be found in its respective section.  
+The Mobility Data Interoperability Principles were developed by the [co-authors](index.md#co-authors) with significant input from [co-signers](index.md#co-signers) and generous reviewers in support of a common vision for [interoperability](definitions.md#interoperability). Additional information about the development process and implementation can be found in its respective section.  
 
 # Context
 ## Background
-The mobility landscape is complex. People have individualized abilities, preferences, and mobility needs that shape preferences around where, when, and how they travel. Transit agencies and other mobility service providers, likewise, are extremely varied. The variety among transit agencies and other mobility service providers creates an opportunity for more people to have their mobility needs better met. But fulfilling this promise requires a level of interoperability and cooperation between transit agencies, other mobility service providers and transportation technology companies that is yet to be realized.
+The mobility landscape is complex. People have individualized abilities, preferences, and mobility needs that shape preferences around where, when, and how they travel. Transit agencies and other mobility service providers, likewise, are extremely varied. The variety among transit agencies and other mobility service providers creates an opportunity for more people to have their mobility needs better met. But fulfilling this promise requires a level of interoperability and cooperation between transit agencies, other mobility service providers, and transportation technology companies that is yet to be realized.
 
-Over the course of the last decade, passengers have enjoyed increased access to mobile apps and real-time information to help them choose the modes, services, and trips that are right for them, but still lack a complete picture of their available options because of technical- and political information silos – not to mention unequal access to technology. Nonetheless, expectations have risen, as real-time transit information, on-demand ride hailing, and micromobility options become embedded in daily life.
-
-More than ever, meeting the needs of travelers requires the complete interoperability of mobility data used by transit agencies, mobility service providers and transportation technology companies.
+Over the course of the last decade, passengers have enjoyed increased access to mobile apps and real-time information to help them choose the modes, services, and trips that are right for them, but still lack a complete picture of their available options because of technical and political information silos – not to mention unequal access to technology. Nonetheless, expectations have risen, as real-time transit information, on-demand ride hailing, and micromobility options become embedded in daily life.
 
 ## Vision
 More than ever, meeting the needs of travelers requires the complete interoperability of mobility data used by transit providers and transportation technology companies.
@@ -22,7 +20,7 @@ More than ever, meeting the needs of travelers requires the complete interoperab
 
 **[Mobility service providers](definitions.md#mobility_provider)** can:   
 
-  - Interface with other mobility providers to meet riders needs,  
+  - Interface with other mobility providers to meet riders' needs,  
   - Use the best available data to support analytics and real-time decision-making for their planning, scheduling, and operating needs,  
   - Select the best available technology and equipment to provide their service without vendor lock-in, and  
   - Easily use their data and data from other mobility providers to increase rider satisfaction and the customer experience through service efficiency and service quality.
@@ -43,7 +41,6 @@ More than ever, meeting the needs of travelers requires the complete interoperab
 
   - Easily access mobility operations and traveler needs at a system level across transit providers and jurisdictions in order to inform short- and long-range strategies and policy,  
   - Support the above visions. 
-
 
 ## What is interoperability?
  Interoperable technologies can natively exchange data in a format that each can understand. 
@@ -83,14 +80,12 @@ The Mobility Data Interoperability Principles will help the transit industry and
 
 The Mobility Data Interoperability Principles will clearly designate the roles that mobility providers and transportation tech companies must play in order to achieve interoperability. The Mobility Data Interoperability Principles will also serve as a benchmark for measuring individual organization’s commitment to achieving interoperability.
 
-## Public Reviewers
+## Additional Reviewers
 
 **Note that some reviewers are not public at this time do to organizational permissions processes.  Accordingly, this list will grow as approvals are made.**
 
- - San Francisco County Transportation Authority (SFCTA)  
- - Seattle Department of Transportation (SDOT)  
- - Transit Center  
-
+ - [San Francisco County Transportation Authority (SFCTA)](sfcta.org)
+ - [Transit Center](transitcenter.org)  
 
 
 --8<-- "includes/glossary.md"
