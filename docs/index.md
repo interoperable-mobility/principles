@@ -12,6 +12,7 @@
 !!! warning
     This is a draft document. 
 
+Public Transit, and the mobility services which support it, is a critical backbone to our environmental, economic, and societal well-being.  Modern, easily-accessible and well-operated public transit depends on a complex system of operations and customer-oriented technology components which work together.  
 
 Interoperable transit technology systems enable transit providers to plan service which is responsive to rider needs, improve service quality and efficiency, and adapt to continuing changes.  Interoperability also encourages innovation among transportation technology companies while helping them to contain costs.
 
@@ -47,7 +48,7 @@ In alphabetical order.
  - Juan Matute, University of California Los Angeles* 
  - [Metropolitan Transportation Commission (MTC) ](http://bayareametro.org)  
  - [MobilityData](mobilitydata.org)
- - Dr. Greg Newmark, Kansas State Umiversity*
+ - Dr. Greg Newmark, Kansas State University*
  - [Open Mobility Foundation (OMF)](https://www.openmobilityfoundation.org/)
  - Dr. David Porter, Oregon State University* 
  - [RMI](rmip.org)
