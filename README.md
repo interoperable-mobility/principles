@@ -8,17 +8,17 @@ The [Mobility Data Interoperability Principles](https://interoperable-mobility.g
 
 ## Attribution
 
- - [California Association of Coordinated Transportation (CALACT)](https://www.calact.org)  
- - [California Integrated Travel Project (Cal-ITP)](http://calitp.org)  
- - [Denver Regional Transportation District (RTD)](https://www.rtd-denver.com/)  
- - [ENTUR](https://entur.no/)  
- - [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)  
- - [Metropolitan Transportation Commission (MTC) ](http://bayareametro.org)  
- - [MobilityData](http://mobilitydata.org)  
- - [Shared Use Mobility Center (SUMC) ](https://sharedusemobilitycenter.org/)  
- - [Tri-Met](https://trimet.org/)  
- - [VIA Metropolitan Transit San Antonio](https://www.viainfo.net/)  
- - [Washington State Department of Transportation (WSDOT) Public Transportation Division](https://wsdot.wa.gov/)  
+- [California Association of Coordinated Transportation (CALACT)](https://www.calact.org)  
+- [California Integrated Travel Project (Cal-ITP)](http://calitp.org)  
+- [Denver Regional Transportation District (RTD)](https://www.rtd-denver.com/)  
+- [ENTUR](https://entur.no/)  
+- [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)  
+- [Metropolitan Transportation Commission (MTC)](http://bayareametro.org)  
+- [MobilityData](http://mobilitydata.org)  
+- [Shared Use Mobility Center (SUMC)](https://sharedusemobilitycenter.org/)  
+- [Tri-Met](https://trimet.org/)  
+- [VIA Metropolitan Transit San Antonio](https://www.viainfo.net/)  
+- [Washington State Department of Transportation (WSDOT) Public Transportation Division](https://wsdot.wa.gov/)  
 
 ## License
 

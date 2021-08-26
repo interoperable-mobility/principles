@@ -10,7 +10,7 @@
      - Ongoing basis – Submit a [Co-signer form](https://forms.gle/ZW3Uk9e7y8VWtre86)
 
 !!! warning
-    This is a draft document. 
+    This is a draft document.
 
 Public Transit, and the mobility services which support it, is a critical backbone to our environmental, economic, and societal well-being.  Modern, easily-accessible and well-operated public transit depends on a complex system of operations and customer-oriented technology components which work together.  
 
@@ -18,13 +18,16 @@ Interoperable transit technology systems enable transit providers to plan servic
 
 The Mobility Data Interoperability Principles, currently in a public draft form, create an industry-agreed upon vision, definition and direction for achieving interoperability with clear roles and responsibilities.  The Draft Principles were collaboratively developed among transit agencies, supporting mobility service providers, local, regional and national governmental bodies, and civil society organizations and are available for public comment and review through September 13th.  
 
-The Principles are co-authored by (in alphabetical order) the California Association of Coordinated Transportation, California Integrated Travel Project, Denver Regional Transportation District,  ENTUR, Massachusetts Bay Transportation Authority, the Metropolitan Transportation Commission, MobilityData, the Shared Use Mobility Center, Tri-Met, VIA Metropolitan Transit San Antonio, and Washington State Department of Transportation Public Transportation Division.  Expected co-signatories to the Principles include the above co-authors as well as Capitol Corridor Joint Powers Authority, Dr. Andre Carrel, Dr. David Porter, Dr. Giovanni Circella, Dr. Greg Newmark, Juan Matute, Dr. Susan Shaheen, Open Mobility Foundation, RMI and Santa Rosa Citybus. 
+The Principles are co-authored by (in alphabetical order) the California Association of Coordinated Transportation, California Integrated Travel Project, Denver Regional Transportation District,  ENTUR, Massachusetts Bay Transportation Authority, the Metropolitan Transportation Commission, MobilityData, the Shared Use Mobility Center, Tri-Met, VIA Metropolitan Transit San Antonio, and Washington State Department of Transportation Public Transportation Division.  Expected co-signatories to the Principles include the above co-authors as well as Capitol Corridor Joint Powers Authority, Dr. Andre Carrel, Dr. David Porter, Dr. Giovanni Circella, Dr. Greg Newmark, Juan Matute, Dr. Susan Shaheen, Open Mobility Foundation, RMI and Santa Rosa Citybus.  
 
 ## Purpose
-The purpose of the Mobility Data Interoperability Principles is to foster a transit industry where [mobility data](definitions.md#mobility_data) flows freely and securely between [systems](definitions.md#mobility_technology_system), between operators, and between providers and the riding public, empowering transit agencies and other [mobility service providers](definitions.md#mobility_provider) and [transportation system managers](definitions.md#transportation_system_manager) to provide better service and improve the customer experience. 
+
+The purpose of the Mobility Data Interoperability Principles is to foster a transit industry where [mobility data](definitions.md#mobility_data) flows freely and securely between [systems](definitions.md#mobility_technology_system), between operators, and between providers and the riding public, empowering transit agencies and other [mobility service providers](definitions.md#mobility_provider) and [transportation system managers](definitions.md#transportation_system_manager) to provide better service and improve the customer experience.  
 
 ## Principles
-*Version 0.1; public draft*
+
+!!! note "Version 0.1"
+    public draft
 
 The undersigned organizations and individuals support the following Mobility Data Interoperability Principles:
 
@@ -35,57 +38,68 @@ The undersigned organizations and individuals support the following Mobility Dat
 5. All individuals should be empowered through high-quality, well-distributed [mobility data](definitions.md#mobility_data) to find, access, and utilize high-quality mobility options that meet their needs as they see fit, while maintaining their privacy.  
 
 ## Expected Signatories
-In alphabetical order. 
 
- - [California Association of Coordinated Transportation (CALACT) ](calact.org)
- - [California Integrated Travel Project (Cal-ITP)](calitp.org)
- - [Capitol Corridor Joint Powers Authority (CCJPA) ](capitolcorridor.org)
- - Dr. Andre Carrel, The Ohio State University*  
- - Dr. Giovanni Circella, University of California Davis* 
- - [Denver Regional Transportation District (RTD)](https://www.rtd-denver.com/) 
- - [ENTUR](https://entur.no/) 
- - [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)  
- - Juan Matute, University of California Los Angeles* 
- - [Metropolitan Transportation Commission (MTC) ](http://bayareametro.org)  
- - [MobilityData](mobilitydata.org)
- - Dr. Greg Newmark, Kansas State University*
- - [Open Mobility Foundation (OMF)](https://www.openmobilityfoundation.org/)
- - Dr. David Porter, Oregon State University* 
- - [RMI](rmip.org)
- - [Santa Rosa Citybus](https://srcity.org/1036/Transit-and-CityBus)
- - Dr. Susan Shaheen, University of California, Berkeley* 
- - [Shared Use Mobility Center (SUMC) ](https://sharedusemobilitycenter.org/) 
- - [Tri-Met](https://trimet.org/) 
- - [VIA Metropolitan Transit San Antonio](https://www.viainfo.net/) 
- - [Washington State Department of Transportation (WSDOT)](https://wsdot.wa.gov/) 
+In alphabetical order.  
+
+- [California Association of Coordinated Transportation (CALACT)](http://calact.org)  
+- [California Integrated Travel Project (Cal-ITP)](http://calitp.org)  
+- [Capitol Corridor Joint Powers Authority (CCJPA)](http://capitolcorridor.org)  
+- Dr. Andre Carrel, The Ohio State University*  
+- Dr. Giovanni Circella, University of California Davis*  
+- [Denver Regional Transportation District (RTD)](https://www.rtd-denver.com/)  
+- [ENTUR](https://entur.no/)  
+- [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)  
+- Juan Matute, University of California Los Angeles*  
+- [Metropolitan Transportation Commission (MTC)](http://bayareametro.org)  
+- [MobilityData](http://mobilitydata.org)
+- Dr. Greg Newmark, Kansas State University*
+- [Open Mobility Foundation (OMF)](https://www.openmobilityfoundation.org/)
+- Dr. David Porter, Oregon State University*  
+- [RMI](http://rmi.org)  
+- [Santa Rosa Citybus](https://srcity.org/1036/Transit-and-CityBus)  
+- Dr. Susan Shaheen, University of California, Berkeley*  
+- [Shared Use Mobility Center (SUMC)](https://sharedusemobilitycenter.org/)  
+- [Tri-Met](https://trimet.org/)  
+- [VIA Metropolitan Transit San Antonio](https://www.viainfo.net/)  
+- [Washington State Department of Transportation (WSDOT)](https://wsdot.wa.gov/)  
 
 *Affiliation for identification purposes only
 
-##[**Join us!**](https://forms.gle/ZW3Uk9e7y8VWtre86)
-You can find out more information about becoming a co-signer or supporting the Principles by reviewing the [support](support.md) section. 
+## [**Join us!**](https://forms.gle/ZW3Uk9e7y8VWtre86)
+
+You can find out more information about becoming a co-signer or supporting the Principles by reviewing the [support](support.md) section.  
 
 Signatories will be asked to formally indicate support following v1.0 being frozen.
 
 ## Co-Authors
 
-![CalActlogo](img/calact.png) <br>California Association of Coordinated Transportation  (CALACT)  <br><br>
-![CalITP logo](img/calitp.png) <br>California Integrated Travel Project (Cal-ITP)  <br><br>
-![RTD logo](img/rtd.png) <br>Denver Regional Transportation District (RTD) <br><br>
-![ENTUR logo](img/entur.png) <br>ENTUR  <br><br>
-![T logo](img/mbta.png)<br>Massachusetts Bay Transportation Authority (MBTA)  <br><br>
-![MTC logo](img/mtc.png)<br>Metropolitan Transportation Commission (MTC) <br><br>
-![MobilityData Logo](img/mobilitydata.png)<br>MobilityData  <br><br>
-![TriMet logo](img/trimet.png)<br>Tri-Met  <br><br>
-![Via logo](img/via.png)<br> VIA Metropolitan Transit San Antonio <br><br>
-![WSDOT logo](img/wsdot.png)<br>Washington State Department of Transportation (WSDOT) Public Transportation Division  <br><br>
-![SUMC Logo](img/sumc.png)<br>Shared Use Mobility Center (SUMC) <br><br>
-
+![CalActlogo](img/calact.png)  
+California Association of Coordinated Transportation  (CALACT)  
+![CalITP logo](img/calitp.png)  
+California Integrated Travel Project (Cal-ITP)  
+![RTD logo](img/rtd.png)  
+Denver Regional Transportation District (RTD)  
+![ENTUR logo](img/entur.png)  
+ENTUR  
+![T logo](img/mbta.png)  
+Massachusetts Bay Transportation Authority (MBTA)  
+![MTC logo](img/mtc.png)  
+Metropolitan Transportation Commission (MTC)  
+![MobilityData Logo](img/mobilitydata.png)  
+MobilityData  
+![TriMet logo](img/trimet.png)  
+Tri-Met  
+![Via logo](img/via.png)  
+VIA Metropolitan Transit San Antonio  
+![WSDOT logo](img/wsdot.png)  
+Washington State Department of Transportation (WSDOT) Public Transportation Division  
+![SUMC Logo](img/sumc.png)  
+Shared Use Mobility Center (SUMC)  
 
 *In alphabetical order. Co-author list will be finalized after v1.0 frozen.*
 
 [**Apply to be a co-author by September 13th 2021**](https://forms.gle/ZW3Uk9e7y8VWtre86).
 
-You can find out more information about becoming a co-author or supporting the Principles by reviewing the [support](support.md) section. 
-
+You can find out more information about becoming a co-author or supporting the Principles by reviewing the [support](support.md) section.
 
 --8<-- "includes/glossary.md"
