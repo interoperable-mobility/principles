@@ -48,6 +48,7 @@ In alphabetical order.
 - Dr. Giovanni Circella, University of California Davis*  
 - [Denver Regional Transportation District (RTD)](https://www.rtd-denver.com/)  
 - [ENTUR](https://entur.no/)  
+- [Dr. Mark Hickman](https://researchers.uq.edu.au/researcher/2972), University of Queensland*  
 - [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)  
 - Juan Matute, University of California Los Angeles*  
 - [Metropolitan Transportation Commission (MTC)](http://bayareametro.org)  
