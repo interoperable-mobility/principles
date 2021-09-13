@@ -49,6 +49,7 @@ In alphabetical order.
 - [Denver Regional Transportation District (RTD)](https://www.rtd-denver.com/)  
 - [ENTUR](https://entur.no/)  
 - [Dr. Mark Hickman](https://researchers.uq.edu.au/researcher/2972), University of Queensland*  
+- [IBI Group](https://www.ibigroup.com)  
 - [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)  
 - Juan Matute, University of California Los Angeles*  
 - [Metropolitan Transportation Commission (MTC)](http://bayareametro.org)  
