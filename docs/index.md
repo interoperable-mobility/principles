@@ -46,6 +46,7 @@ In alphabetical order.
 - [Capitol Corridor Joint Powers Authority (CCJPA)](http://capitolcorridor.org)  
 - Dr. Andre Carrel, The Ohio State University*  
 - Dr. Giovanni Circella, University of California Davis*  
+- [Cityway](https://cityway.io/)  
 - [Denver Regional Transportation District (RTD)](https://www.rtd-denver.com/)  
 - [ENTUR](https://entur.no/)  
 - [Dr. Mark Hickman](https://researchers.uq.edu.au/researcher/2972), University of Queensland*  
@@ -61,7 +62,10 @@ In alphabetical order.
 - [Santa Rosa Citybus](https://srcity.org/1036/Transit-and-CityBus)  
 - Dr. Susan Shaheen, University of California, Berkeley*  
 - [Shared Use Mobility Center (SUMC)](https://sharedusemobilitycenter.org/)  
+- [Taskar Center for Accessible Technology](https://tcat.cs.washington.edu/)  
+- [Transit App](http://transitapp.com)  
 - [Tri-Met](https://trimet.org/)  
+- [Trillium Solutions](https://trilliumtransit.com/)  
 - [VIA Metropolitan Transit San Antonio](https://www.viainfo.net/)  
 - [Washington State Department of Transportation (WSDOT)](https://wsdot.wa.gov/)  
 
