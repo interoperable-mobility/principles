@@ -54,6 +54,7 @@ In alphabetical order.
 - [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)  
 - Juan Matute, University of California Los Angeles*  
 - [Metropolitan Transportation Commission (MTC)](http://bayareametro.org)  
+- [Minnesota Department of Transportation](https://www.dot.state.mn.us/)  
 - [MobilityData](http://mobilitydata.org)
 - Dr. Greg Newmark, Kansas State University*
 - [Open Mobility Foundation (OMF)](https://www.openmobilityfoundation.org/)
