@@ -51,6 +51,7 @@ In alphabetical order.
 - [ENTUR](https://entur.no/)  
 - [Dr. Mark Hickman](https://researchers.uq.edu.au/researcher/2972), University of Queensland*  
 - [IBI Group](https://www.ibigroup.com)  
+- [Ito World](https://www.itoworld.com/)  
 - [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)  
 - Juan Matute, University of California Los Angeles*  
 - [Metropolitan Transportation Commission (MTC)](http://bayareametro.org)  
