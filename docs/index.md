@@ -70,6 +70,7 @@ In alphabetical order.
 - [Trillium Solutions](https://trilliumtransit.com/)  
 - [VIA Metropolitan Transit San Antonio](https://www.viainfo.net/)  
 - [Washington State Department of Transportation (WSDOT)](https://wsdot.wa.gov/)  
+- [WINI Technologies](http://www.winitechnologies.com/)  
 
 *Affiliation for identification purposes only
 
