@@ -1,16 +1,13 @@
 # Mobility Data Interoperability Principles
 
-!!! note "Review Instructions"
-    [View this website as a printable, single document.](https://docs.google.com/document/d/1TgaVb8uwLhDAwY119IN5vOxzNqEbYcJf3iMTRj4CSCg/edit?usp=sharing)  
+!!! info
+    Need to print or send something as a PDF? [View this website as a printable, single document.](https://docs.google.com/document/d/1TgaVb8uwLhDAwY119IN5vOxzNqEbYcJf3iMTRj4CSCg/edit?usp=sharing)  
 
-    Deadlines:  
-     - 9/9   – Public info session [ [register now](https://us02web.zoom.us/meeting/register/tZIkcuygrj4qGNYoe9HRkAg_cxmWecRDma2t) ]  
-     - 9/13  – [Review comments due](https://forms.gle/ZW3Uk9e7y8VWtre86)  
-     - 9/13  – [Applications to be a co-author due](https://forms.gle/ZW3Uk9e7y8VWtre86)  
-     - Ongoing basis – Submit a [Co-signer form](https://forms.gle/ZW3Uk9e7y8VWtre86)
+!!! check
+    Co-signers reviewed and accepted on an ongoing basis.  Please apply using [this form](https://forms.gle/ZW3Uk9e7y8VWtre86).
 
 !!! warning
-    This is a draft document.
+    This is a draft document.  Comments from the public review process in August/September 2021 are currently being incorporated in anticipation of a v1 release in October 2021.  
 
 Public Transit, and the mobility services which support it, is a critical backbone to our environmental, economic, and societal well-being.  Modern, easily-accessible and well-operated public transit depends on a complex system of operations and customer-oriented technology components which work together.  
 
@@ -18,7 +15,7 @@ Interoperable transit technology systems enable transit providers to plan servic
 
 The Mobility Data Interoperability Principles, currently in a public draft form, create an industry-agreed upon vision, definition and direction for achieving interoperability with clear roles and responsibilities.  The Draft Principles were collaboratively developed among transit agencies, supporting mobility service providers, local, regional and national governmental bodies, and civil society organizations and are available for public comment and review through September 13th.  
 
-The Principles are co-authored by (in alphabetical order) the California Association of Coordinated Transportation, California Integrated Travel Project, Denver Regional Transportation District,  ENTUR, Massachusetts Bay Transportation Authority, the Metropolitan Transportation Commission, MobilityData, the Shared Use Mobility Center, Tri-Met, VIA Metropolitan Transit San Antonio, and Washington State Department of Transportation Public Transportation Division.  Expected co-signatories to the Principles include the above co-authors as well as Capitol Corridor Joint Powers Authority, Dr. Andre Carrel, Dr. David Porter, Dr. Giovanni Circella, Dr. Greg Newmark, Juan Matute, Dr. Susan Shaheen, Open Mobility Foundation, RMI and Santa Rosa Citybus.  
+The Principles are co-authored by (in alphabetical order) the California Association of Coordinated Transportation, California Integrated Travel Project, Denver Regional Transportation District,  ENTUR, Massachusetts Bay Transportation Authority, Metro Transit (MN), the Metropolitan Transportation Commission, MobilityData, the Shared Use Mobility Center, the Taskar Center for Acessible Technology, Tri-Met, VIA Metropolitan Transit San Antonio, and Washington State Department of Transportation Public Transportation Division.  
 
 ## Purpose
 
@@ -54,6 +51,7 @@ In alphabetical order.
 - [Ito World](https://www.itoworld.com/)  
 - [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)  
 - Juan Matute, University of California Los Angeles*  
+- [MetroTransit](http://metrotransit.org)  
 - [Metropolitan Transportation Commission (MTC)](http://bayareametro.org)  
 - [Minnesota Department of Transportation](https://www.dot.state.mn.us/)  
 - [MobilityData](http://mobilitydata.org)
@@ -92,12 +90,16 @@ Denver Regional Transportation District (RTD)
 ENTUR  
 ![T logo](img/mbta.png)  
 Massachusetts Bay Transportation Authority (MBTA)  
+![Metro Transit logo](img/metrotransit.png)  
+[MetroTransit](http://metrotransit.org)  
 ![MTC logo](img/mtc.png)  
 Metropolitan Transportation Commission (MTC)  
 ![MobilityData Logo](img/mobilitydata.png)  
 MobilityData  
+ ![Taskar Center Logo](img/taskar.png)  
+[Taskar Center for Accessible Technology](https://tcat.cs.washington.edu/)  
 ![TriMet logo](img/trimet.png)  
-Tri-Met  
+[Tri-Met](https://trimet.org/)  
 ![Via logo](img/via.png)  
 VIA Metropolitan Transit San Antonio  
 ![WSDOT logo](img/wsdot.png)  
