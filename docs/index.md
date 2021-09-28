@@ -54,7 +54,8 @@ In alphabetical order.
 - [MetroTransit](http://metrotransit.org)  
 - [Metropolitan Transportation Commission (MTC)](http://bayareametro.org)  
 - [Minnesota Department of Transportation](https://www.dot.state.mn.us/)  
-- [MobilityData](http://mobilitydata.org)
+- [MobilityData](http://mobilitydata.org)  
+- [National Rural Transit Assistance Program](https://www.nationalrtap.org/)  
 - Dr. Greg Newmark, Kansas State University*
 - [Open Mobility Foundation (OMF)](https://www.openmobilityfoundation.org/)
 - Dr. David Porter, Oregon State University*  
