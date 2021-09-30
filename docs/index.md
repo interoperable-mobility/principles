@@ -58,7 +58,8 @@ In alphabetical order.
 - [MobilityData](http://mobilitydata.org)  
 - [National Rural Transit Assistance Program](https://www.nationalrtap.org/)  
 - Dr. Greg Newmark, Kansas State University*
-- [Open Mobility Foundation (OMF)](https://www.openmobilityfoundation.org/)
+- [Open Mobility Foundation (OMF)](https://www.openmobilityfoundation.org/)  
+- [OptiBus](http://www.optibus.com)  
 - Dr. David Porter, Oregon State University*  
 - [Remix by Via](http://remix.com)  
 - [RMI](http://rmi.org)  
