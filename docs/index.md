@@ -46,6 +46,7 @@ In alphabetical order.
 - [Cityway](https://cityway.io/)  
 - [Denver Regional Transportation District (RTD)](https://www.rtd-denver.com/)  
 - [ENTUR](https://entur.no/)  
+- [Full Path Technologies](http://fullpath.io)  
 - [Dr. Mark Hickman](https://researchers.uq.edu.au/researcher/2972), University of Queensland*  
 - [IBI Group](https://www.ibigroup.com)  
 - [Ito World](https://www.itoworld.com/)  
@@ -59,6 +60,7 @@ In alphabetical order.
 - Dr. Greg Newmark, Kansas State University*
 - [Open Mobility Foundation (OMF)](https://www.openmobilityfoundation.org/)
 - Dr. David Porter, Oregon State University*  
+- [Remix by Via](http://remix.com)  
 - [RMI](http://rmi.org)  
 - [Santa Rosa Citybus](https://srcity.org/1036/Transit-and-CityBus)  
 - Dr. Susan Shaheen, University of California, Berkeley*  
