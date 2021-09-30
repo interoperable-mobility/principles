@@ -46,7 +46,7 @@ In alphabetical order.
 - [Cityway](https://cityway.io/)  
 - [Denver Regional Transportation District (RTD)](https://www.rtd-denver.com/)  
 - [ENTUR](https://entur.no/)  
-- [Full Path Transit Technologies](http://fullpath.io)  
+- [Full Path Transit Technology](http://fullpath.io)  
 - [Dr. Mark Hickman](https://researchers.uq.edu.au/researcher/2972), University of Queensland*  
 - [IBI Group](https://www.ibigroup.com)  
 - [Ito World](https://www.itoworld.com/)  
