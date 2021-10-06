@@ -53,7 +53,7 @@ In alphabetical order.
 - [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)  
 - Juan Matute, University of California Los Angeles*  
 - [MetroTransit](http://metrotransit.org)  
-- [Metropolitan Transportation Commission (MTC)](http://bayareametro.org)  
+- [Metropolitan Transportation Commission (MTC)](http://bayareametro.gov)  
 - [Minnesota Department of Transportation](https://www.dot.state.mn.us/)  
 - [MobilityData](http://mobilitydata.org)  
 - [National Rural Transit Assistance Program](https://www.nationalrtap.org/)  
