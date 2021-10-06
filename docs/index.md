@@ -64,6 +64,7 @@ In alphabetical order.
 - [Remix by Via](http://remix.com)  
 - [RMI](http://rmi.org)  
 - [Santa Rosa Citybus](https://srcity.org/1036/Transit-and-CityBus)  
+- [Schedule Masters Inc.](http://themasterscheduler.com)  
 - Dr. Susan Shaheen, University of California, Berkeley*  
 - [Shared Use Mobility Center (SUMC)](https://sharedusemobilitycenter.org/)  
 - [Taskar Center for Accessible Technology](https://tcat.cs.washington.edu/)  
