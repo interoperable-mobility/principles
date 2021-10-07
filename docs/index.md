@@ -50,6 +50,7 @@ In alphabetical order.
 - [Dr. Mark Hickman](https://researchers.uq.edu.au/researcher/2972), University of Queensland*  
 - [IBI Group](https://www.ibigroup.com)  
 - [Ito World](https://www.itoworld.com/)  
+- [Kuba](https://www.kubapay.com/)  
 - [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)  
 - Juan Matute, University of California Los Angeles*  
 - [MetroTransit](http://metrotransit.org)  
