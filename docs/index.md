@@ -58,7 +58,8 @@ In alphabetical order.
 - [Minnesota Department of Transportation](https://www.dot.state.mn.us/)  
 - [MobilityData](http://mobilitydata.org)  
 - [National Rural Transit Assistance Program](https://www.nationalrtap.org/)  
-- Dr. Greg Newmark, Kansas State University*
+- Dr. Greg Newmark, Kansas State University*  
+- [Nevada County Connects](https://www.mynevadacounty.com/2257/Transit-Services)  
 - [Open Mobility Foundation (OMF)](https://www.openmobilityfoundation.org/)  
 - [OptiBus](http://www.optibus.com)  
 - Dr. David Porter, Oregon State University*  
