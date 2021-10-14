@@ -58,6 +58,7 @@ In alphabetical order.
 - [Minnesota Department of Transportation](https://www.dot.state.mn.us/)  
 - [MobilityData](http://mobilitydata.org)  
 - [National Rural Transit Assistance Program](https://www.nationalrtap.org/)  
+- [Natural Resources Defense Council](http://www.nrdc.org)  
 - Dr. Greg Newmark, Kansas State University*  
 - [Nevada County Connects](https://www.mynevadacounty.com/2257/Transit-Services)  
 - [Open Mobility Foundation (OMF)](https://www.openmobilityfoundation.org/)  
@@ -65,6 +66,7 @@ In alphabetical order.
 - Dr. David Porter, Oregon State University*  
 - [Remix by Via](http://remix.com)  
 - [RMI](http://rmi.org)  
+- [Santa Barbara Metropolitan Transit District](http://sbmtd.gov)  
 - [Santa Rosa Citybus](https://srcity.org/1036/Transit-and-CityBus)  
 - [Schedule Masters Inc.](http://themasterscheduler.com)  
 - Dr. Susan Shaheen, University of California, Berkeley*  
