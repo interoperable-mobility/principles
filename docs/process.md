@@ -1,15 +1,12 @@
 # Process
 
-!!! warning
-    This is a draft document.
-
 ## Initial Development
 
 The initial development of the Principles includes the following stages discussed below in more detail:
 
-1. [Admin Draft Process](#Admin_Draft_Process) (early summer 2021),  
-2. [Public Review Process](#Public_Review_Process) (late summer 2021),  
-3. [Version 1.0 Release](#Version_1.0_Process) (early fall 2021), and  
+1. [Admin Draft Process](#admin-draft-process) (early summer 2021),  
+2. [Public Review Process](#public-review-process) (late summer 2021),  
+3. [Version 1.0 Release](#version-1.0-process) (fall 2021), and  
 
 ### Admin Draft Process
 
@@ -25,18 +22,18 @@ More details about the admin draft review process can be found in the [Admin Dra
 
 ### Public Review Process
 
-[Current Phase]
-
 - 8/16 Final up/down on how individuals and organizations will appear on public release  
 - 8/20 Public launch of website  
-- 9/9  Public info session  [(register now)](https://us02web.zoom.us/meeting/register/tZIkcuygrj4qGNYoe9HRkAg_cxmWecRDma2t)  
-- 9/13 [Review comments](https://forms.gle/ZW3Uk9e7y8VWtre86) and [applications to be a co-author](https://forms.gle/ZW3Uk9e7y8VWtre86) due  
-- 9/15 Co-authors review incoming [comments/suggestions](https://forms.gle/ZW3Uk9e7y8VWtre86) on an ongoing basis, prioritizing those submitted by 9/13  
-- 9/15 Co-authors review [applications to be a co-author](https://forms.gle/ZW3Uk9e7y8VWtre86).  
+- 9/9  Public info session  ([presentation](https://docs.google.com/presentation/d/1oVGdACXboYDSOi4Cj0RbmXh69IY4K4DRhskBsjwzmBc/edit?usp=sharing))
+- 9/13 Review comments and applications to be a co-author due  
+- 9/15 Co-authors review comments/suggestions on an ongoing basis, prioritizing those submitted by 9/13  
+- 9/15 Co-authors review applications to be a co-author  
+- 10/24 Final language adopted by co-authors
+
+More details about the public draft review process can be found in the [Public Draft Review Process Summary](public_draft_review.md)  
 
 ### Version 1.0 Release Process
 
-- 9/16 Co-authors finalize v1.0 content  
 - 10/12 Finalize co-signatories and for v1.0 *Note that co-signatories can continue to be added after this date, but just wont be on initial press release)*  
 - ASAP after 10/12: Release of v1.0  
 - Late October: information session  
@@ -50,9 +47,6 @@ In addition to being an official co-author or cosignatory, we have identified th
 | Internal champion | Be an advocate for the Principles within your organization by using the community resources or developing your own. |  
 | |  If possible, work towards your organization co-signing the Principles. |  
 | |  [Let us know](https://forms.gle/PE5TjvFCjyq8xUub6) how we can support you and your organization to implement the Principles. |  
-| Reviewer | Review documents and resources and provide comments and feedback. |  
-| | [Submit comments here](https://forms.gle/Z2gqhD98fcV677Rt5) before September 13th |  
-| | (optional) Have your individual or organization’s name listed as a reviewer. |  
 | Contributor | Lead or support implementation resources. |  
 | | [Please indicate your interest](https://forms.gle/S73T6HeKn8qDLy7e7) before September 13th |  
 
@@ -60,6 +54,15 @@ In addition to being an official co-author or cosignatory, we have identified th
 
 Changes to the Principles will be evaluated by the co-authors on a regular basis.  If consensus cannot be reached among the co-authors, changes will be raised to a majority vote. Co-authors will consider that changes may affect the co-signers’ willingness to continue their support.  
 
-Ongoing management and leadership of the Principles is an ongoing discussion among the co-authors and co-signers as is a process by which to admit additional co-authors subsequent to the public-draft release.
+Ongoing management and leadership of the Principles is an ongoing discussion among the co-authors and co-signers.
+
+The co-authors have agreed upon the following process for the inclusion of new co-authors:
+
+1. New co-authors shall be accepted by application during an open call prior to the release of each version of the Mobility Data Interoperability Principles.  
+2. Co-authors must be institutions, transit agencies, or other non-profit organizations. Applications will not be accepted from for-profit companies, nor shall such companies be considered eligible to apply.  
+3. Upon receipt of an application from an eligible organization, the co-authors will schedule a vote on the question of admitting the organization as a co-author.  
+4. The initial question will be one of unanimous consent: if there are no objections to the admission of the applicant organization, the co-authors will formally move to accept the applicant organization as a co-author.  
+5. If there are objections, they will be stated and discussed.  
+6. If the question of admitting the applicant organization should be called again following the discussion of objections, the applicant organization may be admitted with a majority (50%+1 vote) of all co-authors voting in favor.  
 
 --8<-- "includes/glossary.md"
