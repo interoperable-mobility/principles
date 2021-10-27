@@ -74,4 +74,3 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.snippets
   - abbr
-  

@@ -9,4 +9,10 @@ MD007:
 MD013: false
 
 # need some html in some places!
-MD033: false 
+MD033: false
+
+# glossary.md needs to not have a header to work
+MD041: false
+
+# sometimes you want to increment headers by more than one
+MD001: false

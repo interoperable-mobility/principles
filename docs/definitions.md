@@ -18,7 +18,7 @@
 
      - Plan journeys (e.g.  journey planning applications),  
      - Provide mobility data to travelers (e.g. travel alerts, arrival predictions, LED signage, public address systems),  
-     - Conduct transactions between [mobility providers](#mobility_service_provider) and travelers (e.g. reservation requests, ticketing, payments, stop request buttons)   
+     - Conduct transactions between [mobility providers](#mobility_service_provider) and travelers (e.g. reservation requests, ticketing, payments, stop request buttons)  
      - Facilitate the duties of drivers, operators or other on-board staff (e.g. communications hardware or software, Mobile Data Terminals, tablets, driver interface software),  
      - Facilitate the duties of dispatch, supervisory, or scheduling staff (e.g. scheduling software, CAD/AVL software, SCADA, APC), and  
      - Manage the mobility system (e.g. performance reporting, shift selection, non-revenue schedules), and
@@ -36,7 +36,7 @@
 **Transportation System Manager**
 :   Any organization that:  
 
-     - Coordinates the service of multiple transit agencies or other [mobility service providers](#mobility_service_provider) (e.g. some MPOs, local governments, regional transit providers or state DOTs), 
+     - Coordinates the service of multiple transit agencies or other [mobility service providers](#mobility_service_provider) (e.g. some MPOs, local governments, regional transit providers or state DOTs),
      - Procures or regulates the services of a third-party [mobility service provider](#mobility_service_provider) (e.g. a local city contracting with a micro-mobility service),  
      - Maintains (or funds the maintenance of) physical infrastructure used by transit agencies or other [mobility service providers](#mobility_service_provider) to transport people (e.g. local, state or federal departments of transportation), or  
      - Receives legally mandated reports from transit providers in order to maintain service quality, safety, and efficiency (e.g. utilities oversight bodies, safety boards, or other government or nonprofit bodies).
@@ -47,11 +47,11 @@
 
      - Free from cost and restrictions to use,
      - Publicly documented in its entirety,
-     - Actively maintained by an independent organization whose business interests are not actually - and would not reasonably give the appearance of being potentially - impacted by the contents of the standard, 
+     - Actively maintained by an independent organization whose business interests are not actually - and would not reasonably give the appearance of being potentially - impacted by the contents of the standard,
      - Contains structured releases, versions, or changelogs, and
      - Has an open community of contributors and users, and transparent, inclusive governance.  
 
-     Examples include the General Transit Feed Specification (GTFS), Mobility Data Specification (MDS), and General Bikeshare Feed Specification (GBFS). 
+     Examples include the General Transit Feed Specification (GTFS), Mobility Data Specification (MDS), and General Bikeshare Feed Specification (GBFS).
 
 <a name="proposed_open_standard"></a>
 **Proposed Open Standard**
@@ -87,4 +87,3 @@
        - Tabular data schemas(i.e. csvs): [frictionless data table, data resource or data package](https://frictionlessdata.io/standards/)  
        - Tagged data schemas: [json-schema](https://json-schema.org/), or [XML schema definition](https://en.wikipedia.org/wiki/XML_Schema_(W3C))  
      - Uses structured releases, versions, or changelogs.  
-

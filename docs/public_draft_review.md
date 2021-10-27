@@ -14,15 +14,15 @@
 ### Feedback Excerpts
 
 > The definition of Mobility Technology Component is key and should be highlighted up front, as this defines which categories of data fields are necessary for interoperability - to efficiently provide inter-modal and/or multi-provider linked trips.  
-
+<br>
 > The 6th category, "Manage the mobility system (e.g. performance reporting, shift selection, non-revenue schedules)", is too broad.  
 > Performance Reporting is germane.  
 > Each mobility provider's internal processes, including shift selection and non-revenue schedules, are not germane.  
-
+<br>
 > Internal processes should be explicitly excluded from this effort.  This revision will encourage participation by the private sector.  
-
+<br>
 > The 4th and 5th categories should be more explicit and combined: "Facilitate communications and processes among the staff involved in providing rides (drivers, schedulers, dispatch and other on-board staff) involved in booking, assigning, providing and monitoring rides through hardware, software and protocols".  
-
+<br>
 > While older systems separate the scheduling, trip assignment, dispatch, and monitoring processes, these are combined by the newer dynamic real-time ride providers.
 
 ## What we heard
@@ -36,10 +36,10 @@
         Is the planning/modeling/analysis side of transportation within the scope of the Principles? There aren’t any examples in this realm.  
 === "Response"
     !!! summary ""
-        Planning, modeling, and analysis are included in the scope of the Principles, but _only to the extent that they are functions of an established stakeholder_. 
-        
+        Planning, modeling, and analysis are included in the scope of the Principles, but _only to the extent that they are functions of an established stakeholder_.
+
         For example, the Principles take into account the transit planning that takes place in the development of new schedules for an agency. There may likewise be modeling and analysis that is utilized to assess actual performance or the performance of potential alternatives. However, the _Principles do not at this stage include long-term planning activities like construction of new transportation facilities, nor does it include traffic volume analyses, traffic light analyses, or any modeling related to these._
-        
+
         These items were excluded from scope due to the feedback received during the Admin review period for the Principles, that a too-broad scope would significantly increase implementation challenges. Such items may be scoped in for a future version of the Principles.
 
 ### Implications of Principle 3
@@ -126,17 +126,18 @@ After several meetings, the co-authors concluded that equity was more properly a
         This is intentional at this stage. A more complete and comprehensive list will be developed as part of the implementation product: Mobility Dataverse.
 
 ## Changes made in response to Public Review Comments
+
 === "Concern"
     !!! quote "Benjie de la Pena, SUMC"
         SUMC suggests including community as key stakeholder of the Interoperability Principles. The current draft only considers transit agencies, mobility service providers, and individuals. The communities are not even contemplated. We suggest appending a sentence to the 5th principle or (our preference) adding a sixth principle.  
 
-        Option A Principle #5. 
+        Option A Principle #5.
         > All individuals should be empowered through high-quality, well-distributed mobility data to find, access, and utilize high-quality mobility options that meet their needs as they see fit, while maintaining their privacy. Communities should then have access to the data necessary to advocate for a more equitable society and a more sustainable environment and economy.  
 
-        Option B Principle #6. 
+        Option B Principle #6.
         > All communities should be empowered through high-quality, verified, and accessible mobility data, to analyze and understand the impacts of transportation systems on the well-being of society and the environment. They should have access to data necessary to advocate for a more equitable society and a more sustainable environment and economy.
     !!! quote "Jamie M. Fischer"
-        The document mentions "equity" in a couple places, but this important theme should be strengthened throughout. Consideration should be added for social equity across demographic groups and equity in the transportation technology marketplace. 
+        The document mentions "equity" in a couple places, but this important theme should be strengthened throughout. Consideration should be added for social equity across demographic groups and equity in the transportation technology marketplace.
     !!! quote "Albert Kochaphum"
         I would like for there to be an equity part of the interoperability principles, similar to the idea of data justice, where the focus just isn't on keeping data open and transparent, but also anti-discrimination of who gets access to use this information and on which platforms.
 === "Response"  
@@ -176,7 +177,7 @@ After several meetings, the co-authors concluded that equity was more properly a
         Received, thank you.
 === "Action"
     !!! check "Modifications made"
-        Grammar and punctuation updated based on recommendations. 
+        Grammar and punctuation updated based on recommendations.
 <br>
 === "Concern"
     !!! quote "Drew Dara-Abrams, Interline"
@@ -295,7 +296,7 @@ In addition to the co-authors and co-signatories, the public draft was distribut
 - Steve Yaffe, Yaffe Mobility Consulting
 - Sean Holman
 - Albert Kochaphum, LA Metro
-- Jamie M. Fischer, State of Georgia's Mobility Authorities 
+- Jamie M. Fischer, State of Georgia's Mobility Authorities
 - Audrey Denis, Cubic
 - Steve White, GMV/Synchromatics Inc.
 
@@ -338,11 +339,11 @@ Ultimately, the group came to an agreement that despite concerns around individu
 
 The meeting concluded with the Co-Authors moving without objection to present the following changes to the full Co-Author group (Edits in bold):
 
-1. Amend the Purpose statement to read:
+- Amend the Purpose statement to read:
 
  > The purpose of the Mobility Data Interoperability Principles is to foster a transit industry where mobility data flows freely and securely between systems, between operators, and between providers and the riding public, empowering transit agencies and other mobility service providers and transportation system managers to provide better service, improve the customer experience, **and promoting equity and sustainability.**
 
-2. Amend Principle 5 to read:
+- Amend Principle 5 to read:
 
 > All individuals **and members of the public** should be empowered through high-quality, well-distributed mobility data to find, access, and utilize high-quality mobility options that meet their needs as they see fit, while maintaining their privacy.
 
