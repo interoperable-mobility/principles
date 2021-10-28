@@ -1,4 +1,4 @@
-# Mobility Data Interoperability Principles <span class="version-tag">v1.0</span>
+# Mobility Data Interoperability Principles
 
 !!! check ""
     [Co-signer form](https://forms.gle/TW5f25cUR12GTiCB6) can be submitted on an ongoing basis.
@@ -9,7 +9,7 @@ Interoperable transit technology systems enable transit providers to plan servic
 
 The Mobility Data Interoperability Principles, currently in a public draft form, create an industry-agreed upon vision, definition and direction for achieving interoperability with clear roles and responsibilities.  The Draft Principles were collaboratively developed among transit agencies, supporting mobility service providers, local, regional and national governmental bodies, and civil society organizations and are available for public comment and review through September 13th.  
 
-The Principles are co-authored by (in alphabetical order) the California Association of Coordinated Transportation, California Integrated Travel Project, Denver Regional Transportation District,  ENTUR, Massachusetts Bay Transportation Authority, Metro Transit (MN), the Metropolitan Transportation Commission, MobilityData, the Shared Use Mobility Center, the Taskar Center for Acessible Technology, Tri-Met, VIA Metropolitan Transit San Antonio, and Washington State Department of Transportation Public Transportation Division.  
+The Principles are co-authored by (in alphabetical order) the California Association of Coordinated Transportation, California Integrated Travel Project, Denver Regional Transportation District,  ENTUR, Massachusetts Bay Transportation Authority, Metro Transit (MN), the Metropolitan Transportation Commission, MobilityData, the Shared Use Mobility Center, the Taskar Center for Accessible Technology, Tri-Met, VIA Metropolitan Transit San Antonio, and Washington State Department of Transportation Public Transportation Division.  
 
 ## Purpose
 
