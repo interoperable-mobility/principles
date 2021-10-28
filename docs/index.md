@@ -49,6 +49,7 @@ In alphabetical order.
 - [Full Path Transit Technology](http://fullpath.io)  
 - [Dr. Mark Hickman](https://researchers.uq.edu.au/researcher/2972), University of Queensland*  
 - [IBI Group](https://www.ibigroup.com)  
+- [INIT](https://www.initse.com)  
 - [Ito World](https://www.itoworld.com/)  
 - [Kuba](https://www.kubapay.com/)  
 - [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)  
