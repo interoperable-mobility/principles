@@ -44,6 +44,7 @@ In alphabetical order.
 - Dr. Andre Carrel, The Ohio State University*  
 - Dr. Giovanni Circella, University of California Davis*  
 - [Cityway](https://cityway.io/)  
+- [Clever Devices](https://cleverdevices.com)  
 - [Denver Regional Transportation District (RTD)](https://www.rtd-denver.com/)  
 - [ENTUR](https://entur.no/)  
 - [Full Path Transit Technology](http://fullpath.io)  
