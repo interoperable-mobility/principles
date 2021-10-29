@@ -84,34 +84,7 @@ Signatories will be asked to formally indicate support following v1.0 being froz
 
 ## Co-Authors
 
-*In alphabetical order.*
-
-![CalActlogo](img/calact.png)  
-California Association of Coordinated Transportation  (CALACT)  
-![CalITP logo](img/calitp.png)  
-California Integrated Travel Project (Cal-ITP)  
-![RTD logo](img/rtd.png)  
-Denver Regional Transportation District (RTD)  
-![ENTUR logo](img/entur.png)  
-ENTUR  
-![T logo](img/mbta.png)  
-Massachusetts Bay Transportation Authority (MBTA)  
-![Metro Transit logo](img/metrotransit.png)  
-[MetroTransit](http://metrotransit.org)  
-![MTC logo](img/mtc.png)  
-Metropolitan Transportation Commission (MTC)  
-![MobilityData Logo](img/mobilitydata.png)  
-MobilityData  
- ![Taskar Center Logo](img/taskar.png)  
-[Taskar Center for Accessible Technology](https://tcat.cs.washington.edu/)  
-![TriMet logo](img/trimet.png)  
-[Tri-Met](https://trimet.org/)  
-![Via logo](img/via.png)  
-VIA Metropolitan Transit San Antonio  
-![WSDOT logo](img/wsdot.png)  
-Washington State Department of Transportation (WSDOT) Public Transportation Division  
-![SUMC Logo](img/sumc.png)  
-Shared Use Mobility Center (SUMC)  
+--8<-- "includes/co-authors-logo-grid.html"
 
 You can find out more information about becomeing a co-signer or supporting the Principles by reviewing the [support](support.md) section.
 

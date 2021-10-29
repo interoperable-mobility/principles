@@ -46,7 +46,7 @@ p, a, li {
 
 .md-grid {
     max-width: initial;
-  }
+}
 
 .version-tag {
     background-color: #ffff; /* Green */
@@ -58,4 +58,29 @@ p, a, li {
     font-size: 16px;
     margin: 4px 2px;
     border-radius: 4px;
-  }
+}
+
+.logo-grid {
+    display: grid;
+    gap: 1rem;
+}
+
+.logo-grid__item {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+@media (min-width: 768px) {
+    .logo-grid {
+        gap: 2rem;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 992px) {
+    .logo-grid {
+        gap: 2rem 1rem;
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
