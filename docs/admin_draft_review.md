@@ -1,4 +1,4 @@
-# Admin Review Instructions
+# Admin Draft Review
 
 The Admin draft of the Mobility Data Interoperability Principles was developed as part of the California Integrated Travel Project (Cal-ITP), a joint project of Caltrans, CalSTA and CCJPA to respond to common needs across transit stakeholders in California...but which aren't unique to California.  
 
@@ -150,11 +150,11 @@ The members of public transit, transportation system managers, academic research
 
 Categorization (1) |  Non responsive / Not involved (2) |  Private reviewer (3) |  Public reviewer | Co-signer| Co-author |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| Public Transit Provider | tk | tk | tk | tk | tk |
-| Non-profits | tk | tk | tk | tk | tk |
-| Federal + State Organizations | tk | tk | tk | tk | tk |
-| Regional + Local Government | tk | tk | tk | tk | tk |
-| Academia | tk | tk | tk | tk | tk |
+| Public Transit Provider | 31 | 7 | 1 | 5 | 5 |
+| Non-profits | 5 | 0 | 1 | 3 | 3 |
+| Federal + State Organizations | 3 | 0 | 2 | 2 | 3 |
+| Regional + Local Government | 0 | 0 | 2 | 0 | 1 |
+| Academia | 10 | 0 | 0 | 6 | 0|
 
 (1) Some organizations could realistically be categorized in multiple categories, but for simplicity of this table were only captured in one so that the cells are additive.  
 (2) Some of the unresponsiveness was likely due to invitations not finding the correct recipient within an organization.  
@@ -162,7 +162,7 @@ Categorization (1) |  Non responsive / Not involved (2) |  Private reviewer (3) 
 
 ### Public Reviewers
 
-(in addition to the co-authors and co-signers)
+(in addition to the [co-authors] and [co-signers])
 
 - [San Francisco County Transportation Authority (SFCTA)](http://www.sfcta.org)  
 - [Transit Center](http://www.transitcenter.org)  

@@ -1,4 +1,4 @@
-site_name: "Interoperable Mobility Data Principles"
+site_name: "Mobility Data Interoperability Principles"
 site_url: https://interoperable-mobility.github.io/principles
 repo_url: https://github.com/interoperable-mobility/principles
 edit_uri: edit/main/docs
@@ -9,6 +9,7 @@ nav:
     - Implementation: implementation.md
     - Support: support.md
     - Process: process.md
+    - Resources: resources.md
     - Details: definitions.md
 
 theme:
@@ -74,4 +75,3 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.snippets
   - abbr
-  

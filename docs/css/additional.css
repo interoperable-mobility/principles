@@ -43,3 +43,19 @@ p, a, li {
 .md-typeset.logo img {
     height: 200;
 }
+
+.md-grid {
+    max-width: initial;
+  }
+
+.version-tag {
+    background-color: #ffff; /* Green */
+    border: none;
+    color: #2094f3;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 4px;
+  }

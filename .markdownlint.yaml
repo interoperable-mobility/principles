@@ -7,3 +7,12 @@ MD007:
 
 # Remove line length limit - no one wants to hard wrap all their paragraphs
 MD013: false
+
+# need some html in some places!
+MD033: false
+
+# glossary.md needs to not have a header to work
+MD041: false
+
+# sometimes you want to increment headers by more than one
+MD001: false
