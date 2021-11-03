@@ -35,6 +35,7 @@ In alphabetical order.
 
 - [California Association of Coordinated Transportation (CALACT)](http://calact.org)  
 - [California Integrated Travel Project (Cal-ITP)](http://calitp.org)  
+- [Cambridge Systematics Inc.](http://camsys.software/)  
 - [Capitol Corridor Joint Powers Authority (CCJPA)](http://capitolcorridor.org)  
 - Dr. Andre Carrel, The Ohio State University\*  
 - Dr. Giovanni Circella, University of California Davis\*  
@@ -43,6 +44,7 @@ In alphabetical order.
 - [Denver Regional Transportation District (RTD)](https://www.rtd-denver.com/)  
 - [ENTUR](https://entur.no/)  
 - [Full Path Transit Technology](http://fullpath.io)  
+- [Fundapi](fundapi.org)  
 - [Dr. Mark Hickman](https://researchers.uq.edu.au/researcher/2972), University of Queensland\*  
 - [IBI Group](https://www.ibigroup.com)  
 - [INIT](https://www.initse.com)  
@@ -61,6 +63,7 @@ In alphabetical order.
 - [Open Mobility Foundation (OMF)](https://www.openmobilityfoundation.org/)  
 - [OptiBus](http://www.optibus.com)  
 - Dr. David Porter, Oregon State University*  
+- [Roadify Transit](https://www.roadify.com/)  
 - [Remix by Via](http://remix.com)  
 - [RMI](http://rmi.org)  
 - [Santa Barbara Metropolitan Transit District](http://sbmtd.gov)  
