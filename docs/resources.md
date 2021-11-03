@@ -33,5 +33,5 @@ The Mobility Data Interoperability Principles Co-Authors are please to announce 
 
 ## Media
 
-- Press release (forthcoming)  
+- [Press release - Nov 3 2021](https://drive.google.com/file/d/1qyX-6KcTevW4oP-1pIUMwzYcKoRtramw/view?usp=sharing)  
 - Media contact: [Scott Frazier](mailto: scott@compiler.la)  
