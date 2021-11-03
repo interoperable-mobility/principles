@@ -1,7 +1,5 @@
 # Context
 
-v1.0
-
 The Mobility Data Interoperability Principles were developed by the [co-authors](index.md#co-authors) with significant input from [co-signers](index.md#co-signers) and generous reviewers in support of a common vision for [interoperability](definitions.md#interoperability). Additional information about the development process and implementation can be found in its respective section.  
 
 ## Background
@@ -89,12 +87,8 @@ Interoperability is also the only way to progressively build the mobility ecosys
 
 The Mobility Data Interoperability Principles will help the transit industry and other mobility service providers move toward interoperability by encouraging the adoption and implementation of adopted and proposed open standards originating within the industry itself. The Mobility Data Interoperability Principles will clearly designate the roles that mobility providers and transportation tech companies must play in order to achieve interoperability. The Mobility Data Interoperability Principles will also serve as a benchmark for measuring individual organization’s commitment to achieving interoperability.
 
-## Additional Reviewers
+## How were the Principles developed?
 
-**Note that some reviewers are not public at this time do to organizational permissions processes.  Accordingly, this list will grow as approvals are made.**
-
-- [San Francisco County Transportation Authority (SFCTA)](http://www.sfcta.org)  
-- [Transit Center](http://www.transitcenter.org)  
-_ ##TODO
+The Principles were initially developed in Summer and Fall of 2021 using a collaborative and public process which involved several dozen public organizations, non-governmental organizations, academics, and private industry.  More detailed information can be found on the [process](process.md) page.  
 
 --8<-- "includes/glossary.md"

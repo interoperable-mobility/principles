@@ -2,7 +2,7 @@
 
 ## Initial Development
 
-The initial development of the Principles includes the following stages discussed below in more detail:
+The initial development which resulted in version 1.0 of the Principles included the following stages – each discussed below in more detail:
 
 1. [Admin Draft Process](#admin-draft-process) (early summer 2021),  
 2. [Public Review Process](#public-review-process) (late summer 2021),  
@@ -35,8 +35,8 @@ More details about the public draft review process can be found in the [Public D
 ### Version 1.0 Release Process
 
 - 10/12 Finalize co-signatories and for v1.0 *Note that co-signatories can continue to be added after this date, but just wont be on initial press release)*  
-- ASAP after 10/12: Release of v1.0  
-- Late October: information session  
+- Late October: Release of v1.0  
+- Earlh November: information session  
 
 ### How can I participate?
 
