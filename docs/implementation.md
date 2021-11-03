@@ -4,11 +4,7 @@ The following table defines the implementation responsibilities, agreed to by th
 
 ### \>> [mobility technology components](definitions.md#mobility_technology_component) shall  
 
-[open standards](definitions.md#open_standard)
-[mobility data](definitions.md#mobility_data)
-[mobility service providers](definitions.md#mobility_service_provider)
-
-- [x]  Explicitly state that transit agencies or other [mobility service providers](definitions.md#mobility_service_provider) own [mobility data](definitions.md#mobility_data)produced by their respective mobility technology components.  
+- [x]  Explicitly state that transit agencies or other [mobility service providers](definitions.md#mobility_service_provider) own [mobility data](definitions.md#mobility_data) produced by their respective mobility technology components.  
 - [x]  Utilize current or proposed open standards (along with associated best practices) to receive, process, store and export [mobility data](definitions.md#mobility_data).  
 - [x]  Where neither open standards nor proposed open standards are yet available, data schemas and APIs to receive, process, store and export [mobility data](definitions.md#mobility_data) shall be compatible with [open standards](definitions.md#open_standard) and/or proposed open standards, free from cost and restrictions to use, and posted to a public website in human- and the appropriate language-neutral, machine-readable format.  
 - [x]  Allow transit agencies and other [mobility service providers](definitions.md#mobility_service_provider) to, free from cost and without restrictions, download, distribute and publish data owned by that agency or service provider in a well-documented format.  
@@ -19,7 +15,7 @@ The following table defines the implementation responsibilities, agreed to by th
 
 - [x]  Collaboratively develop and adopt [open standards](definitions.md#open_standard) where gaps currently exist.  
 
-### \>> [Transportation technology companies](definitions.md#transportation_technology_company)" shall  
+### \>> [Transportation technology companies](definitions.md#transportation_technology_company) shall  
 
 - [x]  Ensure the products they provide to transit providers are consistent with the Principles.
 
