@@ -4,7 +4,9 @@ Public Transit, and the mobility services which support it, is a critical backbo
 
 Interoperable transit technology systems enable transit providers to plan service which is responsive to rider needs, improve service quality and efficiency, and adapt to continuing changes.  Interoperability also encourages innovation among transportation technology companies while helping them to contain costs.
 
-The [Mobility Data Interoperability Principles](https://interoperable-mobility.github.io/principles), currently in a public draft form, create an industry-agreed upon vision, definition and direction for achieving interoperability with clear roles and responsibilities.  The Draft Principles were collaboratively developed among transit agencies, supporting mobility service providers, local, regional and national governmental bodies, and civil society organizations and are available for public comment and review through September 13th.  
+Released in October 2021 after a collaborative public process, [Mobility Data Interoperability Principles](http:interoperablemobility.org) create an industry-agreed upon vision, definition and direction for achieving interoperability with clear roles and responsibilities. The Principles were collaboratively developed and refined over Summer and Fall of 2021 by dozens of public and private organizations and researchers through a public review process.  
+
+Over thirty public and private signatories have committed to implementing the Principles.  Organizations who are interested in publicly committing to the Principles and their faithful implementation can submit the form found at: [Mobility Data Interoperability Principles](http://interoperablemobility.org).  
 
 ## Attribution
 
