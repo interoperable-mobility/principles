@@ -91,6 +91,6 @@ Signatories will be asked to formally indicate support following v1.0 being froz
 
 --8<-- "includes/co-authors-logo-grid.html"
 
-You can find out more information about becomeing a co-signer or supporting the Principles by reviewing the [support](support.md) section.
+You can find out more information about becoming a co-signer or supporting the Principles by reviewing the [support](support.md) section.
 
 --8<-- "includes/glossary.md"
