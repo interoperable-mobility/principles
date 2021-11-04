@@ -25,11 +25,11 @@ The Principles are co-authored by (in alphabetical order) the California Associa
 
 ### Shorter Overview
 
-The [Mobility Data Interoperability Principles](http://interoperablemobility.org) provide clear objectives and implementation actions for the public and private sector in order to make the critical connection between transit technology systems and better service.  Officially released in October 2021 at [http://interoperablemobility.org](http://interoperablemobility.org), the Principles were developed collaboratively by dozens of public and private organizations and researchers and are supported by over thirty signatories, who have committed to their implementation.  
+The [Mobility Data Interoperability Principles](http://interoperablemobility.org) provide clear objectives and implementation actions for the public and private sectors in order to make the critical connection between transit technology systems and better service.  Officially released in October 2021 at [http://interoperablemobility.org](http://interoperablemobility.org), the Principles were developed collaboratively by dozens of public and private organizations and researchers and are supported by over thirty signatories, who have committed to their implementation.  
 
 ## Announcements
 
-The Mobility Data Interoperability Principles Co-Authors are please to announce the publication of v1.0 of the Mobility Data Interoperability Principles and commitment of over 40 public and private organizations to their faithful implementation. The Mobility Data Interoperability Principles provide clear objectives and implementation actions for the public and private sector in order to make the critical connection between transit technology systems and better service. The Principles, implementation commitments, and information about becomeing a co-signatory can be found at: [http://interoperablemobility.org](http://interoperablemobility.org).  
+The Mobility Data Interoperability Principles Co-Authors are please to announce the publication of v1.0 of the Mobility Data Interoperability Principles and commitment of over 40 public and private organizations to their faithful implementation. The Mobility Data Interoperability Principles provide clear objectives and implementation actions for the public and private sectors in order to make the critical connection between transit technology systems and better service. The Principles, implementation commitments, and information about becomeing a co-signatory can be found at: [http://interoperablemobility.org](http://interoperablemobility.org).  
 
 ## Media
 
