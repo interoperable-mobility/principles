@@ -36,7 +36,7 @@ theme:
 extra:
   analytics:
     provider: google
-    property: G-SZB618VNBZ
+    property: G-E6EQB94P7M
 
 plugins:
   - search
