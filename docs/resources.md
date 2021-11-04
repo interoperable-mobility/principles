@@ -29,7 +29,7 @@ The [Mobility Data Interoperability Principles](http://interoperablemobility.org
 
 ## Announcements
 
-The Mobility Data Interoperability Principles Co-Authors are please to announce the publication of v1.0 of the Mobility Data Interoperability Principles and commitment of over 40 public and private organizations to their faithful implementation. The Mobility Data Interoperability Principles provide clear objectives and implementation actions for the public and private sectors in order to make the critical connection between transit technology systems and better service. The Principles, implementation commitments, and information about becoming a co-signatory can be found at: [http://interoperablemobility.org](http://interoperablemobility.org).  
+The Mobility Data Interoperability Principles Co-Authors are pleased to announce the publication of v1.0 of the Mobility Data Interoperability Principles and commitment of over 40 public and private organizations to their faithful implementation. The Mobility Data Interoperability Principles provide clear objectives and implementation actions for the public and private sectors in order to make the critical connection between transit technology systems and better service. The Principles, implementation commitments, and information about becoming a co-signatory can be found at: [http://interoperablemobility.org](http://interoperablemobility.org).  
 
 ## Media
 
