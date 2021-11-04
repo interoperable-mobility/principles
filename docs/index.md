@@ -15,7 +15,7 @@ The Principles are co-authored by (in alphabetical order) the California Associa
 
 ## Purpose
 
-The purpose of the Mobility Data Interoperability Principles is to foster a transit industry where [mobility data](definitions.md#mobility_data) flows freely and securely between systems](definitions.md#mobility_technology_system), between operators, and between providers and the riding public, **empowering transit agencies and other [mobility service providers](definitions.md#mobility_service_provider) and [transportation system managers](definitions.md#transportation_system_manager) to provide better service, improve the customer experience, and build systems that are equitable and sustainable.**
+The purpose of the Mobility Data Interoperability Principles is to foster a transit industry where [mobility data](definitions.md#mobility_data) flows freely and securely between [systems](definitions.md#mobility_technology_system), between operators, and between providers and the riding public, **empowering transit agencies and other [mobility service providers](definitions.md#mobility_service_provider) and [transportation system managers](definitions.md#transportation_system_manager) to provide better service, improve the customer experience, and build systems that are equitable and sustainable.**
 
 ## Principles
 
