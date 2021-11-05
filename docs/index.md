@@ -51,6 +51,7 @@ In alphabetical order.
 - [Ito World](https://www.itoworld.com/)  
 - [Kuba](https://www.kubapay.com/)  
 - [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)  
+- [Method.city](https://method.city/)  
 - Juan Matute, University of California Los Angeles*  
 - [MetroTransit](http://metrotransit.org)  
 - [Metropolitan Transportation Commission (MTC)](http://bayareametro.gov)  
@@ -76,6 +77,7 @@ In alphabetical order.
 - [Transit App](http://transitapp.com)  
 - [Tri-Met](https://trimet.org/)  
 - [Trillium Solutions](https://trilliumtransit.com/)  
+- [UrbanLabs](https://urbanlabs.io)  
 - [VIA Metropolitan Transit San Antonio](https://www.viainfo.net/)  
 - [Washington State Department of Transportation (WSDOT)](https://wsdot.wa.gov/)  
 - [WINI Technologies](http://www.winitechnologies.com/)  
