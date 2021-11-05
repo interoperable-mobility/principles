@@ -84,3 +84,13 @@ p, a, li {
         grid-template-columns: repeat(4, 1fr);
     }
 }
+
+body[data-md-color-scheme="slate"] .show-light-mode,
+body[data-md-color-scheme="default"] .show-dark-mode {
+    display: none;
+}
+
+body[data-md-color-scheme="default"] .show-light-mode,
+body[data-md-color-scheme="slate"] .show-dark-mode {
+    display: unset;
+}
