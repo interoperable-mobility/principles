@@ -69,6 +69,7 @@ In alphabetical order.
 - [Santa Barbara Metropolitan Transit District](http://sbmtd.gov)  
 - [Santa Rosa Citybus](https://srcity.org/1036/Transit-and-CityBus)  
 - [Schedule Masters Inc.](http://themasterscheduler.com)  
+- [Seattle Department of Transportation](https://www.seattle.gov/transportation)  
 - Dr. Susan Shaheen, University of California, Berkeley*  
 - [Shared Use Mobility Center (SUMC)](https://sharedusemobilitycenter.org/)  
 - [Taskar Center for Accessible Technology](https://tcat.cs.washington.edu/)  
