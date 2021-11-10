@@ -51,6 +51,7 @@ In alphabetical order.
 - [Interline](https://interline.io)  
 - [Ito World](https://www.itoworld.com/)  
 - [Kuba](https://www.kubapay.com/)  
+- [Littlepay](https://littlepay.com/)  
 - [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)  
 - [Method.city](https://method.city/)  
 - Juan Matute, University of California Los Angeles*  
