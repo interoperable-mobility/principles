@@ -83,6 +83,7 @@ In alphabetical order.
 - [Shared Use Mobility Center (SUMC)](https://sharedusemobilitycenter.org/)  
 - [Taskar Center for Accessible Technology](https://tcat.cs.washington.edu/)  
 - [Transit App](http://transitapp.com)  
+- [TransitOPS](https://transitops.co/)  
 - [Tri-Met](https://trimet.org/)  
 - [Trillium Solutions](https://trilliumtransit.com/)  
 - [UrbanLabs](https://urbanlabs.io)  
