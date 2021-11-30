@@ -52,6 +52,7 @@ In alphabetical order.
 - [Ito World](https://www.itoworld.com/)  
 - [Kuba](https://www.kubapay.com/)  
 - [Littlepay](https://littlepay.com/)  
+- [Los Angeles Department of Transportation](https://ladot.lacity.org/)  
 - [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)  
 - [Method.city](https://method.city/)  
 - Juan Matute, University of California Los Angeles*  
