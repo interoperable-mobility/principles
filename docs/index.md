@@ -3,7 +3,7 @@
 !!! tip "Public Town Hall December 9th 2021"
     Interested in learning more about the Principles and discussing their implementation with the community?  
 
-    [Sign up for the Mobility Data Interoperability Principles Public Town Hall](https://us02web.zoom.us/meeting/register/tZ0td-6upjMuGtIxsQJMVB92fKvgpIa9XDea): Thursday December 9th at 11AM PST/2PM EST.
+    [Learn about the Mobility Data Interoperability Principles Public Town Hall](townhall.md): Thursday December 9th at 11AM PST/2PM EST.
 
 !!! check ""
     [Co-signer form](https://forms.gle/TW5f25cUR12GTiCB6) can be submitted on an ongoing basis.

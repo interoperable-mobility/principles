@@ -34,9 +34,9 @@ More details about the public draft review process can be found in the [Public D
 
 ### Version 1.0 Release Process
 
-- 10/12 Finalize co-signatories and for v1.0 *Note that co-signatories can continue to be added after this date, but just wont be on initial press release)*  
+- 10/12 Finalize co-signatories and for v1.0 Release
 - Late October: Release of v1.0  
-- Earlh November: information session  
+- 12/09: [Town Hall](townhall.md)
 
 ### How can I participate?
 
