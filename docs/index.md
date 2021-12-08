@@ -38,6 +38,7 @@ The undersigned organizations and individuals support the following Mobility Dat
 
 In alphabetical order.  
 
+- [Actionfigure](https://actionfigure.ai/)  
 - [California Association of Coordinated Transportation (CALACT)](http://calact.org)  
 - [California Integrated Travel Project (Cal-ITP)](http://calitp.org)  
 - [Cambridge Systematics Inc.](http://camsys.software/)  
@@ -46,15 +47,22 @@ In alphabetical order.
 - Dr. Giovanni Circella, University of California Davis\*  
 - [Cityway](https://cityway.io/)  
 - [Clever Devices](https://cleverdevices.com)  
+- [Junia BM Compostella](https://3rev.ucdavis.edu/people/junia-compostella), Individual
+- [Cubic](http://cubic.com)  
+- [DemandTrans](http://demandtrans.com)
 - [Denver Regional Transportation District (RTD)](https://www.rtd-denver.com/)  
 - [ENTUR](https://entur.no/)  
 - [Full Path Transit Technology](http://fullpath.io)  
 - [Fundapi](fundapi.org)  
 - [Dr. Mark Hickman](https://researchers.uq.edu.au/researcher/2972), University of Queensland\*  
+- [Hevo Power](http://hevopower.com)  
+- Sean Holman, Individual  
+- Tiffany Huang, Individual  
 - [IBI Group](https://www.ibigroup.com)  
 - [Interline](https://interline.io)  
 - [Ito World](https://www.itoworld.com/)  
 - [Kuba](https://www.kubapay.com/)  
+- Albert Kochaphum, Individual  
 - [Littlepay](https://littlepay.com/)  
 - [Los Angeles Department of Transportation](https://ladot.lacity.org/)  
 - [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)  
@@ -89,6 +97,7 @@ In alphabetical order.
 - [VIA Metropolitan Transit San Antonio](https://www.viainfo.net/)  
 - [Washington State Department of Transportation (WSDOT)](https://wsdot.wa.gov/)  
 - [WINI Technologies](http://www.winitechnologies.com/)  
+- [Yaffe Mobility Consulting](http://ymobility.info)  
 
 *Affiliation for identification purposes only
 
