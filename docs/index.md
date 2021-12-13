@@ -54,6 +54,7 @@ In alphabetical order.
 - [ENTUR](https://entur.no/)  
 - [Full Path Transit Technology](http://fullpath.io)  
 - [Fundapi](http://fundapi.org)  
+- [Garnet Consulting](http://www.garnetconsultingpdx.com)  
 - [Dr. Mark Hickman](https://researchers.uq.edu.au/researcher/2972), University of Queensland\*  
 - [Hevo Power](http://hevopower.com)  
 - Sean Holman, Individual  
