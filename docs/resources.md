@@ -1,5 +1,9 @@
 # Resources
 
+## Meeting Recordings
+
+- [December 9th 2021 Town Hall Meeting](https://drive.google.com/file/d/18ugBITxvdivvMREE3FgusD0-eZ90O4b6/view?usp=sharing)  
+
 ## Presentations
 
 - [General Overview Presentation](https://docs.google.com/presentation/d/19tGKS7IE2L70pr51QoVsDpjfMvihH4-6QyT1P0xtNDE/edit?usp=sharing)  

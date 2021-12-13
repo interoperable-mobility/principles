@@ -1,9 +1,9 @@
 # Mobility Data Interoperability Principles
 
-!!! tip "Public Town Hall December 9th 2021"
-    Interested in learning more about the Principles and discussing their implementation with the community?  
+!!! tip "Watch the December Public Town Hall"
+    Interested in learning more about the Principles and discussing their implementation with the community?  The co-author coalition held a Town Hall meeting on December 9th, 2021.
 
-    [Learn about the Mobility Data Interoperability Principles Public Town Hall](townhall.md): Thursday December 9th at 11AM PST/2PM EST.
+    [You can now watch the full meeting here](resources.md#meeting-recordings).
 
 !!! check ""
     [Co-signer form](https://forms.gle/TW5f25cUR12GTiCB6) can be submitted on an ongoing basis.
@@ -53,7 +53,7 @@ In alphabetical order.
 - [Denver Regional Transportation District (RTD)](https://www.rtd-denver.com/)  
 - [ENTUR](https://entur.no/)  
 - [Full Path Transit Technology](http://fullpath.io)  
-- [Fundapi](fundapi.org)  
+- [Fundapi](http://fundapi.org)  
 - [Dr. Mark Hickman](https://researchers.uq.edu.au/researcher/2972), University of Queensland\*  
 - [Hevo Power](http://hevopower.com)  
 - Sean Holman, Individual  
