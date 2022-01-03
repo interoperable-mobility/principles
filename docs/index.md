@@ -39,6 +39,7 @@ The undersigned organizations and individuals support the following Mobility Dat
 In alphabetical order.  
 
 - [Actionfigure](https://actionfigure.ai/)  
+- [Avail Technologies, Inc.](availtec.com)  
 - [California Association of Coordinated Transportation (CALACT)](http://calact.org)  
 - [California Integrated Travel Project (Cal-ITP)](http://calitp.org)  
 - [Cambridge Systematics Inc.](http://camsys.software/)  
@@ -47,8 +48,10 @@ In alphabetical order.
 - Dr. Giovanni Circella, University of California Davis\*  
 - [Cityway](https://cityway.io/)  
 - [Clever Devices](https://cleverdevices.com)  
-- [Junia BM Compostella](https://3rev.ucdavis.edu/people/junia-compostella), Individual
+- [Junia BM Compostella](https://3rev.ucdavis.edu/people/junia-compostella), Individual  
+- [Conveyal LLC](http://conveyal.com)  
 - [Cubic](http://cubic.com)  
+- [Data Transport](https://data-transport.org/)  
 - [DemandTrans](http://demandtrans.com)
 - [Denver Regional Transportation District (RTD)](https://www.rtd-denver.com/)  
 - [ENTUR](https://entur.no/)  
