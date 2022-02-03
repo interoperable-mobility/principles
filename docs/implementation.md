@@ -45,7 +45,7 @@ The following resources will be available alongside version 1.0 (or soon after i
 | [Policy-oriented single slide](https://docs.google.com/presentation/d/1dJ4_z4XBpPzZp8eE-2JWvT1l8F0qkB0m67mVuogUI2k/edit?usp=sharing) | Policy summary points for inclusion in update presentations to high up decision-makers. |
 | [Overview Presentation](https://docs.google.com/presentation/d/19tGKS7IE2L70pr51QoVsDpjfMvihH4-6QyT1P0xtNDE/edit?usp=sharing) | More detailed overview of Principles and process. |
 
-| Fall 2021 | |
+| 2022 | |
 | :--- | :--- |
 | Model Procurement Language | Menu of actionable language to include based on various situations. |
 | Grants and funding language | For funding organizations to address similar issues with procurement language. |
