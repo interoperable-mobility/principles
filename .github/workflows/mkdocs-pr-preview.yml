@@ -33,7 +33,7 @@ jobs:
       - name: Deploy Preview to Netlify
         run: |
           netlify deploy \
-            --dir="docs/_build/html" \
+            --dir="site" \
             --alias="${GITHUB_REPOSITORY#*/}-${{ github.event.number }}"
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
