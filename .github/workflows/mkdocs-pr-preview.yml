@@ -1,4 +1,4 @@
-name: Netlify MkDocs Previews 
+name: Netlify MkDocs Previews
 
 on:
   pull_request_target: ~
