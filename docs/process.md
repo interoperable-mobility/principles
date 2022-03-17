@@ -10,7 +10,7 @@ The initial development which resulted in version 1.0 of the Principles included
 
 ### Admin Draft Process
 
-The Admin draft was co-authored by numerous individuals and organizations who worked together throughout June and July to release a public draft by August where they were allowed some time to decide if they wanted to publicly support the Principles as a co-signer or co-author or remain private.  Issues addressed in the admin draft process included:
+The Admin draft was co-authored collaboratively by individuals and organizations. Contributors to the draft were allowed to decide whether they wanted to publicly support the Principles as a co-signer or co-author or to remain private. Issues addressed in the admin draft process included:
 
 - Purpose and need,  
 - Use cases,  
@@ -46,9 +46,7 @@ In addition to being an official co-author or cosignatory, we have identified th
 | :--- | :--- |
 | Internal champion | Be an advocate for the Principles within your organization by using the community resources or developing your own. |  
 | |  If possible, work towards your organization co-signing the Principles. |  
-| |  [Let us know](https://forms.gle/PE5TjvFCjyq8xUub6) how we can support you and your organization to implement the Principles. |  
-| Contributor | Lead or support implementation resources. |  
-| | [Please indicate your interest](https://forms.gle/S73T6HeKn8qDLy7e7) before September 13th |  
+| |  [Let us know](https://forms.gle/PE5TjvFCjyq8xUub6) how we can support you and your organization to implement the Principles. |
 
 ## Ongoing Governance
 
