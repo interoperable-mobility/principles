@@ -1,22 +1,22 @@
 # Mobility Data Interoperability Principles
 
-!!! tip "Watch the December Public Town Hall"
+!!! tip "Watch the Public Town Hall"
     Interested in learning more about the Principles and discussing their implementation with the community?  The co-author coalition held a Town Hall meeting on December 9th, 2021.
 
-    [You can now watch the full meeting here](resources.md#meeting-recordings).
+    [Watch the full meeting here](resources.md#meeting-recordings).
 
 !!! check ""
     [Co-signer form](https://forms.gle/TW5f25cUR12GTiCB6) can be submitted on an ongoing basis.
 
-Public Transit, and the mobility services which support it, is a critical backbone to our environmental, economic, and societal well-being.  Modern, easily-accessible and well-operated public transit depends on a complex system of operations and customer-oriented technology components which work together.  
+Public Transit, and the mobility services which support it, is a critical backbone to our environmental, economic, and societal well-being.  Modern, easily-accessible and well-operated public transit depends on a complex system of operations and customer-oriented technology components which work together.
 
 Interoperable transit technology systems enable transit providers to plan service which is responsive to rider needs, improve service quality and efficiency, and adapt to continuing changes.  Interoperability also encourages innovation among transportation technology companies while helping them to contain costs.
 
-Released in Fall 2021 after a collaborative public process, [Mobility Data Interoperability Principles](http:interoperablemobility.org) create an industry-agreed upon vision, definition and direction for achieving interoperability with clear roles and responsibilities. The Principles were collaboratively developed and refined over Summer and Fall of 2021 by dozens of public and private organizations and researchers through a public review process.  
+Released in October 2021 after a collaborative public process, [Mobility Data Interoperability Principles](https://interoperablemobility.org) create an industry-agreed upon vision, definition and direction for achieving interoperability with clear roles and responsibilities. The Principles were collaboratively developed by dozens of public and private organizations and researchers through a public review process.
 
-Over 60 public and private signatories have committed to implementing the Principles.  Organizations who are interested in publicly committing to the Principles and their faithful implementation can [submit the form](https://forms.gle/TW5f25cUR12GTiCB6).  
+Over 60 public and private signatories have committed to implementing the Principles.  Organizations who are interested in publicly committing to the Principles and their faithful implementation can [submit the form](https://forms.gle/TW5f25cUR12GTiCB6).
 
-The Principles are co-authored by (in alphabetical order) the California Association of Coordinated Transportation, California Integrated Travel Project, Denver Regional Transportation District,  ENTUR, Massachusetts Bay Transportation Authority, Metro Transit (MN), the Metropolitan Transportation Commission, MobilityData, the Shared Use Mobility Center, the Taskar Center for Accessible Technology, Tri-Met, VIA Metropolitan Transit San Antonio, and Washington State Department of Transportation Public Transportation Division.  
+The Principles are co-authored by (in alphabetical order) the California Association of Coordinated Transportation, California Integrated Travel Project, Denver Regional Transportation District,  ENTUR, Massachusetts Bay Transportation Authority, Metro Transit (MN), the Metropolitan Transportation Commission, MobilityData, the Shared Use Mobility Center, the Taskar Center for Accessible Technology, Tri-Met, VIA Metropolitan Transit San Antonio, and Washington State Department of Transportation Public Transportation Division.
 
 ## Purpose
 
