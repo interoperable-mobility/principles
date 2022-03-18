@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+h1, h2, h3, h4 {
+    font-family: 'Raleway', sans-serif;
+}
+
+.md-typeset h1 {
+    font-size: 48.83px;
+    font-weight: 500;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+p, a, li {
+    font-family: 'Poppins', sans-serif;
+}
+
+.md-typeset.not(.admonition) p, a, li {
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+.md-typeset.admonition {
+    font-size: .8rem;
+    font-weight: 300;
+    line-height: 1.1;
+}
+
+.md-nav {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: .7rem;
+}
+
+.md-typeset.logo img {
+    height: 200;
+}
+
+.md-grid {
+    max-width: initial;
+}
+
+.version-tag {
+    background-color: #ffff; /* Green */
+    border: none;
+    color: #2094f3;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 4px;
+}
+
+.logo-grid {
+    display: grid;
+    gap: 1rem;
+}
+
+.logo-grid__item {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+@media (min-width: 768px) {
+    .logo-grid {
+        gap: 2rem;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 992px) {
+    .logo-grid {
+        gap: 2rem 1rem;
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+body[data-md-color-scheme="slate"] .show-light-mode,
+body[data-md-color-scheme="default"] .show-dark-mode {
+    display: none;
+}
+
+body[data-md-color-scheme="default"] .show-light-mode,
+body[data-md-color-scheme="slate"] .show-dark-mode {
+    display: unset;
+}

@@ -1,0 +1,792 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://interoperablemobility.org/">
+      
+      <link rel="icon" href="img/favicon.png">
+      <meta name="generator" content="mkdocs-1.2.3, mkdocs-material-8.2.1">
+    
+    
+      
+        <title>Mobility Data Interoperability Principles</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.e8d9bf0c.min.css">
+      
+        
+        <link rel="stylesheet" href="assets/stylesheets/palette.e6a45f82.min.css">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
+    
+      <link rel="stylesheet" href="css/additional.css">
+    
+    <script>__md_scope=new URL(".",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+
+  <script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-E6EQB94P7M"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&gtag("event","search",{search_term:this.value})}),"undefined"!=typeof location$&&location$.subscribe(function(e){gtag("config","G-E6EQB94P7M",{page_path:e.pathname})})})</script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-E6EQB94P7M"></script>
+
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="amber">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#mobility-data-interoperability-principles" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="." title="Mobility Data Interoperability Principles" class="md-header__button md-logo" aria-label="Mobility Data Interoperability Principles" data-md-component="logo">
+      
+  <img src="img/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Mobility Data Interoperability Principles
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Principles
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="amber"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+            </label>
+          
+        
+          
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="blue" data-md-color-accent="amber"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3z"/></svg>
+            </label>
+          
+        
+      </form>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/interoperable-mobility/principles/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+    
+  
+
+
+  <li class="md-tabs__item">
+    <a href="." class="md-tabs__link md-tabs__link--active">
+      Principles
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="about/" class="md-tabs__link">
+      About
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="implementation/" class="md-tabs__link">
+      Implementation
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="support/" class="md-tabs__link">
+      Support
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="process/" class="md-tabs__link">
+      Process
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="resources/" class="md-tabs__link">
+      Resources
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="definitions/" class="md-tabs__link">
+      Details
+    </a>
+  </li>
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="Mobility Data Interoperability Principles" class="md-nav__button md-logo" aria-label="Mobility Data Interoperability Principles" data-md-component="logo">
+      
+  <img src="img/logo.png" alt="logo">
+
+    </a>
+    Mobility Data Interoperability Principles
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/interoperable-mobility/principles/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Principles
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="." class="md-nav__link md-nav__link--active">
+        Principles
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#purpose" class="md-nav__link">
+    Purpose
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#principles" class="md-nav__link">
+    Principles
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#signatories" class="md-nav__link">
+    Signatories
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#join-us" class="md-nav__link">
+    Join us!
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#co-authors" class="md-nav__link">
+    Co-Authors
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="about/" class="md-nav__link">
+        About
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="implementation/" class="md-nav__link">
+        Implementation
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="support/" class="md-nav__link">
+        Support
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="process/" class="md-nav__link">
+        Process
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="resources/" class="md-nav__link">
+        Resources
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="definitions/" class="md-nav__link">
+        Details
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#purpose" class="md-nav__link">
+    Purpose
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#principles" class="md-nav__link">
+    Principles
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#signatories" class="md-nav__link">
+    Signatories
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#join-us" class="md-nav__link">
+    Join us!
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#co-authors" class="md-nav__link">
+    Co-Authors
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+<a href="https://github.com/interoperable-mobility/principles/edit/main/docs/index.md" title="Edit this page" class="md-content__button md-icon">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
+</a>
+
+
+
+<h1 id="mobility-data-interoperability-principles">Mobility Data Interoperability Principles<a class="headerlink" href="#mobility-data-interoperability-principles" title="Permanent link"> ¶</a></h1>
+<div class="admonition tip">
+<p class="admonition-title">Watch the Public Town Hall</p>
+<p>Interested in learning more about the Principles and discussing their implementation with the community?  The co-author coalition held a Town Hall meeting on December 9<sup>th</sup>, 2021.</p>
+<p><a href="resources/#meeting-recordings">Watch the full meeting here</a>.</p>
+</div>
+<div class="admonition check">
+<p><a href="https://forms.gle/TW5f25cUR12GTiCB6">Co-signer form</a> can be submitted on an ongoing basis.</p>
+</div>
+<p>Public Transit, and the mobility services which support it, is a critical backbone to our environmental, economic, and societal well-being.  Modern, easily-accessible and well-operated public transit depends on a complex system of operations and customer-oriented technology components which work together.</p>
+<p>Interoperable transit technology systems enable transit providers to plan service which is responsive to rider needs, improve service quality and efficiency, and adapt to continuing changes.  Interoperability also encourages innovation among transportation technology companies while helping them to contain costs.</p>
+<p>Released in October 2021 after a collaborative public process, <a href="https://interoperablemobility.org">Mobility Data Interoperability Principles</a> create an industry-agreed upon vision, definition and direction for achieving <abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr> with clear roles and responsibilities. The Principles were collaboratively developed by dozens of public and private organizations and researchers through a public review process.</p>
+<p>Over 60 public and private signatories have committed to implementing the Principles.  Organizations who are interested in publicly committing to the Principles and their faithful implementation can <a href="https://forms.gle/TW5f25cUR12GTiCB6">submit the form</a>.</p>
+<p>The Principles are co-authored by (in alphabetical order) the California Association of Coordinated Transportation, California Integrated Travel Project, Denver Regional Transportation District,  ENTUR, Massachusetts Bay Transportation Authority, Metro Transit (MN), the Metropolitan Transportation Commission, MobilityData, the Shared Use Mobility Center, the Taskar Center for Accessible Technology, Tri-Met, VIA Metropolitan Transit San Antonio, and Washington State Department of Transportation Public Transportation Division.</p>
+<h2 id="purpose">Purpose<a class="headerlink" href="#purpose" title="Permanent link"> ¶</a></h2>
+<p>The purpose of the Mobility Data Interoperability Principles is to foster a transit industry where <a href="definitions/#mobility_data"><abbr title="Data used by any mobility technology component to execute its core functions.">mobility data</abbr></a> flows freely and securely between <a href="definitions/#mobility_technology_system">systems</a>, between operators, and between providers and the riding public, <strong>empowering transit agencies and other <a href="definitions/#mobility_service_provider">mobility service providers</a> and <a href="definitions/#transportation_system_manager">transportation system managers</a> to provide better service, improve the customer experience, and build systems that are equitable and sustainable.</strong></p>
+<h2 id="principles">Principles<a class="headerlink" href="#principles" title="Permanent link"> ¶</a></h2>
+<p><span class="version-tag">v1.0</span></p>
+<p>The undersigned organizations and individuals support the following Mobility Data Interoperability Principles:</p>
+<ol>
+<li>All systems creating, modifying, or consuming <a href="definitions/#mobility_data"><abbr title="Data used by any mobility technology component to execute its core functions.">mobility data</abbr></a> should be <a href="definitions/#interoperability">interoperable</a>.  </li>
+<li><a href="definitions/#interoperability">Interoperability</a> should be achieved through the development, adoption, and widespread implementation of <a href="definitions/#open_standard">open standards</a> that support the efficient exchange and portability of <a href="definitions/#mobility_data"><abbr title="Data used by any mobility technology component to execute its core functions.">mobility data</abbr></a>.  </li>
+<li>Transit agencies and other <a href="definitions/#mobility_service_provider">mobility service providers</a> should have access to tools that present high-quality <a href="definitions/#mobility_data"><abbr title="Data used by any mobility technology component to execute its core functions.">mobility data</abbr></a> accessibly, equitably, and in real time to assist travelers in meeting their mobility needs.  </li>
+<li>Transit agencies, other <a href="definitions/#mobility_service_provider">mobility service providers</a>, and travellers should be able to select the <a href="definitions/#mobility_technology_component">transportation technology components</a> that best meet their needs.  </li>
+<li>All individuals and the public should be empowered through high-quality, well-distributed <a href="definitions/#mobility_data"><abbr title="Data used by any mobility technology component to execute its core functions.">mobility data</abbr></a> to find, access, and utilize high-quality mobility options that meet their needs as they see fit, while maintaining their privacy.</li>
+</ol>
+<h2 id="signatories">Signatories<a class="headerlink" href="#signatories" title="Permanent link"> ¶</a></h2>
+<p>In alphabetical order.  </p>
+<ul>
+<li><a href="https://actionfigure.ai/">Actionfigure</a>  </li>
+<li><a href="https://availtec.com">Avail Technologies, Inc.</a>  </li>
+<li><a href="http://calact.org">California Association of Coordinated Transportation (CALACT)</a>  </li>
+<li><a href="http://calitp.org">California Integrated Travel Project (Cal-ITP)</a>  </li>
+<li><a href="http://camsys.software/">Cambridge Systematics Inc.</a>  </li>
+<li><a href="http://capitolcorridor.org">Capitol Corridor Joint Powers Authority (CCJPA)</a>  </li>
+<li>Dr. Andre Carrel, The Ohio State University*  </li>
+<li>Dr. Giovanni Circella, University of California Davis*  </li>
+<li><a href="https://cityway.io/">Cityway</a>  </li>
+<li><a href="https://cleverdevices.com">Clever Devices</a>  </li>
+<li><a href="https://3rev.ucdavis.edu/people/junia-compostella">Junia BM Compostella</a>, Individual  </li>
+<li><a href="http://conveyal.com">Conveyal LLC</a>  </li>
+<li><a href="http://cubic.com">Cubic</a>  </li>
+<li><a href="https://data-transport.org/">Data Transport</a>  </li>
+<li><a href="http://demandtrans.com">DemandTrans</a></li>
+<li><a href="https://www.rtd-denver.com/">Denver Regional Transportation District (RTD)</a>  </li>
+<li><a href="https://entur.no/">ENTUR</a>  </li>
+<li><a href="http://fullpath.io">Full Path Transit Technology</a>  </li>
+<li><a href="http://fundapi.org">Fundapi</a>  </li>
+<li><a href="http://www.garnetconsultingpdx.com">Garnet Consulting</a>  </li>
+<li><a href="https://researchers.uq.edu.au/researcher/2972">Dr. Mark Hickman</a>, University of Queensland*  </li>
+<li><a href="http://hevopower.com">Hevo Power</a>  </li>
+<li>Sean Holman, Individual  </li>
+<li>Tiffany Huang, Individual  </li>
+<li><a href="https://www.ibigroup.com">IBI Group</a>  </li>
+<li><a href="https://interline.io">Interline</a>  </li>
+<li><a href="https://www.itoworld.com/">Ito World</a>  </li>
+<li><a href="https://www.kubapay.com/">Kuba</a>  </li>
+<li>Albert Kochaphum, Individual  </li>
+<li><a href="https://littlepay.com/">Littlepay</a>  </li>
+<li><a href="https://ladot.lacity.org/">Los Angeles Department of Transportation</a>  </li>
+<li><a href="https://www.mbta.com/">Massachusetts Bay Transportation Authority (MBTA)</a>  </li>
+<li><a href="https://method.city/">Method.city</a>  </li>
+<li>Juan Matute, University of California Los Angeles*  </li>
+<li><a href="http://metrotransit.org">MetroTransit</a>  </li>
+<li><a href="http://bayareametro.gov">Metropolitan Transportation Commission (MTC)</a>  </li>
+<li><a href="https://www.dot.state.mn.us/">Minnesota Department of Transportation</a>  </li>
+<li><a href="http://mobilitydata.org">MobilityData</a>  </li>
+<li><a href="https://www.nationalrtap.org/">National Rural Transit Assistance Program</a>  </li>
+<li><a href="http://www.nrdc.org">Natural Resources Defense Council</a>  </li>
+<li>Dr. Greg Newmark, Kansas State University*  </li>
+<li><a href="https://www.mynevadacounty.com/2257/Transit-Services">Nevada County Connects</a>  </li>
+<li><a href="https://www.openmobilityfoundation.org/">Open Mobility Foundation (OMF)</a>  </li>
+<li><a href="http://www.optibus.com">OptiBus</a>  </li>
+<li>Dr. David Porter, Oregon State University*  </li>
+<li><a href="https://www.roadify.com/">Roadify Transit</a>  </li>
+<li><a href="http://remix.com">Remix by Via</a>  </li>
+<li><a href="http://rmi.org">RMI</a>  </li>
+<li><a href="http://sbmtd.gov">Santa Barbara Metropolitan Transit District</a>  </li>
+<li><a href="https://srcity.org/1036/Transit-and-CityBus">Santa Rosa Citybus</a>  </li>
+<li><a href="http://themasterscheduler.com">Schedule Masters Inc.</a>  </li>
+<li><a href="https://www.seattle.gov/transportation">Seattle Department of Transportation</a>  </li>
+<li>Dr. Susan Shaheen, University of California, Berkeley*  </li>
+<li><a href="https://sharedusemobilitycenter.org/">Shared Use Mobility Center (SUMC)</a>  </li>
+<li><a href="https://tcat.cs.washington.edu/">Taskar Center for Accessible Technology</a>  </li>
+<li><a href="http://transitapp.com">Transit App</a>  </li>
+<li><a href="https://transitops.co/">TransitOPS</a>  </li>
+<li><a href="https://trimet.org/">Tri-Met</a>  </li>
+<li><a href="https://trilliumtransit.com/">Trillium Solutions</a>  </li>
+<li><a href="https://urbanlabs.io">UrbanLabs</a>  </li>
+<li><a href="https://www.viainfo.net/">VIA Metropolitan Transit San Antonio</a>  </li>
+<li><a href="https://wsdot.wa.gov/">Washington State Department of Transportation (WSDOT)</a>  </li>
+<li><a href="http://www.winitechnologies.com/">WINI Technologies</a>  </li>
+<li><a href="http://ymobility.info">Yaffe Mobility Consulting</a>  </li>
+</ul>
+<p>*Affiliation for identification purposes only</p>
+<h2 id="join-us"><a href="https://forms.gle/TW5f25cUR12GTiCB6"><strong>Join us!</strong></a><a class="headerlink" href="#join-us" title="Permanent link"> ¶</a></h2>
+<p>You can find out more information about becoming a co-signer or supporting the Principles by reviewing the <a href="support/">support</a> section.  </p>
+<p>Signatories will be asked to formally indicate support following v1.0 being frozen.</p>
+<h2 id="co-authors">Co-Authors<a class="headerlink" href="#co-authors" title="Permanent link"> ¶</a></h2>
+<div class="logo-grid">
+  <div class="logo-grid__item">
+    <img src="img/calact.png" alt="California Association of Coordinated Transportation  (CALACT)" />
+  </div>
+  <div class="logo-grid__item">
+    <img src="img/calitp.png" alt="California Integrated Travel Project (Cal-ITP)" />
+  </div>
+  <div class="logo-grid__item">
+    <img src="img/rtd.png" alt="Denver Regional Transportation District (RTD)" />
+  </div>
+  <div class="logo-grid__item">
+    <img src="img/entur.png" alt="ENTUR" />
+  </div>
+  <div class="logo-grid__item">
+    <img src="img/mbta.png" alt="Massachusetts Bay Transportation Authority (MBTA)" />
+  </div>
+  <div class="logo-grid__item">
+    <img src="img/metrotransit.png" alt="MetroTransit" />
+  </div>
+  <div class="logo-grid__item">
+    <img src="img/mtc.png" alt="Metropolitan Transportation Commission (MTC)" />
+  </div>
+  <div class="logo-grid__item">
+    <img src="img/mobilitydata.png" alt="MobilityData" />
+  </div>
+  <div class="logo-grid__item">
+    <div class="show-light-mode">
+      <img src="img/taskar-light.png" alt="Taskar Center for Accessible Technology" />
+    </div>
+    <div class="show-dark-mode">
+      <img src="img/taskar-dark.png" alt="Taskar Center for Accessible Technology" />
+    </div>
+  </div>
+  <div class="logo-grid__item">
+    <img src="img/trimet.png" alt="Tri-Met" />
+  </div>
+  <div class="logo-grid__item">
+    <img src="img/via.png" alt="VIA Metropolitan Transit San Antonio" />
+  </div>
+  <div class="logo-grid__item">
+    <img src="img/wsdot.png" alt="Washington State Department of Transportation (WSDOT) Public Transportation Division" />
+  </div>
+  <div class="logo-grid__item">
+    <img src="img/sumc.png" alt="Shared Use Mobility Center (SUMC)" />
+  </div>
+</div>
+
+<p>You can find out more information about becoming a co-signer or supporting the Principles by reviewing the <a href="support/">support</a> section.</p>
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+      
+        
+        <a href="about/" class="md-footer__link md-footer__link--next" aria-label="Next: About" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              About
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": ".", "features": ["navigation.tabs"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "assets/javascripts/workers/search.bd0b6b67.min.js"}</script>
+    
+    
+      <script src="assets/javascripts/bundle.8aa65030.min.js"></script>
+      
+        <script src="https://unpkg.com/mermaid@8.5.0/dist/mermaid.min.js"></script>
+      
+    
+  </body>
+</html>
