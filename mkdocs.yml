@@ -14,7 +14,8 @@ nav:
 
 theme:
   name: material
-  logo: img/legos.png
+  logo: img/logo.png
+  favicon: img/favicon.png
   features:
     - navigation.tabs
   palette:
