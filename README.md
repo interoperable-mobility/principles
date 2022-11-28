@@ -10,19 +10,22 @@ Over 60 public and private signatories have committed to implementing the Princi
 
 ## Attribution
 
-- [California Association of Coordinated Transportation (CALACT)](https://www.calact.org)  
-- [California Integrated Travel Project (Cal-ITP)](http://calitp.org)  
-- [Denver Regional Transportation District (RTD)](https://www.rtd-denver.com/)  
-- [ENTUR](https://entur.no/)  
-- [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)  
-- [MetroTransit](http://metrotransit.org)  
-- [Metropolitan Transportation Commission (MTC)](http://bayareametro.org)  
-- [MobilityData](http://mobilitydata.org)  
-- [Shared Use Mobility Center (SUMC)](https://sharedusemobilitycenter.org/)  
-- [Taskar Center for Accessible Technology](https://tcat.cs.washington.edu/)  
-- [Tri-Met](https://trimet.org/)  
-- [VIA Metropolitan Transit San Antonio](https://www.viainfo.net/)  
-- [Washington State Department of Transportation (WSDOT) Public Transportation Division](https://wsdot.wa.gov/)  
+- [California Association of Coordinated Transportation (CALACT)](https://www.calact.org)
+- [California Integrated Travel Project (Cal-ITP)](http://calitp.org)
+- [Denver Regional Transportation District (RTD)](https://www.rtd-denver.com/)
+- [ENTUR](https://entur.no/)
+- [Los Angeles County Metropolitan Transportation Authority](https://www.metro.net/)
+- [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)
+- [MetroTransit](http://metrotransit.org)
+- [Metropolitan Transportation Commission (MTC)](http://bayareametro.org)
+- [MobilityData](http://mobilitydata.org)
+- [North Carolina Department of Transportation](https://www.ncdot.gov/)
+- [Shared Use Mobility Center (SUMC)](https://sharedusemobilitycenter.org/)
+- [Taskar Center for Accessible Technology](https://tcat.cs.washington.edu/)
+- [Tri-Met](https://trimet.org/)
+- [Vermont Agency of Transportation](https://vtrans.vermont.gov/)
+- [VIA Metropolitan Transit San Antonio](https://www.viainfo.net/)
+- [Washington State Department of Transportation (WSDOT) Public Transportation Division](https://wsdot.wa.gov/)
 
 ## License
 
