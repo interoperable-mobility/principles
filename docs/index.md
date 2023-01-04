@@ -78,7 +78,7 @@ In alphabetical order.
 - [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)
 - [Method.city](https://method.city/)
 - Juan Matute, University of California Los Angeles*
-- [MetroTransit](http://metrotransit.org)
+- [MetroTransit](https://www.metrotransit.org/)
 - [Metropolitan Transportation Commission (MTC)](http://bayareametro.gov)
 - [Minnesota Department of Transportation](https://www.dot.state.mn.us/)
 - [MobilityData](http://mobilitydata.org)
