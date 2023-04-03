@@ -70,6 +70,7 @@ In alphabetical order.
 - [IBI Group](https://www.ibigroup.com)
 - [Interline](https://interline.io)
 - [Ito World](https://www.itoworld.com/)
+- [Jarvus Innovations](https://jarv.us/)
 - [Kuba](https://www.kubapay.com/)
 - Albert Kochaphum, Individual
 - [Littlepay](https://littlepay.com/)
