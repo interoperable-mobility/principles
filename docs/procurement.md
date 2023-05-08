@@ -95,6 +95,7 @@ This section includes topics that are generally addressed in the body of a contr
 ### Additional Recommended Requirements
 
 The following subjects are important considerations when ensuring a successful interoperable technology system. There are not specific requirements that all mobility systems must meet with regard to these subjects, but procuring agencies should take time to define and understand their local needs and vendor offers with regard to:
+
 - Implementation and Configuration
 - Training
 - Performance Reporting
@@ -108,6 +109,7 @@ Definitions which support the terms used in the procurement language throughout 
 ### System Requirements
 
 System requirements will vary greatly based on the technology components included in the procurement scope.  The general system requirements to support interoperability below should be considered placeholders for more specific requirements based on the technology components included.  Specific requirements can be found below as follows:
+
 - General system requirements
 - Fixed-route and demand-response scheduling software
 - Fixed-route CAD/AVL systems, including
@@ -119,6 +121,7 @@ System requirements will vary greatly based on the technology components include
 #### General system requirements
 
 The following system requirements are applicable to most software and hardware systems purchased by mobility agencies.
+
 | Continuous Improvement |
 | Updates to the relevant open standards used by the System within the period of performance should result in updates to the system to support the updated open standard within 90 days of its approval including:
 - Additions or modifications to the best practices.
@@ -131,6 +134,7 @@ The following system requirements are applicable to most software and hardware s
 | The System shall provide the ability to obscure certain data to various users in order to reasonably protect individual privacy. 
 
 The System shall use a secure, account-based authentication system with at least the tiers of privilege and respective capabilities, similar to the following:
+
 - View-only: 
   - View and export data which isn’t privacy-protected
 - User: above plus
