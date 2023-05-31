@@ -16,7 +16,7 @@ Over 60 public and private signatories have committed to implementing the Princi
 - [ENTUR](https://entur.no/)
 - [Los Angeles County Metropolitan Transportation Authority](https://www.metro.net/)
 - [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)
-- [MetroTransit](http://metrotransit.org)
+- [MetroTransit](https://www.metrotransit.org/)
 - [Metropolitan Transportation Commission (MTC)](http://bayareametro.org)
 - [MobilityData](http://mobilitydata.org)
 - [North Carolina Department of Transportation](https://www.ncdot.gov/)
