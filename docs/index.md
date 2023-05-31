@@ -16,7 +16,7 @@ Released in October 2021 after a collaborative public process, [Mobility Data In
 
 Over 60 public and private signatories have committed to implementing the Principles.  Organizations who are interested in publicly committing to the Principles and their faithful implementation can [submit the form](https://forms.gle/TW5f25cUR12GTiCB6).
 
-The Principles are co-authored by (in alphabetical order) the California Association of Coordinated Transportation, California Integrated Travel Project, Denver Regional Transportation District,  ENTUR, Massachusetts Bay Transportation Authority, Metro Transit (MN), the Metropolitan Transportation Commission, MobilityData, the Shared Use Mobility Center, the Taskar Center for Accessible Technology, Tri-Met, VIA Metropolitan Transit San Antonio, and Washington State Department of Transportation Public Transportation Division.
+The Principles are co-authored by (in alphabetical order) the California Association of Coordinated Transportation, California Integrated Travel Project, Denver Regional Transportation District, ENTUR, the Los Angeles County Metropolitan Transportation Authority, Massachusetts Bay Transportation Authority, Metro Transit (MN), the Metropolitan Transportation Commission, Minnesota Department of Transportation, MobilityData, North Carolina Department of Transportation, the Shared Use Mobility Center, the Taskar Center for Accessible Technology, Tri-Met, Vermont Agency of Transportation, VIA Metropolitan Transit San Antonio, and Washington State Department of Transportation Public Transportation Division.
 
 ## Purpose
 
@@ -93,6 +93,7 @@ In alphabetical order.
 - [OptiBus](http://www.optibus.com)
 - Dr. David Porter, Oregon State University*
 - [Remix by Via](http://remix.com)
+- [RideScheduler](http://ridescheduler.com/)
 - [RMI](http://rmi.org)
 - [Roadify Transit](https://www.roadify.com/)
 - [Santa Barbara Metropolitan Transit District](http://sbmtd.gov)
@@ -102,6 +103,7 @@ In alphabetical order.
 - [Seattle Department of Transportation](https://www.seattle.gov/transportation)
 - Dr. Susan Shaheen, University of California Berkeley*
 - [Shared Use Mobility Center (SUMC)](https://sharedusemobilitycenter.org/)
+- [SimplifyTransit](https://www.simplifytransit.com/)
 - [Snapper](https://www.snapper.co.nz/)
 - [Swiftly](https://www.goswift.ly/)
 - [Taskar Center for Accessible Technology](https://tcat.cs.washington.edu/)
