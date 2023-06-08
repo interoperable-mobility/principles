@@ -165,7 +165,7 @@ Fixed-route scheduling system functions:
 - Manage assignment of vehicles and drivers
 - Optionally, importing information from agency databases for these purposes
 
-![this is alt text for the image](img/fixed route scheduling system.png "fixed route scheduling system")
+![this is alt text for the image](img/fixed_route_scheduling_system.png "fixed route scheduling system")
 
 Demand-response scheduling system functions include the following:
 - Define and publish scheduled trips for demand-response riders in GTFS-OnDemand format
