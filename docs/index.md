@@ -91,6 +91,7 @@ In alphabetical order.
 - [Open Mobility Data in the Nordics (ODIN)](https://nordicopenmobilitydata.eu/)
 - [Open Mobility Foundation (OMF)](https://www.openmobilityfoundation.org/)
 - [OptiBus](http://www.optibus.com)
+- [Oregon Department of Transportation](https://www.oregon.gov/odot/Pages/index.aspx)
 - Dr. David Porter, Oregon State University*
 - [Remix by Via](http://remix.com)
 - [RideScheduler](http://ridescheduler.com/)
