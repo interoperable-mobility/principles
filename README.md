@@ -2,11 +2,11 @@
 
 Public Transit, and the mobility services which support it, is a critical backbone to our environmental, economic, and societal well-being.  Modern, easily-accessible and well-operated public transit depends on a complex system of operations and customer-oriented technology components which work together.  
 
-Interoperable transit technology systems enable transit providers to plan service which is responsive to rider needs, improve service quality and efficiency, and adapt to continuing changes.  Interoperability also encourages innovation among transportation technology companies while helping them to contain costs.
+Interoperable transit technology systems enable transit providers to plan service which is responsive to rider needs, improve service quality and efficiency, and adapt to continuing changes. Interoperability also encourages innovation among transportation technology companies while helping them to contain costs.
 
 Released in October 2021 after a collaborative public process, [Mobility Data Interoperability Principles](http:interoperablemobility.org) create an industry-agreed upon vision, definition and direction for achieving interoperability with clear roles and responsibilities. The Principles were collaboratively developed and refined over Summer and Fall of 2021 by dozens of public and private organizations and researchers through a public review process.  
 
-Over 60 public and private signatories have committed to implementing the Principles.  Organizations who are interested in publicly committing to the Principles and their faithful implementation can submit the form found at: [Mobility Data Interoperability Principles](http://interoperablemobility.org).  
+Over 60 public and private signatories have committed to implementing the Principles. Organizations who are interested in publicly committing to the Principles and their faithful implementation can submit the form found at: [Mobility Data Interoperability Principles](http://interoperablemobility.org).  
 
 ## Attribution
 
@@ -18,8 +18,10 @@ Over 60 public and private signatories have committed to implementing the Princi
 - [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)
 - [MetroTransit](https://www.metrotransit.org/)
 - [Metropolitan Transportation Commission (MTC)](http://bayareametro.org)
+- [Minnesota Department of Transoprtation](https://www.dot.state.mn.us/)
 - [MobilityData](http://mobilitydata.org)
 - [North Carolina Department of Transportation](https://www.ncdot.gov/)
+- [Oregon Department of Transportation](https://www.oregon.gov/odot/Pages/index.aspx)
 - [Shared Use Mobility Center (SUMC)](https://sharedusemobilitycenter.org/)
 - [Taskar Center for Accessible Technology](https://tcat.cs.washington.edu/)
 - [Tri-Met](https://trimet.org/)
