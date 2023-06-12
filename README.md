@@ -18,7 +18,7 @@ Over 60 public and private signatories have committed to implementing the Princi
 - [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)
 - [MetroTransit](https://www.metrotransit.org/)
 - [Metropolitan Transportation Commission (MTC)](http://bayareametro.org)
-- [Minnesota Department of Transoprtation](https://www.dot.state.mn.us/)
+- [Minnesota Department of Transportation](https://www.dot.state.mn.us/)
 - [MobilityData](http://mobilitydata.org)
 - [North Carolina Department of Transportation](https://www.ncdot.gov/)
 - [Oregon Department of Transportation](https://www.oregon.gov/odot/Pages/index.aspx)
