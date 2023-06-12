@@ -155,9 +155,9 @@ The System shall use a secure, account-based authentication system with at least
   - Determine which data fields should be privacy-protected
  |
 
-#### Scheduling systems
+## Scheduling systems
 
-##### Scheduling system description
+### Scheduling system description
 Scheduling systems exist for both fixed-route and demand-response systems, and while it is possible for a single application to do both this is uncommon. The requirements for each system with respect to the MDIP should be defined separately.
 
 Fixed-route scheduling system functions:
@@ -165,7 +165,7 @@ Fixed-route scheduling system functions:
 - Manage assignment of vehicles and drivers
 - Optionally, importing information from agency databases for these purposes
 
-![this is alt text for the image](img/fixed_route_scheduling_system.png "fixed route scheduling system")
+![The image depicts a flowchart with five boxes in three columns, flowing left to right. On the left side are the boxes "agency staff" and "agency database", both flowing into the middle box "scheduling system", which flows into two boxes on the right side, "CAD/AVL system (ODS)" and "trip planners (GTFS)". All boxes are dark blue and connected by a solid arrow, except for "agency database" which is a light blue box connecting to the "scheduling system" by a dashed arrow.](img/fixed_route_scheduling_system.png "fixed route scheduling system")
 
 Demand-response scheduling system functions include the following:
 - Define and publish scheduled trips for demand-response riders in GTFS-OnDemand format
@@ -175,6 +175,110 @@ Demand-response scheduling system functions include the following:
 
 Note that there is often no CAD/AVL system separate from the demand-response software system other than the AVL hardware, unlike fixed route transit service where these two systems are often separated.
 
-![this is alt text for the image](img/demand response scheduling system.png "demand response scheduling system")
+![this is alt text for the image](img/demand_response_scheduling_system.png "demand response scheduling system")
+
+### Fixed-route scheduling system requirements
+Fixed-route scheduling systems should meet the following requirements to be considered compliant with the MDIP.
+
+| |
+| :--- |
+| Input/Output |
+| The scheduling system shall receive, process, store, and export customer-generated data and derived data, free from additional costs or restrictions. 
+
+The scheduling system shall receive, store, provide access to, and make available via an appropriate API, data in the most recent version of the following open standards including their best practices:
+- Rider-facing schedule data in GTFS Schedule; and
+- As-operated data in the Operational Data Standard (ODS). 
+
+Best practices shall be defined as both should statements in the standard itself as well as official best practices documents such as the [GTFS Schedule Best Practices](https://gtfs.org/schedule/best-practices/).
+
+The scheduling system shall be enabled to receive the following inputs both through an ad-hoc import or by fetching using an API. 
+- Driver/operator rosters and associated data necessary to assign drivers/operators to runs in a Well-documented Data Format.
+- Vehicle inventory and associated data necessary to assign vehicles to blocks in a Well-documented Data Format. 
+
+Input data schemas and APIs shall be consistent with any other relevant open standards
+ |
+| Built-in Enforcement + Monitoring |
+| The scheduling system shall include a mechanism to ensure that exported data is consistent with the above requirements using relevant canonical validators.  Data which would not pass the above requirements using relevant canonical validators shall require an explicit override to export.  Validation reports for each export shall be transparent to the customer and provide a course of action to remedy.
+
+Validation errors which are the result of scheduling software errors and cannot be remedied by the customer shall be automatically reported to Customer and Contractor and are subject to Performance Minimums and Recovery Time Objectives. 
+ |
+ 
+Demand-response scheduling systems should meet the following requirements to be considered compliant with the MDIP.
+
+| |
+| :--- |
+| Input/Output |
+| The scheduling system shall receive, process, store, and export the following data in the most recent version of the following open standards:
+- Near real-time service parameters in GTFS-OnDemand;
+- As-operated data in the TIDES data suite.
+- Passenger data in the TIDES data suite or GTFS-Ride.
+These features shall be free from additional costs or restrictions, other than reasonable restrictions on real-time data downloads.
+
+The scheduling system shall provide public access to the following data streams:
+- GTFS-Realtime OnDemand.
+
+The scheduling system shall be enabled to receive the following inputs both through an ad-hoc import or by fetching using an API. 
+- Driver/operator rosters and associated data necessary to assign drivers/operators to runs in a Well-documented Data Format.
+- Vehicle inventory and associated data necessary to assign vehicles to blocks in a Well-documented Data Format.
+ |
+
+## CAD/AVL Systems
+
+### CAD/AVL System Description
+Computer-aided Dispatch and Automatic Vehicle Location (“CAD/AVL”) systems are commonly marketed separate from scheduling systems for fixed-route systems.
+
+Fixed route CAD/AVL system functions:
+- Import schedule and operational data on to vehicle hardware
+- Monitor vehicle adherence to schedules and provide dispatch system capabilities
+- Output real-time information regarding the status of the transit system
+- Optionally, control various downstream onboard or offboard systems
+
+![this is alt text for the image](img/fixed_route_cad_avl.png "fixed route cad/avl system")
+
+### CAD/AVL system requirements
+Fixed-route CAD/AVL systems should meet the following requirements to be considered compliant with the MDIP.
+
+| |
+| :--- |
+| The CAD/AVL system shall import, store and export access to the following data in the most recent version of the following open standards:
+Schedule data in the Operational Data Standard or GTFS-Schedule;
+- As-operated data in the TIDES data suite; 
+- Passenger data in the TIDES data suite or GTFS-Ride; 
+- Real-time data on system performance in GTFS-Realtime.
+- These features shall be free from additional costs or restrictions, other than reasonable restrictions on real-time data downloads.
+
+Updates to the open standards documented above within the period of performance should result in updates to the CAD/AVL system to support the updated open standard within 30 days of its approval. 
+
+The CAD/AVL system shall provide public access to the following data streams:
+- GTFS-Realtime Vehicle Positions; 
+- GTFS-Realtime Trip Updates; and
+- GTFS-Realtime Alerts.
+
+ |
+ 
+## Reporting systems
+
+### Reporting system description
+
+Reporting systems aggregate transit network performance data and visualize and analyze that data. 
+
+Reporting system functions:
+- Import schedule and performance data
+- Calculate and display relevant performance statistics
+
+![this is alt text for the image](img/reporting.png "reporting system")
+
+### Reporting system requirements
+Reporting systems should meet the following requirements to be considered compliant with the MDIP.
+
+| |
+| :--- |
+| The reporting system shall import and store the following data in the most recent version of the following open standards:
+Schedule data in the Operational Data Standard or GTFS-Schedule;
+- As-operated data in the TIDES data suite; 
+- Passenger data in the TIDES data suite or GTFS-Ride; 
+- Real-time data on system performance in GTFS-Realtime.
+
+ |
 
 --8<-- "includes/glossary.md"
