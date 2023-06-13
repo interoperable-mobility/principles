@@ -242,10 +242,12 @@ Fixed-route CAD/AVL systems should meet the following requirements to be conside
 | :--- |
 | The CAD/AVL system shall import, store and export access to the following data in the most recent version of the following open standards:
 Schedule data in the Operational Data Standard or GTFS-Schedule;
-- As-operated data in the TIDES data suite; 
-- Passenger data in the TIDES data suite or GTFS-Ride; 
-- Real-time data on system performance in GTFS-Realtime.
-- These features shall be free from additional costs or restrictions, other than reasonable restrictions on real-time data downloads.
+<ul>
+<li>As-operated data in the TIDES data suite;</li>
+<li>Passenger data in the TIDES data suite or GTFS-Ride;</li>
+<li>Real-time data on system performance in GTFS-Realtime.</li>
+</ul>
+These features shall be free from additional costs or restrictions, other than reasonable restrictions on real-time data downloads.
 
 Updates to the open standards documented above within the period of performance should result in updates to the CAD/AVL system to support the updated open standard within 30 days of its approval. 
 
