@@ -1,7 +1,7 @@
 # Interoperable Procurement
 
 The purpose of this document is to document why and how interoperability should be included in any transit technology procurement document and provide example language. It is separated into the following sections:
-<ul><li> [Why should “Interoperability” be included in procurement?](https://www.interoperablemobility.org/procurement.md#why-should-interoperability-be-included-in-procurement) </li><li>[Where should it be included?](/procurement.md#where-should-it-be-included)</li><li>[How do I include it?](/#how-do-i-include-it)</li><li>[Support & Enforcement](/support--enforcement)</li><li>[Contract Language](/#contract-language)</li><li>[System requirements](/#system-requirements)</li>
+<ul><li> <a href='https://www.interoperablemobility.org/procurement.md#why-should-interoperability-be-included-in-procurement'>Why should “Interoperability” be included in procurement?</a> </li><li>[Where should it be included?](/procurement.md#where-should-it-be-included)</li><li>[How do I include it?](/#how-do-i-include-it)</li><li>[Support & Enforcement](/support--enforcement)</li><li>[Contract Language](/#contract-language)</li><li>[System requirements](/#system-requirements)</li>
 
 ## Why should “Interoperability” be included in procurement?
 
