@@ -1,7 +1,7 @@
 # Interoperable Procurement
 
 The purpose of this document is to document why and how interoperability should be included in any transit technology procurement document and provide example language. It is separated into the following sections:
-<ul><li><a href='https://www.interoperablemobility.org/procurement.md#why-should-interoperability-be-included-in-procurement'>Why should “Interoperability” be included in procurement?</a></li><li><a href='https://www.interoperablemobility.org/procurement.md#where-should-it-be-included'>Where should it be included?</a></li><li><a href='https://www.interoperablemobility.org/#how-do-i-include-it'>How do I include it?</a></li><li><a href='https://www.interoperablemobility.org/procurement.md#support--enforcement)'>Support & Enforcement</a></li><li><a href='https://www.interoperablemobility.org/procurement.md#contract-language'>Contract Language</a></li><li><a href='https://www.interoperablemobility.org/procurement.md#system-requirements'>System requirements including General requirements, and requirements for specific software systems</a></li></ul>
+<ul><li><a href='https://www.interoperablemobility.org/procurement.md#why-should-interoperability-be-included-in-procurement'>Why should “Interoperability” be included in procurement?</a></li><li><a href='https://www.interoperablemobility.org/procurement.md#where-should-it-be-included'>Where should it be included?</a></li><li><a href='https://www.interoperablemobility.org/#how-do-i-include-it'>How do I include it?</a></li><li><a href='https://www.interoperablemobility.org/procurement.md#support--enforcement)'>Support & Enforcement</a></li><li><a href='https://www.interoperablemobility.org/procurement.md#contract-language'>Contract Language</a></li><li><a href='https://www.interoperablemobility.org/procurement.md#system-requirements'>System requirements including general requirements, and requirements for specific software systems</a></li></ul>
 
 ## Why should “Interoperability” be included in procurement?
 
@@ -107,7 +107,7 @@ Definitions which support the terms used in the procurement language throughout 
 
 ## System Requirements
 
-System requirements will vary greatly based on the technology components included in the procurement scope.  The system requirements to support interoperability in sections should be adapted to the particular needs of the agency procuring the system.  Specific requirements can be found below as follows:
+System requirements will vary greatly based on the technology components included in the procurement scope. The system requirements to support interoperability described in sections below should be adapted to the particular needs of the agency procuring the system.  Specific requirements can be found below in the following categories:
 
 - General system requirements
 - Fixed-route and demand-response scheduling software
