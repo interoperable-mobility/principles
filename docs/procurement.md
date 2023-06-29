@@ -1,7 +1,7 @@
 # Interoperable Procurement
 
 The purpose of this document is to document why and how interoperability should be included in any transit technology procurement document and provide example language. It is separated into the following sections:
-<ul><li>[Why should “Interoperability” be included in procurement?](/#why-should-interoperability-be-included-in-procurement)</li><li>[Where should it be included?](/#where-should-it-be-included)</li><li>[How do I include it?](/#how-do-i-include-it)</li><li>[Support & Enforcement](/support--enforcement)</li><li>[Contract Language](/#contract-language)</li><li>[System requirements](/#system-requirements)</li>
+<ul><li>[Why should “Interoperability” be included in procurement?](/procurement.md#why-should-interoperability-be-included-in-procurement)</li><li>[Where should it be included?](/procurement.md#where-should-it-be-included)</li><li>[How do I include it?](/#how-do-i-include-it)</li><li>[Support & Enforcement](/support--enforcement)</li><li>[Contract Language](/#contract-language)</li><li>[System requirements](/#system-requirements)</li>
 
 ## Why should “Interoperability” be included in procurement?
 
@@ -125,7 +125,7 @@ The following system requirements are applicable to most software and hardware s
 | **Storage** |
 | The System shall store exported schedule data on the system for the duration of the contract unless it is removed by the client.  Saved data shall be accessible and searchable and available for bulk download. |
 | **Security** |
-| The System shall provide the ability to obscure certain data to various users in order to reasonably protect individual privacy. <br />The System shall use a secure, account-based authentication system with at least the tiers of privilege and respective capabilities, similar to the following:<br /><ul><li>View-only:<ul><li> View and export data which isn’t privacy-protected</li></ul></li><li>User: above plus<li> Perform scheduling functions</li><li> View data which is privacy-protected</li><li> Export data which isn’t privacy protected</li></li><li>Manager: above plus  <li>Export data which is privacy-protected</li></li><li>Administrator: above plus <li> Provision manager-level accounts </li><li> Determine which data fields should be privacy-protected</li></li><li></ul> |
+| The System shall provide the ability to obscure certain data to various users in order to reasonably protect individual privacy. <br />The System shall use a secure, account-based authentication system with at least the tiers of privilege and respective capabilities, similar to the following:<br /><ul><li>View-only:<ul><li> View and export data which isn’t privacy-protected</li></ul></li><li>User: above plus<li><ul>Perform scheduling functions</li><li> View data which is privacy-protected</li><li> Export data which isn’t privacy protected</li></ul></li><li>Manager: above plus <ul><li>Export data which is privacy-protected</li></ul></li><li>Administrator: above plus <ul><li> Provision manager-level accounts </li><li> Determine which data fields should be privacy-protected</li></ul></li><li></ul> |
 
 ## Scheduling systems
 
