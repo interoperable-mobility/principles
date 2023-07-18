@@ -1,4 +1,8 @@
-# Definitions
+# Glossary
+
+In developing the Principles and related resources, the MDIP coalition has adopted the following term definitions.
+
+## Key Concepts
 
 <a name="mobility_data"></a>
 **Mobility Data**
@@ -7,6 +11,8 @@
 <a name="interoperability"></a>
 **Interoperability**
 :   The ability for any [mobility technology component](#mobility_technology_component) to exchange data in an [open standard](#open_standard) or schema with other components in that [mobility technology system](#mobility_technology_system).
+
+## Stakeholders and Impacted Products
 
 <a name="mobility_service_provider"></a>
 **Mobility Service Provider**
@@ -40,6 +46,8 @@
      - Procures or regulates the services of a third-party [mobility service provider](#mobility_service_provider) (e.g. a local city contracting with a micro-mobility service),  
      - Maintains (or funds the maintenance of) physical infrastructure used by transit agencies or other [mobility service providers](#mobility_service_provider) to transport people (e.g. local, state or federal departments of transportation), or  
      - Receives legally mandated reports from transit providers in order to maintain service quality, safety, and efficiency (e.g. utilities oversight bodies, safety boards, or other government or nonprofit bodies).
+
+## Additional Terms
 
 <a name="open_standard"></a>
 **Open Standard**
