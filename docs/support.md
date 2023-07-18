@@ -1,18 +1,89 @@
-# Support
+# Join the MDIP Coalition
 
-You can publicly support the principles by becoming a [co-signer](https://forms.gle/TW5f25cUR12GTiCB6).  Co-author applications were accepted and considered up until the closure of the public draft review and will be opened again for the next version of the Principles using the [agreed upon governance process](process.md#ongoing_governance).  
+Cosign the principles to support an interoperable vision for the future of transit technology. Contact [Scott Frazier](mailto:scott.frazier@dot.ca.gov) to be added as a cosignatory. You can cosign MDIP as an individual or as an organization. Cosigning is open to public sector, private sector, and nonprofit organizations.
 
-|  |  |  
-| :--- | :--- |
-| Co-Signer | - Add your individual or organization’s name to a public list supporting the principles. |  
-| | [Indicate interest for inclusion as a co-signer](https://forms.gle/TW5f25cUR12GTiCB6) |  
-| Co-Author | Above plus... |  
-| | Take a leadership role in dissemination and use such as: |
-| | - Co-developing communication materials such as talking points and one-pagers |  
-| | - Speaking at conferences and other venues |  
-| | - Leveraging your organization’s communications channels |  
-| | - Use in procurement or reference documentation |  
-| | - Use of your organization’s logo on public-facing documents |  
-| | - List your individual organization’s name as a co-author |  
+## Cosignatories 
 
---8<-- "includes/glossary.md"
+- [Actionfigure](https://actionfigure.ai/)
+- [Avail Technologies, Inc.](https://availtec.com)
+- Dr. Tierra Bills, University of California Los Angeles*
+- [California Association of Coordinated Transportation (CALACT)](http://calact.org)
+- [California Integrated Travel Project (Cal-ITP)](http://calitp.org)
+- [Cambridge Systematics Inc.](http://camsys.software/)
+- [Capitol Corridor Joint Powers Authority (CCJPA)](http://capitolcorridor.org)
+- Dr. Andre Carrel, The Ohio State University\*
+- Dr. Giovanni Circella, University of California Davis\*
+- [Cityway](https://cityway.io/)
+- [Clever Devices](https://cleverdevices.com)
+- [Junia BM Compostella](https://3rev.ucdavis.edu/people/junia-compostella), Individual
+- [Conveyal LLC](http://conveyal.com)
+- [Cubic](http://cubic.com)
+- [Data Transport](https://data-transport.org/)
+- [DCR Design](https://dcrdesign.net)
+- [DemandTrans](http://demandtrans.com)
+- [Denver Regional Transportation District (RTD)](https://www.rtd-denver.com/)
+- [EnrouteQ](https://www.enrouteq.com/)
+- [ENTUR](https://entur.no/)
+- [FairsFair](https://www.fairsfair.org/)
+- [Foursquare ITP](https://www.foursquareitp.com/)
+- [Full Path Transit Technology](http://fullpath.io)
+- [Fundapi](http://fundapi.org)
+- [Garnet Consulting](http://www.garnetconsultingpdx.com)
+- [Dr. Mark Hickman](https://researchers.uq.edu.au/researcher/2972), University of Queensland\*
+- [Hevo Power](http://hevopower.com)
+- Sean Holman, Individual
+- Tiffany Huang, Individual
+- [IBI Group](https://www.ibigroup.com)
+- [Interline](https://interline.io)
+- [Ito World](https://www.itoworld.com/)
+- [Jarvus Innovations](https://jarv.us/)
+- [Kuba](https://www.kubapay.com/)
+- Albert Kochaphum, Individual
+- [Littlepay](https://littlepay.com/)
+- [Los Angeles County Metropolitan Transportation Authority](https://www.metro.net/)
+- [Los Angeles Department of Transportation](https://ladot.lacity.org/)
+- [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)
+- [Method.city](https://method.city/)
+- Juan Matute, University of California Los Angeles*
+- [MetroTransit](https://www.metrotransit.org/)
+- [Metropolitan Transportation Commission (MTC)](http://bayareametro.gov)
+- [Minnesota Department of Transportation](https://www.dot.state.mn.us/)
+- [MobilityData](http://mobilitydata.org)
+- [National Rural Transit Assistance Program](https://www.nationalrtap.org/)
+- [Natural Resources Defense Council](http://www.nrdc.org)
+- Dr. Greg Newmark, Kansas State University\*
+- [Nevada County Connects](https://www.mynevadacounty.com/2257/Transit-Services)
+- [North Carolina Department of Transportation](https://www.ncdot.gov/)
+- [Open Mobility Data in the Nordics (ODIN)](https://nordicopenmobilitydata.eu/)
+- [Open Mobility Foundation (OMF)](https://www.openmobilityfoundation.org/)
+- [OptiBus](http://www.optibus.com)
+- [Oregon Department of Transportation](https://www.oregon.gov/odot/Pages/index.aspx)
+- Dr. David Porter, Oregon State University*
+- [Remix by Via](http://remix.com)
+- [RideScheduler](http://ridescheduler.com/)
+- [RMI](http://rmi.org)
+- [Roadify Transit](https://www.roadify.com/)
+- [Santa Barbara Metropolitan Transit District](http://sbmtd.gov)
+- [City of Santa Monica Department of Transportation](https://santamonica.gov/)
+- [Santa Rosa Citybus](https://srcity.org/1036/Transit-and-CityBus)
+- [Schedule Masters Inc.](http://themasterscheduler.com)
+- [Seattle Department of Transportation](https://www.seattle.gov/transportation)
+- Dr. Susan Shaheen, University of California Berkeley*
+- [Shared Use Mobility Center (SUMC)](https://sharedusemobilitycenter.org/)
+- [SimplifyTransit](https://www.simplifytransit.com/)
+- [Snapper](https://www.snapper.co.nz/)
+- [Swiftly](https://www.goswift.ly/)
+- [Taskar Center for Accessible Technology](https://tcat.cs.washington.edu/)
+- [Transit App](http://transitapp.com)
+- [TransitOPS](https://transitops.co/)
+- [Tri-Met](https://trimet.org/)
+- [Trillium Solutions](https://trilliumtransit.com/)
+- [UrbanLabs](https://urbanlabs.io)
+- [Vermont Agency of Transportation](https://vtrans.vermont.gov/)
+- [VIA Metropolitan Transit San Antonio](https://www.viainfo.net/)
+- [Vix](https://vixtechnology.com/)
+- [Washington State Department of Transportation (WSDOT)](https://wsdot.wa.gov/)
+- [WINI Technologies](http://www.winitechnologies.com/)
+- [Yaffe Mobility Consulting](http://ymobility.info)
+
+*Affiliation for identification purposes only
