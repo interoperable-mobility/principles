@@ -1,4 +1,4 @@
-# Implementation is the measure of MDIP's success
+# Implementation Responsibilities
 
 While MDIP's most immediate goal is building and demonstrating the consensus for interoperability in the transit industry, the coalition is aware that the measure of that consensus will be the concrete changes that come from it. The Principles cannot succeed unless they are accompanied by a plan for their implementation. The coauthor coalition has developed actionable responsibilities that apply to each of the individual stakeholder groups. Stakeholders cosigning the Principles agree to meet the applicable responsibilities listed below. The coalition is also developing resources to help stakeholders successfully achieve these goals that can be found on the Resources page.
 
