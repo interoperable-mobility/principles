@@ -1,8 +1,11 @@
 # Implementation
 
+While MDIP's most immediate goal is building and demonstrating the consensus for interoperability in the transit industry, the coalition is aware that the measure of that consensus will be the concrete changes that come from it. The Principles cannot succeed unless th
+
+## Implementation Responsibilities
 The following table defines the implementation responsibilities, agreed to by the Mobility Data Interoperability Principles’ co-signers, which are required to comply with the intent of the Mobility Data Interoperability Principles. Note that several of these responsibilities will be dependent upon the implementation resources discussed in the following section.  
 
-### \>> [mobility technology components](definitions.md#mobility_technology_component) shall  
+### \>> [Mobility technology components](definitions.md#mobility_technology_component) shall  
 
 - [x]  Explicitly state that transit agencies or other [mobility service providers](definitions.md#mobility_service_provider) own [mobility data](definitions.md#mobility_data) produced by their respective mobility technology components.  
 - [x]  Utilize current or proposed open standards (along with associated best practices) to receive, process, store and export [mobility data](definitions.md#mobility_data).  
