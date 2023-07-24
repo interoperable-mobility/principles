@@ -8,7 +8,6 @@ nav:
     - About: about.md
     - Implementation: implementation.md
     - Support: support.md
-    - Process: process.md
     - Procurement: procurement.md
     - Resources: resources.md
     - Details: definitions.md
@@ -18,7 +17,9 @@ theme:
   logo: img/logo.png
   favicon: img/favicon.png
   features:
+    - navigation.expand
     - navigation.tabs
+    - toc.integrate
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -65,7 +66,7 @@ markdown_extensions:
       custom_fences:
         - name: mermaid
           class: mermaid
-          format: '!!python/name:pymdownx.superfences.fence_div_format'
+          format: "!!python/name:pymdownx.superfences.fence_div_format"
   - pymdownx.smartsymbols
   - meta
   - toc:

@@ -1,4 +1,8 @@
-# Definitions
+# Glossary
+
+In developing the Principles and related resources, the MDIP coalition has adopted the following term definitions.
+
+## Key Concepts
 
 <a name="mobility_data"></a>
 **Mobility Data**
@@ -7,6 +11,20 @@
 <a name="interoperability"></a>
 **Interoperability**
 :   The ability for any [mobility technology component](#mobility_technology_component) to exchange data in an [open standard](#open_standard) or schema with other components in that [mobility technology system](#mobility_technology_system).
+
+<a name="open_standard"></a>
+**Open Standard**
+:   A specific ontology, schema, or format used by the mobility industry in order to facilitate the consistent communication of information between devices which is:  
+
+     - Free from cost and restrictions to use,
+     - Publicly documented in its entirety,
+     - Actively maintained by an independent organization whose business interests are not actually - and would not reasonably give the appearance of being potentially - impacted by the contents of the standard,
+     - Contains structured releases, versions, or changelogs, and
+     - Has an open community of contributors and users, and transparent, inclusive governance.  
+
+     Examples include the General Transit Feed Specification (GTFS), Mobility Data Specification (MDS), and General Bikeshare Feed Specification (GBFS).
+
+## Stakeholders and Impacted Products
 
 <a name="mobility_service_provider"></a>
 **Mobility Service Provider**
@@ -41,17 +59,7 @@
      - Maintains (or funds the maintenance of) physical infrastructure used by transit agencies or other [mobility service providers](#mobility_service_provider) to transport people (e.g. local, state or federal departments of transportation), or  
      - Receives legally mandated reports from transit providers in order to maintain service quality, safety, and efficiency (e.g. utilities oversight bodies, safety boards, or other government or nonprofit bodies).
 
-<a name="open_standard"></a>
-**Open Standard**
-:   A specific ontology, schema, or format used by the mobility industry in order to facilitate the consistent communication of information between devices which is:  
-
-     - Free from cost and restrictions to use,
-     - Publicly documented in its entirety,
-     - Actively maintained by an independent organization whose business interests are not actually - and would not reasonably give the appearance of being potentially - impacted by the contents of the standard,
-     - Contains structured releases, versions, or changelogs, and
-     - Has an open community of contributors and users, and transparent, inclusive governance.  
-
-     Examples include the General Transit Feed Specification (GTFS), Mobility Data Specification (MDS), and General Bikeshare Feed Specification (GBFS).
+## Additional Terms
 
 <a name="proposed_open_standard"></a>
 **Proposed Open Standard**
