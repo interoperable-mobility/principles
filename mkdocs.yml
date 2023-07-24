@@ -4,12 +4,13 @@ repo_url: https://github.com/interoperable-mobility/principles
 edit_uri: edit/main/docs
 
 nav:
-  - Principles: index.md
-  - About: about.md
-  - Implementation: implementation.md
-  - Support: support.md
-  - Resources: resources.md
-  - Details: definitions.md
+    - Principles: index.md
+    - About: about.md
+    - Implementation: implementation.md
+    - Support: support.md
+    - Procurement: procurement.md
+    - Resources: resources.md
+    - Details: definitions.md
 
 theme:
   name: material

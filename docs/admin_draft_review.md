@@ -24,23 +24,23 @@ Held Wednesday July 14: 3-4 ET/2-3 CT/1-2MT/12-1 PT
 
 ### Agenda/Notes
 
-- Background  
-- Status update  
-- High-level questions  
-    - Concern: Is it possible to affect change this way?  
-        - Group agreed this was a necessary but not sufficient step and that we shouldn’t oversell the principals as “solving everything”.  More work will be needed.  
-    - Concern: Why this when there are other things?  
-        - After discussing other related products, the group in attendance agreed that the Principles fill a needed gap.  
-- Agree on final decision process:  
-    - No disagreement raised at the meeting for the proposed governance process which provides equal weight to all co-authors.  
-- Discussion of high-level issues:  
-    - Right-sizing the purpose / scope [ see issue discussion ]  
-    - Who are the “do-ers”?  [ see issue discussion ]  
-    - How do we make sure not just “bare minimum” is implemented  
-    - No other issues raised.  
-- Getting to a public draft  
-    - Proposed process briefly referenced.  
-    - Cal-ITP will ask for assent from tentative co-authors.  
+- Background
+- Status update
+- High-level questions
+  - Concern: Is it possible to affect change this way?
+    - Group agreed this was a necessary but not sufficient step and that we shouldn’t oversell the principals as “solving everything”.  More work will be needed.
+  - Concern: Why this when there are other things?
+    - After discussing other related products, the group in attendance agreed that the Principles fill a needed gap.
+- Agree on final decision process:
+  - No disagreement raised at the meeting for the proposed governance process which provides equal weight to all co-authors.
+- Discussion of high-level issues:
+  - Right-sizing the purpose / scope [ see issue discussion ]
+  - Who are the “do-ers”?  [ see issue discussion ]
+  - How do we make sure not just “bare minimum” is implemented
+  - No other issues raised.
+- Getting to a public draft
+  - Proposed process briefly referenced.
+  - Cal-ITP will ask for assent from tentative co-authors.
 
 ## What we heard
 
