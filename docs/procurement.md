@@ -1,6 +1,7 @@
 # Interoperable Procurement
 
 The purpose of this document is to document why and how interoperability should be included in any transit technology procurement document and provide example language. It is separated into the following sections:
+
 <ul><li><a href='https://www.interoperablemobility.org/procurement.md#why-should-interoperability-be-included-in-procurement'>Why should “Interoperability” be included in procurement?</a></li><li><a href='https://www.interoperablemobility.org/procurement.md#where-should-it-be-included'>Where should it be included?</a></li><li><a href='https://www.interoperablemobility.org/#how-do-i-include-it'>How do I include it?</a></li><li><a href='https://www.interoperablemobility.org/procurement.md#support--enforcement)'>Support & Enforcement</a></li><li><a href='https://www.interoperablemobility.org/procurement.md#contract-language'>Contract Language</a></li><li><a href='https://www.interoperablemobility.org/procurement.md#system-requirements'>System requirements including general requirements, and requirements for specific software systems</a></li></ul>
 
 ## Why should “Interoperability” be included in procurement?
@@ -13,7 +14,9 @@ Interoperability relies on the implementation of certain system requirements and
 - [Getting to interoperability: the Interoperability Logic Model](https://learn.sharedusemobilitycenter.org/casestudy/mobility-interoperability-logic-model-summary/)
 
 ## Where should it be included?
+
 If possible, the word “interoperability” and a reference to the MDIP website, along with specific product-relevant content below should be included in all official procurement documentation, including:
+
 - Requests for information (RFIs)
 - Requests for proposals (RFPs)
 - Requests for qualifications (RFQs)
@@ -21,18 +24,20 @@ If possible, the word “interoperability” and a reference to the MDIP website
 - Purchase Orders (POs)
 - Informal solicitations
 - Vendor contracts
-- Services contracts 
+- Services contracts
 
-While interoperability can and should be considered for any technology procurement, the terms below were considered with the following types of technology in mind. 
+While interoperability can and should be considered for any technology procurement, the terms below were considered with the following types of technology in mind.
+
 - Fixed-route and demand-response scheduling software
 - Fixed-route and demand-response Computer-Aided Dispatch and Automated Vehicle Location (CAD/AVL) systems
 - Reporting software
 
 In the future, this document could cover:
+
 - Automated Passenger Counters (APC) on-board hardware and reporting systems
-- Passenger trip planning  systems (e.g. trip planners)
+- Passenger trip planning systems (e.g. trip planners)
 - Fare collection systems
-- On-board and wayside digital signage 
+- On-board and wayside digital signage
 - Operations software such as:
   - Yard management
   - Train control and signaling
@@ -57,15 +62,18 @@ Reach out to the Mobility Data Interoperability Principles co-authors with quest
 
 ### What is my recourse if they are not being followed?
 
-Notify the MDIP Co-Author coalition with your complaint.  They will help you:
+Notify the MDIP Co-Author coalition with your complaint. They will help you:
+
 - Identify if there was a loophole in your procurement;
 - Identify recourse options, including:
   - Removal of the vendor from the MDIP Co-sponsor list (if applicable)
-  - Adding the vendor and the relevant product to a list of “products of concern” with a statement about the reasoning. 
+  - Adding the vendor and the relevant product to a list of “products of concern” with a statement about the reasoning.
+
 Discuss recourse options with your vendor, including:
+
 - A timeline that they can commit to resolving the problem
 - A penalty within this contract if they cannot solve it in the specified time
-- A penalty for breaking the mobility data interoperability principles	
+- A penalty for breaking the mobility data interoperability principles
 
 ## Contract Language
 
@@ -103,11 +111,11 @@ The following subjects are important considerations when ensuring a successful i
 
 ### Definitions
 
-Definitions which support the terms used in the procurement language throughout this document can be copied from https://www.interoperablemobility.org/definitions/ which offers a rigorous and regularly updated set of terms as defined by the MDIP co-authors.  Only the terms used in the procurement document need to be defined. 
+Definitions which support the terms used in the procurement language throughout this document can be copied from [Definitions](definitions.md) which offers a rigorous and regularly updated set of terms as defined by the MDIP co-authors. Only the terms used in the procurement document need to be defined.
 
 ## System Requirements
 
-System requirements will vary greatly based on the technology components included in the procurement scope. The system requirements to support interoperability described in sections below should be adapted to the particular needs of the agency procuring the system.  Specific requirements can be found below in the following categories:
+System requirements will vary greatly based on the technology components included in the procurement scope. The system requirements to support interoperability described in sections below should be adapted to the particular needs of the agency procuring the system. Specific requirements can be found below in the following categories:
 
 - General system requirements
 - Fixed-route and demand-response scheduling software
@@ -130,9 +138,11 @@ The following system requirements are applicable to most software and hardware s
 ### Scheduling systems
 
 #### Scheduling system description
+
 Scheduling systems exist for both fixed-route and demand-response systems, and while it is possible for a single application to do both this is uncommon. The requirements for each system with respect to the MDIP should be defined separately.
 
 Fixed-route scheduling system functions:
+
 - Define and publish fixed route schedules in GTFS format and for use in agency CAD/AVL systems
 - Manage assignment of vehicles and drivers
 - Optionally, importing information from agency databases for these purposes
@@ -140,6 +150,7 @@ Fixed-route scheduling system functions:
 ![The image depicts a flowchart with five boxes in three columns, flowing left to right. On the left side are the boxes "agency staff" and "agency database", both flowing into the middle box "scheduling system", which flows into two boxes on the right side, "CAD/AVL system (ODS)" and "trip planners (GTFS)". All boxes are dark blue and connected by a solid arrow, except for "agency database" which is a light blue box connecting to the "scheduling system" by a dashed arrow.](img/fixed_route_scheduling_system.png "fixed route scheduling system")
 
 Demand-response scheduling system functions include the following:
+
 - Define and publish scheduled trips for demand-response riders in GTFS-OnDemand format
 - Track the performance of scheduled trips
 - Manage assignment of vehicles and drivers
@@ -150,6 +161,7 @@ Note that there is often no CAD/AVL system separate from the demand-response sof
 ![The image depicts a flowchart with six boxes in three columns, flowing left to right. On the left side are the boxes "agency staff" and "agency database", both flowing into the middle box "scheduling system", which flows into three boxes on the right side, "Reporting system (TIDES)", "Trip planners (GTFS-OnDemand)", and "Brokerages (TDS)". All boxes are dark blue and connected by a solid arrow, except for "agency database" which is a light blue box connecting to the "scheduling system" by a dashed arrow and "Brokerages" which is a light blue box connecting from the "scheduling system" by a dashed arrow.](img/demand_response_scheduling_system.png "demand response scheduling system")
 
 #### Fixed-route scheduling system requirements
+
 Fixed-route scheduling systems should meet the following requirements to be considered compliant with the MDIP.
 
 | |
@@ -159,7 +171,8 @@ Fixed-route scheduling systems should meet the following requirements to be cons
 | **Built-in Enforcement + Monitoring** |
 | The scheduling system shall include a mechanism to ensure that exported data is consistent with the above requirements using relevant canonical validators.  Data which would not pass the above requirements using relevant canonical validators shall require an explicit override to export.  Validation reports for each export shall be transparent to the customer and provide a course of action to remedy. <br />Validation errors which are the result of scheduling software errors and cannot be remedied by the customer shall be automatically reported to Customer and Contractor and are subject to Performance Minimums and Recovery Time Objectives.  |
 
-#### Demand-response scheduling system requirements 
+#### Demand-response scheduling system requirements
+
 Demand-response scheduling systems should meet the following requirements to be considered compliant with the MDIP.
 
 | |
@@ -170,9 +183,11 @@ Demand-response scheduling systems should meet the following requirements to be 
 ### CAD/AVL Systems
 
 #### CAD/AVL system description
+
 Computer-aided Dispatch and Automatic Vehicle Location (“CAD/AVL”) systems are commonly marketed separate from scheduling systems for fixed-route systems.
 
 Fixed route CAD/AVL system functions:
+
 - Import schedule and operational data on to vehicle hardware
 - Monitor vehicle adherence to schedules and provide dispatch system capabilities
 - Output real-time information regarding the status of the transit system
@@ -181,26 +196,29 @@ Fixed route CAD/AVL system functions:
 ![The image depicts a flowchart with four boxes in three columns, flowing left to right. On the left side is the box "scheduling system (ODS)", flowing into the middle box "CAD/AVL system", which flows into two boxes on the right side, "Reporting system (TIDES)" and "Trip planners (GTFS-RT)". All boxes are dark blue and connected by a solid arrow.](img/fixed_route_cad_avl.png "fixed route cad/avl system")
 
 #### CAD/AVL system requirements
+
 Fixed-route CAD/AVL systems should meet the following requirements to be considered compliant with the MDIP.
 
 | |
 | :--- |
 | The CAD/AVL system shall import, store and export access to the following data in the most recent version of the following open standards: <br />Schedule data in the Operational Data Standard or GTFS-Schedule;<ul><li>As-operated data in the TIDES data suite;</li><li>Passenger data in the TIDES data suite or GTFS-Ride;</li><li>Real-time data on system performance in GTFS-Realtime.</li></ul>These features shall be free from additional costs or restrictions, other than reasonable restrictions on real-time data downloads. <br />Updates to the open standards documented above within the period of performance should result in updates to the CAD/AVL system to support the updated open standard within 30 days of its approval. |
 | The CAD/AVL system shall provide public access to the following data streams:<ul><li>GTFS-Realtime Vehicle Positions;</li><li>GTFS-Realtime Trip Updates; and</li><li>GTFS-Realtime Alerts.|
- 
+
 ### Reporting systems
 
 #### Reporting system description
 
-Reporting systems aggregate transit network performance data and visualize and analyze that data. 
+Reporting systems aggregate transit network performance data and visualize and analyze that data.
 
 Reporting system functions:
+
 - Import schedule and performance data
 - Calculate and display relevant performance statistics
 
 ![The image depicts a flowchart with two boxes in two columns, flowing left to right. On the left side is the box "CAD/AVL (TIDES)", which flows into a box on the right side "Reporting system" . All boxes are dark blue and connected by a solid arrow.](img/reporting_system.png "reporting system")
 
 #### Reporting system requirements
+
 Reporting systems should meet the following requirements to be considered compliant with the MDIP.
 
 | |
