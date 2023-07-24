@@ -13,7 +13,7 @@ More than ever, meeting the needs of travelers requires the complete interoperab
 - Interface with other mobility providers to meet riders’ needs;  
 - Use the best available data to support analytics and real-time decision-making for their planning, scheduling, and operating needs;  
 - Select the best available technology and equipment to provide their service without vendor lock-in; and  
-- Easily use their data and data from other [mobility service providers](definitions.md#mobility_service_provider) to increase rider satisfaction and the customer experience through service efficiency and service quality.  
+- Easily use their data and data from other [mobility service providers](definitions.md#mobility_service_provider) to increase rider satisfaction and improve the customer experience through service efficiency and service quality.  
 
 **[Transportation technology companies](definitions.md#transportation_technology_company)** can:  
 
