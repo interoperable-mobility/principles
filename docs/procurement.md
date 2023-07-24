@@ -1,6 +1,6 @@
 # Interoperable Procurement
 
-The purpose of this document is to document why and how interoperability should be included in any transit technology procurement document and provide example language.
+The purpose of this resource is to document why and how interoperability should be included in a transit technology procurement and provide example language.
 
 ## Why should “Interoperability” be included in procurement?
 
