@@ -8,7 +8,6 @@ Interoperability relies on the implementation of certain system requirements and
 
 ### Resources
 
-- **The case for interoperability, link needed**
 - [Getting to interoperability: the Interoperability Logic Model](https://learn.sharedusemobilitycenter.org/casestudy/mobility-interoperability-logic-model-summary/)
 
 ## Where should it be included?
