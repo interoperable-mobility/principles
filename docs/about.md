@@ -1,48 +1,4 @@
-# Context
-
-The Mobility Data Interoperability Principles were developed by the [co-authors](index.md#co-authors) with significant input from [co-signers](index.md#co-signers) and generous reviewers in support of a common vision for [interoperability](definitions.md#interoperability). Additional information about the development process and implementation can be found in its respective section.  
-
-## Background
-
-The mobility landscape is complex. People have individualized abilities, preferences, and mobility needs that shape preferences around where, when, and how they travel. Transit agencies and other mobility service providers, likewise, are extremely varied. The variety among transit agencies and other mobility service providers creates an opportunity for more people to have their mobility needs better met. But fulfilling this promise requires a level of interoperability and cooperation between transit agencies, other mobility service providers, and transportation technology companies that is yet to be realized.
-
-Over the course of the last decade, passengers have enjoyed increased access to mobile apps and real-time information to help them choose the modes, services, and trips that are right for them, but still lack a complete picture of their available options because of technical and political information silos – not to mention unequal access to technology. Nonetheless, expectations have risen, as real-time transit information, on-demand ride hailing, and micromobility options become embedded in daily life.
-
-More than ever, meeting the needs of travelers requires the complete interoperability of mobility data used by transit agencies, mobility service providers, and transportation technology companies.
-
-## Vision
-
-More than ever, meeting the needs of travelers requires the complete interoperability of mobility data used by transit providers and transportation technology companies.
-
-**All people** can, equitably:  
-
-- Discover and make informed choices about their mobility options in scheduled and/or real-time by utilizing the highest possible quality of information with the least possible barriers to accessing that information;  
-- Maintain their privacy and security; and  
-- Travel with the minimum possible friction arising from accessing data related to their mode(s) of travel.  
-
-**[Mobility service providers](definitions.md#mobility_service_provider)** can:  
-
-- Interface with other mobility providers to meet riders’ needs;  
-- Use the best available data to support analytics and real-time decision-making for their planning, scheduling, and operating needs;  
-- Select the best available technology and equipment to provide their service without vendor lock-in; and  
-- Easily use their data and data from other mobility service providers to increase rider satisfaction and the customer experience through service efficiency and service quality.  
-
-**[Transportation technology companies](definitions.md#transportation_technology_company)** can:  
-
-- Develop new and innovative approaches to serving the needs of mobility service providers and riders;  
-- Use widely-adopted [open standards](definitions.md#open_standards) for the transmission of all data that allows transit agencies, other mobility service providers and travellers to meet their needs;  
-- Easily integrate with other companies’ hardware and software to send and receive planning, scheduling, and operating data; and  
-- Quickly identify and resolve data issues with their products.  
-
-**Researchers** can:  
-
-- Affordably access, process, and use data from a variety of [mobility technology components](definitions.md#mobility_technology_component) without having to re-create data processing pipelines or obtain costly vendor licenses.  
-
-**[Transportation System Managers](definitions.md#transportation_system_manager)** can
-
-- Easily access, aggregate, and cross-reference mobility operations and traveler needs data at a system level across transit providers and jurisdictions;  
-- Utilize mobility data in the context of land use, population, environmental, and other data to inform short- and long-range strategies and policy; and  
-- Support the above visions for other stakeholders.  
+# About Interoperability
 
 ## What is interoperability?
 
