@@ -31,24 +31,24 @@ The coauthors are responsible for:
 
 The coauthor coalition is:
 
-- California Association of Coordinated Transportation (CALACT)
-- California Integrated Travel Project (Cal-ITP)
-- Denver Regional Transportation District (RTD)
-- ENTUR
-- Los Angeles County Metropolitan Transportation Authority (Metro)
-- Massachusetts Bay Transportation Authority (MBTA)
-- Metro Transit (Minnesota)
-- Metropolitan Transportation Commission (California)
-- Minnesota Department of Transportation (MnDOT)
-- MobilityData
-- North Carolina Department of Transportation (NCDOT)
-- Oregon Department of Transportation (ODOT)
-- Shared Use Mobility Center (SUMC)
-- the Taskar Center for Accessible Technology
-- TriMet
-- Vermont Agency of Transportation
-- VIA Metropolitan Transit San Antonio
-- Washington State Department of Transportation (WSDOT) Public Transportation Division
+- [California Association of Coordinated Transportation (CALACT)](https://calact.org/)
+- [California Integrated Travel Project (Cal-ITP)](https://www.calitp.org/)
+- [Denver Regional Transportation District (RTD)](https://www.rtd-denver.com/)
+- [ENTUR](https://entur.no/)
+- [Los Angeles County Metropolitan Transportation Authority (Metro)](https://www.metro.net/)
+- [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)
+- [Metro Transit (Minnesota)](https://www.metrotransit.org/home)
+- [Metropolitan Transportation Commission (California)](https://mtc.ca.gov/)
+- [Minnesota Department of Transportation (MnDOT)](https://www.dot.state.mn.us/)
+- [MobilityData](https://mobilitydata.org/)
+- [North Carolina Department of Transportation (NCDOT)](https://www.ncdot.gov/Pages/default.aspx)
+- [Oregon Department of Transportation (ODOT)](https://www.oregon.gov/odot/pages/index.aspx)
+- [Shared Use Mobility Center (SUMC)](https://sharedusemobilitycenter.org/)
+- [the Taskar Center for Accessible Technology](https://tcat.cs.washington.edu/)
+- [TriMet](https://trimet.org/home/)
+- [Vermont Agency of Transportation](https://vtrans.vermont.gov/)
+- [VIA Metropolitan Transit San Antonio](https://www.viainfo.net/)
+- [Washington State Department of Transportation (WSDOT) Public Transportation Division](https://wsdot.wa.gov/)
 
 --8<-- "includes/co-authors-logo-grid.html"
 
