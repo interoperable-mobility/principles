@@ -1,6 +1,5 @@
 # Modernizing transit technology with open standards
 
-
 The Mobility Data Interoperability Principles (MDIP) coalition is government agencies, mobility service providers, and nonprofit organizations that are dedicated to changing the relationship between transit and technology. MDIP establishes a vision for the transit industry in which all mobility data is communicated by interoperable technology components using open standards. Interoperability is the next step for the software and hardware that support transit operations, planning, reporting, and the rider experience. It is a necessary condition for transit to keep pace with the changing world of personal mobility and to develop service that meets the expectations of the riding public.
 
 ---
@@ -10,42 +9,46 @@ The Mobility Data Interoperability Principles (MDIP) coalition is government age
 ---
 
 ## Principles
+
 The MDIP coalition has developed five Principles to help the industry navigate toward our interoperable future. The Principles are statements of intent that lay out the coalition's positive vision for the future of mobility data. Rooted in the philosophies of public service and personal empowerment that define the transit industry, the Principles also highlight the efficiency, connectivity, and flexibility that interoperability will unlock for mobility service providers.
 
-1. All systems creating, modifying, or consuming [mobility data](definitions.md#mobility_data) should be [interoperable](definitions.md#interoperability).  
-2. [Interoperability](definitions.md#interoperability) should be achieved through the development, adoption, and widespread implementation of [open standards](definitions.md#open_standard) that support the efficient exchange and portability of [mobility data](definitions.md#mobility_data).  
-3. Transit agencies and other [mobility service providers](definitions.md#mobility_service_provider) should have access to tools that present high-quality [mobility data](definitions.md#mobility_data) accessibly, equitably, and in real time to assist travelers in meeting their mobility needs.  
-4. Transit agencies, other [mobility service providers](definitions.md#mobility_service_provider), and travellers should be able to select the [transportation technology components](definitions.md#mobility_technology_component) that best meet their needs.  
+1. All systems creating, modifying, or consuming [mobility data](definitions.md#mobility_data) should be [interoperable](definitions.md#interoperability).
+2. [Interoperability](definitions.md#interoperability) should be achieved through the development, adoption, and widespread implementation of [open standards](definitions.md#open_standard) that support the efficient exchange and portability of [mobility data](definitions.md#mobility_data).
+3. Transit agencies and other [mobility service providers](definitions.md#mobility_service_provider) should have access to tools that present high-quality [mobility data](definitions.md#mobility_data) accessibly, equitably, and in real time to assist travelers in meeting their mobility needs.
+4. Transit agencies, other [mobility service providers](definitions.md#mobility_service_provider), and travellers should be able to select the [transportation technology components](definitions.md#mobility_technology_component) that best meet their needs.
 5. All individuals and the public should be empowered through high-quality, well-distributed [mobility data](definitions.md#mobility_data) to find, access, and utilize high-quality mobility options that meet their needs as they see fit, while maintaining their privacy.
 
 ## Our Coalition
-The MDIP coalition contains both coauthors and cosignatories. Coauthors, public sector and nonprofit organizations that are committed to realizing the vision of the Principles, serve as the governing body for MDIP. New organizations are eligible to be admitted as coauthors by a vote of current coauthors. Private corporations are not eligible to serve as coauthors but are encouraged to join the coalition as cosignatories. 
 
-The coauthors are responsible for: 
-* developing and maintaining the Principles and associated resources;
-* educating and conducting outreach around issues related to interoperability;
-* supporting the development and implementation of open standards and interoperable technologies; and
-* building the movement for mobility data interoperability.
+The MDIP coalition contains both coauthors and cosignatories. Coauthors, public sector and nonprofit organizations that are committed to realizing the vision of the Principles, serve as the governing body for MDIP. New organizations are eligible to be admitted as coauthors by a vote of current coauthors. Private corporations are not eligible to serve as coauthors but are encouraged to join the coalition as cosignatories.
+
+The coauthors are responsible for:
+
+- developing and maintaining the Principles and associated resources;
+- educating and conducting outreach around issues related to interoperability;
+- supporting the development and implementation of open standards and interoperable technologies; and
+- building the movement for mobility data interoperability.
 
 The coauthor coalition is:
-* California Association of Coordinated Transportation (CALACT)
-* California Integrated Travel Project (Cal-ITP)
-* Denver Regional Transportation District (RTD)
-* ENTUR
-* Los Angeles County Metropolitan Transportation Authority (Metro)
-* Massachusetts Bay Transportation Authority (MBTA)
-* Metro Transit (Minnesota)
-* Metropolitan Transportation Commission (California)
-* Minnesota Department of Transportation (MnDOT)
-* MobilityData
-* North Carolina Department of Transportation (NCDOT)
-* Oregon Department of Transportation (ODOT)
-* Shared Use Mobility Center (SUMC)
-* the Taskar Center for Accessible Technology
-* TriMet
-* Vermont Agency of Transportation
-* VIA Metropolitan Transit San Antonio
-* Washington State Department of Transportation (WSDOT) Public Transportation Division
+
+- California Association of Coordinated Transportation (CALACT)
+- California Integrated Travel Project (Cal-ITP)
+- Denver Regional Transportation District (RTD)
+- ENTUR
+- Los Angeles County Metropolitan Transportation Authority (Metro)
+- Massachusetts Bay Transportation Authority (MBTA)
+- Metro Transit (Minnesota)
+- Metropolitan Transportation Commission (California)
+- Minnesota Department of Transportation (MnDOT)
+- MobilityData
+- North Carolina Department of Transportation (NCDOT)
+- Oregon Department of Transportation (ODOT)
+- Shared Use Mobility Center (SUMC)
+- the Taskar Center for Accessible Technology
+- TriMet
+- Vermont Agency of Transportation
+- VIA Metropolitan Transit San Antonio
+- Washington State Department of Transportation (WSDOT) Public Transportation Division
 
 --8<-- "includes/co-authors-logo-grid.html"
 

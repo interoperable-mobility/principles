@@ -2,11 +2,11 @@
 
 Cosign the principles to support an interoperable vision for the future of transit technology. Contact [Scott Frazier](mailto:scott.frazier@dot.ca.gov) to be added as a cosignatory. You can cosign MDIP as an individual or as an organization. Cosigning is open to public sector, private sector, and nonprofit organizations.
 
-## Cosignatories 
+## Cosignatories
 
 - [Actionfigure](https://actionfigure.ai/)
 - [Avail Technologies, Inc.](https://availtec.com)
-- Dr. Tierra Bills, University of California Los Angeles*
+- Dr. Tierra Bills, University of California Los Angeles\*
 - [California Association of Coordinated Transportation (CALACT)](http://calact.org)
 - [California Integrated Travel Project (Cal-ITP)](http://calitp.org)
 - [Cambridge Systematics Inc.](http://camsys.software/)
@@ -44,7 +44,7 @@ Cosign the principles to support an interoperable vision for the future of trans
 - [Los Angeles Department of Transportation](https://ladot.lacity.org/)
 - [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)
 - [Method.city](https://method.city/)
-- Juan Matute, University of California Los Angeles*
+- Juan Matute, University of California Los Angeles\*
 - [MetroTransit](https://www.metrotransit.org/)
 - [Metropolitan Transportation Commission (MTC)](http://bayareametro.gov)
 - [Minnesota Department of Transportation](https://www.dot.state.mn.us/)
@@ -58,7 +58,7 @@ Cosign the principles to support an interoperable vision for the future of trans
 - [Open Mobility Foundation (OMF)](https://www.openmobilityfoundation.org/)
 - [OptiBus](http://www.optibus.com)
 - [Oregon Department of Transportation](https://www.oregon.gov/odot/Pages/index.aspx)
-- Dr. David Porter, Oregon State University*
+- Dr. David Porter, Oregon State University\*
 - [Remix by Via](http://remix.com)
 - [RideScheduler](http://ridescheduler.com/)
 - [RMI](http://rmi.org)
@@ -68,7 +68,7 @@ Cosign the principles to support an interoperable vision for the future of trans
 - [Santa Rosa Citybus](https://srcity.org/1036/Transit-and-CityBus)
 - [Schedule Masters Inc.](http://themasterscheduler.com)
 - [Seattle Department of Transportation](https://www.seattle.gov/transportation)
-- Dr. Susan Shaheen, University of California Berkeley*
+- Dr. Susan Shaheen, University of California Berkeley\*
 - [Shared Use Mobility Center (SUMC)](https://sharedusemobilitycenter.org/)
 - [SimplifyTransit](https://www.simplifytransit.com/)
 - [Snapper](https://www.snapper.co.nz/)
@@ -86,4 +86,4 @@ Cosign the principles to support an interoperable vision for the future of trans
 - [WINI Technologies](http://www.winitechnologies.com/)
 - [Yaffe Mobility Consulting](http://ymobility.info)
 
-*Affiliation for identification purposes only
+\*Affiliation for identification purposes only
