@@ -42,6 +42,7 @@ Cosign the principles to support an interoperable vision for the future of trans
 - [Littlepay](https://littlepay.com/)
 - [Los Angeles County Metropolitan Transportation Authority](https://www.metro.net/)
 - [Los Angeles Department of Transportation](https://ladot.lacity.org/)
+- [Marin Transit](https://marintransit.org/)
 - [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)
 - [Method.city](https://method.city/)
 - Juan Matute, University of California Los Angeles\*
