@@ -48,6 +48,7 @@ Cosign the principles to support an interoperable vision for the future of trans
 - Juan Matute, University of California Los Angeles\*
 - [MetroTransit](https://www.metrotransit.org/)
 - [Metropolitan Transportation Commission (MTC)](http://bayareametro.gov)
+- [Michigan Department of Transportation (MDOT)](https://www.michigan.gov/mdot)
 - [Minnesota Department of Transportation](https://www.dot.state.mn.us/)
 - [MobilityData](http://mobilitydata.org)
 - [National Rural Transit Assistance Program](https://www.nationalrtap.org/)
