@@ -39,6 +39,7 @@ The coauthor coalition is:
 - [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)
 - [Metro Transit (Minnesota)](https://www.metrotransit.org/home)
 - [Metropolitan Transportation Commission (California)](https://mtc.ca.gov/)
+- [Michigan Department of Transportation (MDOT)](https://www.michigan.gov/mdot)
 - [Minnesota Department of Transportation (MnDOT)](https://www.dot.state.mn.us/)
 - [MobilityData](https://mobilitydata.org/)
 - [North Carolina Department of Transportation (NCDOT)](https://www.ncdot.gov/Pages/default.aspx)
