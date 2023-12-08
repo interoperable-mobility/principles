@@ -95,3 +95,73 @@ In developing the Principles and related resources, the MDIP coalition has adopt
        - Tabular data schemas(i.e. csvs): [frictionless data table, data resource or data package](https://frictionlessdata.io/standards/)  
        - Tagged data schemas: [json-schema](https://json-schema.org/), or [XML schema definition](https://en.wikipedia.org/wiki/XML_Schema_(W3C))  
      - Uses structured releases, versions, or changelogs.  
+
+## Project Definitiomns
+
+<a name="mdip_communication_assets"></a>
+**MDIP Communication Assets**
+:    Presentations, artwork, contacts, and written work developed by the MDIP Co-authors and/or MDIP Manager in support of the Principles including but not limited to: the MDIP Website, logos and artwork, mailing lists, handouts, press releases and presentations located on the MDIP Shared Folder.
+
+<a name="mdip_community"></a>
+**MDIP Community**
+:    The combined members of MDIP Coalition, MDIP Co-signatories, MDIP Manager, MDIP Co-author Coordinator and MDIP Stakeholders.
+
+<a name="mdip_definitions"></a>
+**MDIP Definitions**
+:    Terms of art as officially defined by the MDIP Community and approved by the MDIP Coalition. Currently documented (here) at: [https://www.interoperablemobility.org/definitions/]
+
+<a name="mdip_documentation"></a>
+**MDIP Documentation**
+:    Supporting documents and text for implementing the Principles including MDIP Definitions, and MDIP Implementation Responsibilities.
+
+<a name="mdip_governance"></a>
+**MDIP Governance**
+:    Who and how decisions are made about the scope and direction of the MDIP Project as approved by the Co-author Coalition and documented at: ….
+
+<a name="mdip_files"></a>
+**MDIP Files**
+:    The digital files located within the MDIP Shared Folder including – but not limited to – drafts of various MDIP Resources, MDIP Documentation and MDIP Community Assets as well as digital assets used to manage the day-to-day aspects of the MDIP Project and further its mission.
+
+<a name="mdip_implementation_responsibilities"></a>
+**MDIP Implementation Responsibilities**
+:    The directive list of responsibilities for implementing the Principles as approved by the MDIP Coalition. Currently documented at: [https://www.interoperablemobility.org/implementation/]
+
+<a name="mdip_project_roadmap"></a>
+**MDIP Project Roadmap**
+:    Near- and medium-term priorities of the MDIP Project in pursuit of the Principles as approved by the MDIP Coalition.
+
+<a name="mdip_procurement_resource"></a>
+**MDIP Procurement Resource**
+:    Documentation of why and how interoperability should be included in a transit technology procurement and example language which can be directly leveraged.
+
+<a name="mdip_respository"></a>
+**MDIP Repository**
+:    The version control repository containing the MDIP Website; currently located at:
+[`https://github.com/interoperable-mobility/principles`]
+
+<a name="mdip_repository_organization"></a>
+**MDIP Repository Organization**
+:    The version control organization which contains the MDIP Repository. Currently located at: [`https://github.com/interoperable-mobility`]
+
+<a name="mdip_resources"></a>
+**MDIP Resources**
+:    Products developed by the MDIP Community and approved by the Co-author Coalition in support of the Principles.  Examples include:
+     - Procurement Resource
+     - Mobility Dataverse (forthcoming)
+     - Open Standards Project Template (forthcoming)
+
+<a name="mdip_shared_folder"></a>
+**MDIP Shared Folder**
+:    Location for storing and collaborating on MDIP Files managed by the MDIP Manager.
+
+<a name="mdip_website"></a>
+**MDIP Website**
+:    Web location and website content stored on the MDIP Repository and available at [`http://interoperablemobility.org`]
+
+<a name="mobility_dataverse"></a>
+**Mobility Dataverse**
+:    A (forthcoming) catalog of data standards and products which support them which are in alignment with or have the potential to be in alignment with the Principles – as well as an assessment of any gaps in that alignment.
+
+<a name="normative_change"></a>
+**Normative Change**
+:    A change in the intent or meaning of a document, text, or artwork.

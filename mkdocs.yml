@@ -10,7 +10,17 @@ nav:
     - Support: support.md
     - Procurement: procurement.md
     - Resources: resources.md
-    - Details: definitions.md
+    - Governance:
+      - Structure: governance.md
+      - Policies:
+          Code of Conduct: policies/code-of-conduct.md
+          Digital Access: policies/digital-access.md
+          Coalition Composition: policies/mdip-coalition-composition.md
+          Coalition Decision-Making: policies/mdip-coalition-decision-making.md
+          Management: policies/management.md
+          Openness + Transparency: policies/openness-transparency.md
+    - Glossary: definitions.md
+
 
 theme:
   name: material
@@ -74,7 +84,6 @@ markdown_extensions:
       permalink: " ¶"
       toc_depth: 2
   - smarty
-  - fontawesome_markdown
   - pymdownx.details
   - pymdownx.snippets
   - abbr
