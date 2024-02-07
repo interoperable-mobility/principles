@@ -31,13 +31,14 @@ The Mobility Data Interoperability Principle’s Governance is designed with the
 
 The following roles for individuals, groups and organizations are defined as part of the MDIP Governance:
 
-- [MDIP Coalition](#mdip-coalition)
-- [MDIP Coalition Chair](#mdip-coalition-chair)
-- [MDIP Coalition Organizational Representative](#mdip-coalition-organizational-representative)
-- [MDIP Coalition Coordinator](#mdip-coalition-coordinator)
-- [MDIP Co-signatories](#mdip-co-signatories)
-- [MDIP Manager](#mdip-manager)
-- [MDIP Program Manager](#mdip-program-manager)
+| **Role** | **Who** |
+| -------- | ------- |
+|[MDIP Coalition](#mdip-coalition) | [Coalition list](index.md#our-coalition) |
+|[MDIP Coalition Chair](#mdip-coalition-chair)| [Paul Swartz](https://github.com/paulswartz), [MBTA](https://www.mbta.com/) |
+|[MDIP Coalition Coordinator](#mdip-coalition-coordinator)| [Thomas Craig](https://github.com/tsherlockcraig), [WS DOT](https://wsdot.com/) |
+|[MDIP Co-signatories](#mdip-co-signatories)| [Co-signatories list](support.md#cosignatories) |
+|[MDIP Manager](#mdip-manager)| [MobilityData](https://mobilitydata.org) |
+|[MDIP Program Manager](#mdip-program-manager)| [Cristhian Hellion](https://github.com/Cristhian-HA), [MobilityData](https://mobilitydata.org) |
 
 ### MDIP Coalition
 

@@ -36,6 +36,10 @@ Members MAY be removed from the [MDIP Coalition](../governance.md#mdip-coalition
 - The Member in question MUST be given an opportunity to remedy the situation (e.g. selecting a different [MDIP Coalition Organizational Representative](../governance.md#mdip-coalition-organizational-representative)); and
 - The [MDIP Coalition](../governance.md#mdip-coalition) MUST approve of the removal following the Member’s opportunity to remedy the cause.
 
+## Coalition Members
+
+{%  include "coalition.md"  %}
+
 ## Document Changelog
 
 #### 2023-12-07 Initial Documentation
