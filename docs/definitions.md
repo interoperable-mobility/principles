@@ -96,15 +96,15 @@ In developing the Principles and related resources, the MDIP coalition has adopt
        - Tagged data schemas: [json-schema](https://json-schema.org/), or [XML schema definition](https://en.wikipedia.org/wiki/XML_Schema_(W3C))  
      - Uses structured releases, versions, or changelogs.  
 
-## Project Definitiomns
+## Project Definitions
 
 <a name="mdip_communication_assets"></a>
-**MDIP Communication Assets**
+**MDIP Communication Asset**
 :    Presentations, artwork, contacts, and written work developed by the MDIP Co-authors and/or MDIP Manager in support of the Principles including but not limited to: the MDIP Website, logos and artwork, mailing lists, handouts, press releases and presentations located on the MDIP Shared Folder.
 
 <a name="mdip_community"></a>
 **MDIP Community**
-:    The combined members of MDIP Coalition, MDIP Co-signatories, MDIP Manager, MDIP Co-author Coordinator and MDIP Stakeholders.
+:    The combined members of the MDIP Coalition, MDIP Co-signatories, MDIP Manager, MDIP Co-author Coordinator and MDIP Stakeholders.
 
 <a name="mdip_definitions"></a>
 **MDIP Definitions**
