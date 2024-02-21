@@ -11,6 +11,7 @@
 - [Minnesota Department of Transportation (MnDOT)](https://www.dot.state.mn.us/)
 - [MobilityData](https://mobilitydata.org/)
 - [North Carolina Department of Transportation (NCDOT)](https://www.ncdot.gov/Pages/default.aspx)
+- [Open Mobility Foundation (OMF)](https://www.openmobilityfoundation.org/)
 - [Oregon Department of Transportation (ODOT)](https://www.oregon.gov/odot/pages/index.aspx)
 - [Shared Use Mobility Center (SUMC)](https://sharedusemobilitycenter.org/)
 - [the Taskar Center for Accessible Technology](https://tcat.cs.washington.edu/)
