@@ -13,8 +13,6 @@ Additional information about eligibility, roles, and duties can be found in our 
 
 {% include 'cosignatories.md' %}
 
-\*Affiliation for identification purposes only
-
-## Coaltion
+## Coalition
 
 {% include 'coalition.md' %}
