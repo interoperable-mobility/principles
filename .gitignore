@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# MkDocs
+site/
+
+# operation system
+.DS_Store
