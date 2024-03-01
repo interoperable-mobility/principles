@@ -20,7 +20,9 @@ The MDIP coalition has developed five Principles to help the industry navigate t
 
 ## Our Coalition
 
-The MDIP coalition contains both coauthors and cosignatories. Coauthors, public sector and nonprofit organizations that are committed to realizing the vision of the Principles, serve as the governing body for MDIP. New organizations are eligible to be admitted as coauthors by a vote of current coauthors. Private corporations are not eligible to serve as coauthors but are encouraged to join the coalition as cosignatories.
+The MDIP community is composed of both the coauthor [coalition](governance.md#mdip-coalition) ("Coalition") and [co-signatories](governance.md#mdip-co-signatories). Coalition members are public sector and nonprofit organizations that are committed to realizing the vision of the Principles, serve as the governing body for MDIP. New organizations are eligible to be admitted as coauthors by a vote of current coauthors. Private corporations are not eligible to serve as coauthors but are encouraged to support the Principles as [co-signatories](governance.md#mdip-co-signatories).
+
+[**Current list of co-signatories**](support.md)
 
 The coauthors are responsible for:
 
@@ -30,31 +32,14 @@ The coauthors are responsible for:
 - building the movement for mobility data interoperability.
 
 The coauthor coalition is:
-
-- [California Association of Coordinated Transportation (CALACT)](https://calact.org/)
-- [California Integrated Travel Project (Cal-ITP)](https://www.calitp.org/)
-- [Denver Regional Transportation District (RTD)](https://www.rtd-denver.com/)
-- [ENTUR](https://entur.no/)
-- [Los Angeles County Metropolitan Transportation Authority (Metro)](https://www.metro.net/)
-- [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)
-- [Metro Transit (Minnesota)](https://www.metrotransit.org/home)
-- [Metropolitan Transportation Commission (California)](https://mtc.ca.gov/)
-- [Michigan Department of Transportation (MDOT)](https://www.michigan.gov/mdot)
-- [Minnesota Department of Transportation (MnDOT)](https://www.dot.state.mn.us/)
-- [MobilityData](https://mobilitydata.org/)
-- [North Carolina Department of Transportation (NCDOT)](https://www.ncdot.gov/Pages/default.aspx)
-- [Oregon Department of Transportation (ODOT)](https://www.oregon.gov/odot/pages/index.aspx)
-- [Shared Use Mobility Center (SUMC)](https://sharedusemobilitycenter.org/)
-- [the Taskar Center for Accessible Technology](https://tcat.cs.washington.edu/)
-- [TriMet](https://trimet.org/home/)
-- [Vermont Agency of Transportation](https://vtrans.vermont.gov/)
-- [VIA Metropolitan Transit San Antonio](https://www.viainfo.net/)
-- [Washington State Department of Transportation (WSDOT) Public Transportation Division](https://wsdot.wa.gov/)
+{%  include "coalition.md"  %}
 
 --8<-- "includes/co-authors-logo-grid.html"
 
 ---
 
-**Does your organization support interoperability? Join our coalition as a cosignatory! Contact [Scott Frazier](mailto:scott.frazier@dot.ca.gov) to add your name to the list of cosignatories.**
+**Does your organization support interoperability?**
+
+*[Contact us](mailto:interoperablemobility@gmail.com) to add your name to the [list of cosignatories](support.md) or apply to become part of the Coalition of co-authors.*
 
 ---
