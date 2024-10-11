@@ -1,0 +1,1352 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://interoperablemobility.org/public_draft_review/">
+      
+      
+      
+      
+      <link rel="icon" href="../img/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.17">
+    
+    
+      
+        <title>Public Draft Review - Mobility Data Interoperability Principles</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.bcfcd587.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
+    
+      <link rel="stylesheet" href="../css/additional.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function n(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],n("js",new Date),n("config","G-E6EQB94P7M"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&n("event","search",{search_term:this.value})}),document$.subscribe(function(){var a=document.forms.feedback;if(void 0!==a)for(var e of a.querySelectorAll("[type=submit]"))e.addEventListener("click",function(e){e.preventDefault();var t=document.location.pathname,e=this.getAttribute("data-md-value");n("event","feedback",{page:t,data:e}),a.firstElementChild.disabled=!0;e=a.querySelector(".md-feedback__note [data-md-value='"+e+"']");e&&(e.hidden=!1)}),a.hidden=!1}),location$.subscribe(function(e){n("config","G-E6EQB94P7M",{page_path:e.pathname})})});var e=document.createElement("script");e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=G-E6EQB94P7M",document.getElementById("__analytics").insertAdjacentElement("afterEnd",e)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="amber">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#public-draft-review" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Mobility Data Interoperability Principles" class="md-header__button md-logo" aria-label="Mobility Data Interoperability Principles" data-md-component="logo">
+      
+  <img src="../img/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Mobility Data Interoperability Principles
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Public Draft Review
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="amber"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="blue" data-md-color-accent="amber"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/interoperable-mobility/principles" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href=".." class="md-tabs__link">
+        
+  
+    
+  
+  Principles
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../about/" class="md-tabs__link">
+        
+  
+    
+  
+  About
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../implementation/" class="md-tabs__link">
+        
+  
+    
+  
+  Implementation
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../support/" class="md-tabs__link">
+        
+  
+    
+  
+  Support
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../procurement/" class="md-tabs__link">
+        
+  
+    
+  
+  Procurement
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../resources/" class="md-tabs__link">
+        
+  
+    
+  
+  Resources
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../governance/" class="md-tabs__link">
+          
+  
+  Governance
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../definitions/" class="md-tabs__link">
+        
+  
+    
+  
+  Glossary
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Mobility Data Interoperability Principles" class="md-nav__button md-logo" aria-label="Mobility Data Interoperability Principles" data-md-component="logo">
+      
+  <img src="../img/logo.png" alt="logo">
+
+    </a>
+    Mobility Data Interoperability Principles
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/interoperable-mobility/principles" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Principles
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../about/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    About
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../implementation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Implementation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../support/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Support
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../procurement/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Procurement
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../resources/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Resources
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Governance
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Governance
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../governance/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Structure
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_2" id="__nav_7_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Policies
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_2">
+            <span class="md-nav__icon md-icon"></span>
+            Policies
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../policies/code-of-conduct/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Code of Conduct
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../policies/digital-access/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Digital Access
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../policies/mdip-coalition-composition/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Coalition Composition
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../policies/mdip-coalition-decision-making/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Coalition Decision-Making
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../policies/management/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Management
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../policies/openness-transparency/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Openness + Transparency
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../definitions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Glossary
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="public-draft-review">Public Draft Review<a class="headerlink" href="#public-draft-review" title="Permanent link"> ¶</a></h1>
+<h2 id="summary">Summary<a class="headerlink" href="#summary" title="Permanent link"> ¶</a></h2>
+<ul>
+<li>Support for development of open standards  </li>
+<li>Interest in developing equity/data justice as integrated part of MDIP, and furthering ability of communities to achieve equity through data availability  </li>
+<li>Desire for more clarity around specific impacts of MDIP to GIS data  </li>
+<li>Desire to incorporate examples of implementation into resources online, along with instructional anecdotes (potentially in additional presentations for those seeking to adopt/implement the principles)  </li>
+<li>Desire for additional resources to support champions  </li>
+<li>Interest in adding communities as vested stakeholders for the Interoperability Principles and to contemplate the impacts of the MDIP vision on communities  </li>
+<li>Desire to specifically tailor language around <abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr> to exclude internal processes in order to encourage private sector engagement  </li>
+<li>Interest in including academic researchers or explicitly addressing specific types of regulators in the end users of MDIP  </li>
+</ul>
+<h3 id="feedback-excerpts">Feedback Excerpts<a class="headerlink" href="#feedback-excerpts" title="Permanent link"> ¶</a></h3>
+<blockquote>
+<p>The definition of Mobility Technology Component is key and should be highlighted up front, as this defines which categories of data fields are necessary for <abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr> - to efficiently provide inter-modal and/or multi-provider linked trips.<br />
+<br>
+The 6<sup>th</sup> category, &ldquo;Manage the mobility system (e.g. performance reporting, shift selection, non-revenue schedules)&rdquo;, is too broad.<br />
+Performance Reporting is germane.<br />
+Each mobility provider&rsquo;s internal processes, including shift selection and non-revenue schedules, are not germane.<br />
+<br>
+Internal processes should be explicitly excluded from this effort.  This revision will encourage participation by the private sector.<br />
+<br>
+The 4<sup>th</sup> and 5<sup>th</sup> categories should be more explicit and combined: &ldquo;Facilitate communications and processes among the staff involved in providing rides (drivers, schedulers, dispatch and other on-board staff) involved in booking, assigning, providing and monitoring rides through hardware, software and protocols&rdquo;.<br />
+<br>
+While older systems separate the scheduling, trip assignment, dispatch, and monitoring processes, these are combined by the newer dynamic real-time ride providers.</p>
+</blockquote>
+<h2 id="what-we-heard">What we heard<a class="headerlink" href="#what-we-heard" title="Permanent link"> ¶</a></h2>
+<p><em>Paraphrased and combined for clarity and concision.</em></p>
+<h3 id="scope">Scope<a class="headerlink" href="#scope" title="Permanent link"> ¶</a></h3>
+<div class="tabbed-set" data-tabs="1:2"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><label for="__tabbed_1_1">Concern</label><div class="tabbed-content">
+<div class="admonition quote">
+<p>Is the planning/modeling/analysis side of transportation within the scope of the Principles? There aren’t any examples in this realm.  </p>
+</div>
+</div>
+<input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><label for="__tabbed_1_2">Response</label><div class="tabbed-content">
+<div class="admonition summary">
+<p>Planning, modeling, and analysis are included in the scope of the Principles, but <em>only to the extent that they are functions of an established stakeholder</em>.</p>
+<p>For example, the Principles take into account the transit planning that takes place in the development of new schedules for an agency. There may likewise be modeling and analysis that is utilized to assess actual performance or the performance of potential alternatives. However, the <em>Principles do not at this stage include long-term planning activities like construction of new transportation facilities, nor does it include traffic volume analyses, traffic light analyses, or any modeling related to these.</em></p>
+<p>These items were excluded from scope due to the feedback received during the Admin review period for the Principles, that a too-broad scope would significantly increase implementation challenges. Such items may be scoped in for a future version of the Principles.</p>
+</div>
+</div>
+</div>
+<h3 id="implications-of-principle-3">Implications of Principle 3<a class="headerlink" href="#implications-of-principle-3" title="Permanent link"> ¶</a></h3>
+<div class="admonition tldr">
+<p class="admonition-title">Principle 3</p>
+<p>Transit agencies and other mobility service providers should have access to tools that present high-quality <abbr title="Data used by any mobility technology component to execute its core functions.">mobility data</abbr> accessibly, equitably, and in real time to assist travelers in meeting their mobility needs.</p>
+</div>
+<div class="tabbed-set" data-tabs="2:2"><input checked="checked" id="__tabbed_2_1" name="__tabbed_2" type="radio" /><label for="__tabbed_2_1">Concern</label><div class="tabbed-content">
+<div class="admonition quote">
+<p>Is Principle 3 arguing for public funding or provisioning of tools?</p>
+</div>
+</div>
+<input id="__tabbed_2_2" name="__tabbed_2" type="radio" /><label for="__tabbed_2_2">Response</label><div class="tabbed-content">
+<div class="admonition summary">
+<p>No. <br><br> Principle 3 positively asserts that mobility service providers are more able to provide high quality service to travelers when the technology they utilize is interoperable. Principle 3 is concerned with the qualities of market-developed tools and the ability of agencies to transition between suites of tools to find a solution that meets their needs. It is not intended to reference the means of procuring those tools.</p>
+</div>
+</div>
+</div>
+<h3 id="equity-focus">Equity Focus<a class="headerlink" href="#equity-focus" title="Permanent link"> ¶</a></h3>
+<div class="tabbed-set" data-tabs="3:2"><input checked="checked" id="__tabbed_3_1" name="__tabbed_3" type="radio" /><label for="__tabbed_3_1">Concern</label><div class="tabbed-content">
+<div class="admonition quote">
+<p>There should be a principle that’s focused on equitable access and outcomes</p>
+</div>
+<div class="admonition quote">
+<p>The  document mentions &ldquo;equity&rdquo; in a couple places,  but this important theme should be strengthened throughout. Consideration should be added for social equity across demographic groups and equity in the transportation technology marketplace.</p>
+</div>
+<div class="admonition quote">
+<p>Data alone can’t solve all these challenges, but it would be great to have a principle in this document that indicates how all are worth pursuing.</p>
+</div>
+<div class="admonition quote">
+<p>Unclear if the specific goal is to:</p>
+<ul>
+<li>provide access to trip planning and related data services equitably, to provide the actual transportation service equitably, and/or  </li>
+<li>for equitable outcomes in terms of the real-world needs that travelers are trying to accomplish.  </li>
+</ul>
+</div>
+</div>
+<input id="__tabbed_3_2" name="__tabbed_3" type="radio" /><label for="__tabbed_3_2">Response</label><div class="tabbed-content">
+<div class="admonition summary">
+<p>The co-authors discussed the below options (modifications in bold):</p>
+</div>
+</div>
+</div>
+<p>Options considered:</p>
+<div class="admonition tldr">
+<p class="admonition-title">Existing Principle 5</p>
+<p>All individuals should be empowered through high-quality, well-distributed <abbr title="Data used by any mobility technology component to execute its core functions.">mobility data</abbr> to find, access, and utilize high-quality mobility options that meet their needs as they see fit, while maintaining their privacy.</p>
+</div>
+<div class="tabbed-set" data-tabs="4:4"><input checked="checked" id="__tabbed_4_1" name="__tabbed_4" type="radio" /><label for="__tabbed_4_1">Option 5-1</label><div class="tabbed-content">
+<div class="admonition tldr">
+<p>All individuals should be empowered through high-quality, well-distributed <abbr title="Data used by any mobility technology component to execute its core functions.">mobility data</abbr> to find, access, and utilize high-quality mobility options that meet their needs as they see fit, while maintaining their privacy. <strong>Communities should then have access to the data necessary to advocate for a more equitable society and a more sustainable environment and economy.</strong></p>
+</div>
+</div>
+<input id="__tabbed_4_2" name="__tabbed_4" type="radio" /><label for="__tabbed_4_2">Option 5-2</label><div class="tabbed-content">
+<div class="admonition tldr">
+<p>All individuals should be empowered through high-quality, well-distributed <abbr title="Data used by any mobility technology component to execute its core functions.">mobility data</abbr> to find, access, and utilize high-quality mobility options that meet <strong>individual, community, and planetary needs while maintaining individual privacy.</strong></p>
+</div>
+</div>
+<input id="__tabbed_4_3" name="__tabbed_4" type="radio" /><label for="__tabbed_4_3">Option 5-3</label><div class="tabbed-content">
+<div class="admonition tldr">
+<p>All individuals should be empowered through high-quality, well-distributed <abbr title="Data used by any mobility technology component to execute its core functions.">mobility data</abbr> to find, access, and utilize high-quality mobility options that meet their needs as they see fit, while maintaining their privacy. <strong>Understand that these individual data play an important role in equity and sustainability at a community level.</strong></p>
+</div>
+</div>
+<input id="__tabbed_4_4" name="__tabbed_4" type="radio" /><label for="__tabbed_4_4">Option 6-1</label><div class="tabbed-content">
+<div class="admonition tldr">
+<p><strong>All communities should be empowered through high-quality, verified, and accessible <abbr title="Data used by any mobility technology component to execute its core functions.">mobility data</abbr>, to analyze and understand the impacts of transportation systems on the well-being of society and the environment. They should have access to data necessary to advocate for a more equitable society and a more sustainable environment and economy.</strong></p>
+</div>
+</div>
+</div>
+<p>After several meetings, the co-authors concluded that equity was more properly an initial motivating factor for the Principles themselves. Equity and sustainability were thus added to the Purpose statement within the document. Additionally, in order to reduce the perceived individualism of elevating travelers but not groups of people to the level of stakeholders, the group determined that the language should include a reference to the public at large as being stakeholders.</p>
+<h3 id="4-who-is-the-consumer-in-principle-4">4. Who is the “consumer” in Principle #4?<a class="headerlink" href="#4-who-is-the-consumer-in-principle-4" title="Permanent link"> ¶</a></h3>
+<div class="admonition tldr">
+<p class="admonition-title">Principle 4</p>
+<p>Transit agencies, other mobility service providers, and consumers should be able to select the mobility technology components that best meet their needs.</p>
+</div>
+<div class="tabbed-set" data-tabs="5:2"><input checked="checked" id="__tabbed_5_1" name="__tabbed_5" type="radio" /><label for="__tabbed_5_1">Concern</label><div class="tabbed-content">
+<div class="admonition quote">
+<p>Travelers or data consumers?</p>
+<ul>
+<li>If it’s data consumers, that makes sense for modular “best of breed” and “build or buy” models, where all agencies that produce and consume data can assemble the highest quality components for their needs and further improve in an iterative manner.  </li>
+<li>If it’s travelers/riders, that seems like a very different proposition — moving the point of integration from within agencies/providers/consuming apps to the riders themselves.  </li>
+</ul>
+</div>
+</div>
+<input id="__tabbed_5_2" name="__tabbed_5" type="radio" /><label for="__tabbed_5_2">Response</label><div class="tabbed-content">
+<div class="admonition tldr">
+<p>That’s interesting and could be a great eventual goal, but it is very complicated to tackle at this point and seems to distract from more immediate goals of improving <abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr> across existing and near-term systems within agencies/providers.</p>
+</div>
+</div>
+</div>
+<h3 id="5-documented-data-formats-list-is-suggestive-but-incomplete">5. Documented data formats list is suggestive but incomplete<a class="headerlink" href="#5-documented-data-formats-list-is-suggestive-but-incomplete" title="Permanent link"> ¶</a></h3>
+<div class="tabbed-set" data-tabs="6:2"><input checked="checked" id="__tabbed_6_1" name="__tabbed_6" type="radio" /><label for="__tabbed_6_1">Concern</label><div class="tabbed-content">
+<div class="admonition quote">
+<p>Documented data formats list is suggestive but incomplete</p>
+</div>
+</div>
+<input id="__tabbed_6_2" name="__tabbed_6" type="radio" /><label for="__tabbed_6_2">Response</label><div class="tabbed-content">
+<div class="admonition tldr">
+<p>This is intentional at this stage. A more complete and comprehensive list will be developed as part of the implementation product: Mobility Dataverse.</p>
+</div>
+</div>
+</div>
+<h2 id="changes-made-in-response-to-public-review-comments">Changes made in response to Public Review Comments<a class="headerlink" href="#changes-made-in-response-to-public-review-comments" title="Permanent link"> ¶</a></h2>
+<div class="tabbed-set" data-tabs="7:3"><input checked="checked" id="__tabbed_7_1" name="__tabbed_7" type="radio" /><label for="__tabbed_7_1">Concern</label><div class="tabbed-content">
+<div class="admonition quote">
+<p class="admonition-title">Benjie de la Pena, SUMC</p>
+<p>SUMC suggests including community as key stakeholder of the Interoperability Principles. The current draft only considers transit agencies, mobility service providers, and individuals. The communities are not even contemplated. We suggest appending a sentence to the 5<sup>th</sup> principle or (our preference) adding a sixth principle.  </p>
+<p>Option A Principle #5.</p>
+<blockquote>
+<p>All individuals should be empowered through high-quality, well-distributed <abbr title="Data used by any mobility technology component to execute its core functions.">mobility data</abbr> to find, access, and utilize high-quality mobility options that meet their needs as they see fit, while maintaining their privacy. Communities should then have access to the data necessary to advocate for a more equitable society and a more sustainable environment and economy.  </p>
+</blockquote>
+<p>Option B Principle #6.</p>
+<blockquote>
+<p>All communities should be empowered through high-quality, verified, and accessible <abbr title="Data used by any mobility technology component to execute its core functions.">mobility data</abbr>, to analyze and understand the impacts of transportation systems on the well-being of society and the environment. They should have access to data necessary to advocate for a more equitable society and a more sustainable environment and economy.</p>
+</blockquote>
+</div>
+<div class="admonition quote">
+<p class="admonition-title">Jamie M. Fischer</p>
+<p>The document mentions &ldquo;equity&rdquo; in a couple places, but this important theme should be strengthened throughout. Consideration should be added for social equity across demographic groups and equity in the transportation technology marketplace.</p>
+</div>
+<div class="admonition quote">
+<p class="admonition-title">Albert Kochaphum</p>
+<p>I would like for there to be an equity part of the <abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr> principles, similar to the idea of data justice, where the focus just isn&rsquo;t on keeping data open and transparent, but also anti-discrimination of who gets access to use this information and on which platforms.</p>
+</div>
+</div>
+<input id="__tabbed_7_2" name="__tabbed_7" type="radio" /><label for="__tabbed_7_2">Response</label><div class="tabbed-content">
+<div class="admonition note">
+<p class="admonition-title">Equity</p>
+<p>MDIP co-authors discussed equity as a component of the vision for this document. It was agreed on that communities are a stakeholder for the Interoperability Principles. Concern was expressed regarding the appropriate way to bring equity into the principles. Concern was expressed that in not mentioning equity, MDIP would lose meaningful mechanism to hold signers to pursuit of equity outcomes later on.</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Anti-discrimination</p>
+<p>In regards to the issue of anti-discrimination, that is (sort of) addressed in the implementation responsibilities’s reliance on open standards which should be usable/consumable by any developer or app. That being said, there is a certain level of gatekeeping built in to MDIP at this point because discretion as to what information should be distributed and to whom is ultimately given to the Mobility Service Provider. Currently, this responsibility rests with the <abbr title="Any organization that provides a Mobility Technology Component.">Transportation Technology Company</abbr> in many/most cases.</p>
+</div>
+</div>
+<input id="__tabbed_7_3" name="__tabbed_7" type="radio" /><label for="__tabbed_7_3">Action</label><div class="tabbed-content">
+<div class="admonition check">
+<p class="admonition-title">Modifications Made</p>
+<p>“Communities” added as stakeholder to vision statement. Revised Principle 5 language.</p>
+</div>
+</div>
+</div>
+<p><br></p>
+<div class="tabbed-set" data-tabs="8:3"><input checked="checked" id="__tabbed_8_1" name="__tabbed_8" type="radio" /><label for="__tabbed_8_1">Concern</label><div class="tabbed-content">
+<div class="admonition quote">
+<p class="admonition-title">Tiffany Huang</p>
+<p>Would like more clarity around sharing and data governance for GIS data.</p>
+</div>
+</div>
+<input id="__tabbed_8_2" name="__tabbed_8" type="radio" /><label for="__tabbed_8_2">Response</label><div class="tabbed-content">
+<div class="admonition note">
+<p>MDIP contemplates GIS data as being beholden to the same levels of disclosure as other shared and/or generated data. GIS software developers would fall under the definition of a <abbr title="Any organization that provides a Mobility Technology Component.">Transportation Technology Company</abbr>, their products or platforms as Mobility Technology Components, and individual datasets and/or shapefiles as Mobility Data.</p>
+</div>
+</div>
+<input id="__tabbed_8_3" name="__tabbed_8" type="radio" /><label for="__tabbed_8_3">Action</label><div class="tabbed-content">
+<div class="admonition check">
+<p class="admonition-title">Modifications Made</p>
+<p>Added explicit mention of “GIS” under definition of Mobility Technology Component point 5</p>
+</div>
+</div>
+</div>
+<p><br></p>
+<div class="tabbed-set" data-tabs="9:3"><input checked="checked" id="__tabbed_9_1" name="__tabbed_9" type="radio" /><label for="__tabbed_9_1">Concern</label><div class="tabbed-content">
+<div class="admonition quote">
+<p class="admonition-title">Jamie M. Fischer</p>
+<p>The vision for transit planners and transportation system managers should make reference to the context of land use, environmental, and socio-economic data that are often utilized in broader planning efforts.  </p>
+</div>
+</div>
+<input id="__tabbed_9_2" name="__tabbed_9" type="radio" /><label for="__tabbed_9_2">Response</label><div class="tabbed-content">
+<div class="admonition note">
+<p>MDIP agreed to incorporate this change.</p>
+</div>
+</div>
+<input id="__tabbed_9_3" name="__tabbed_9" type="radio" /><label for="__tabbed_9_3">Action</label><div class="tabbed-content">
+<div class="admonition check">
+<p class="admonition-title">Modifications Made</p>
+<p>Explicit reference to land use, environmental and socio-economic data added to vision for Transportation System Managers.</p>
+</div>
+</div>
+</div>
+<p><br></p>
+<div class="tabbed-set" data-tabs="10:3"><input checked="checked" id="__tabbed_10_1" name="__tabbed_10" type="radio" /><label for="__tabbed_10_1">Concern</label><div class="tabbed-content">
+<div class="admonition quote">
+<p class="admonition-title">Jamie M. Fischer</p>
+<p>There are a few issues with grammar and clarity throughout. I will provide more specific notes ad suggestions by emailing a markup of the public draft.</p>
+</div>
+</div>
+<input id="__tabbed_10_2" name="__tabbed_10" type="radio" /><label for="__tabbed_10_2">Response</label><div class="tabbed-content">
+<div class="admonition note">
+<p>Received, thank you.</p>
+</div>
+</div>
+<input id="__tabbed_10_3" name="__tabbed_10" type="radio" /><label for="__tabbed_10_3">Action</label><div class="tabbed-content">
+<div class="admonition check">
+<p class="admonition-title">Modifications made</p>
+<p>Grammar and punctuation updated based on recommendations.</p>
+</div>
+</div>
+</div>
+<p><br></p>
+<div class="tabbed-set" data-tabs="11:3"><input checked="checked" id="__tabbed_11_1" name="__tabbed_11" type="radio" /><label for="__tabbed_11_1">Concern</label><div class="tabbed-content">
+<div class="admonition quote">
+<p class="admonition-title">Drew Dara-Abrams, Interline</p>
+<p>OpenStreetMap is a complicated example to cite. OSM’s standard file format and API data format is XML, which isn’t listed in this doc. OSM data is licensed under a “viral” license, some would argue doesn’t fit the goals of “openness” in these principles — then again, others would argue it does. Also debatable is whether OSM has “transparent, inclusive governance.” Much progress related to OSM actually happens outside of the OSM Foundation and its communication channels. We don’t want to be “downers,” but OSM is very mixed as a role model for other projects.</p>
+</div>
+</div>
+<input id="__tabbed_11_2" name="__tabbed_11" type="radio" /><label for="__tabbed_11_2">Response</label><div class="tabbed-content">
+<div class="admonition note">
+<p>MDIP agrees that OSM is not easily citable as an open technology.</p>
+</div>
+</div>
+<input id="__tabbed_11_3" name="__tabbed_11" type="radio" /><label for="__tabbed_11_3">Action</label><div class="tabbed-content">
+<div class="admonition check">
+<p class="admonition-title">Modifications made</p>
+<p>OSM removed from examples</p>
+</div>
+</div>
+</div>
+<p><br></p>
+<div class="tabbed-set" data-tabs="12:3"><input checked="checked" id="__tabbed_12_1" name="__tabbed_12" type="radio" /><label for="__tabbed_12_1">Concern</label><div class="tabbed-content">
+<div class="admonition quote">
+<p class="admonition-title">Steve White, GMV Syncromatics</p>
+<p>Re: Ability of Interoperability to enable MSPs to swap GPS units or onboard computers: This sounds nice in theory, but the fact of the matter is that the onboard unit used by a CAD/AVL system is more than just a “GPS unit” and these things are not going to be widely interchangeable even if they use commercial off the shelf hardware. An agency cannot simply swap out “GPS units,” because the GPS functionality is included in a tablet or computer-type piece of hardware that performs many other functions. Some companies develop their products on Android and some on Linux (both open source operating systems), and some use Windows or other type devices. I don’t assume the <abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr> principles would go so far as to define a specific OS or hardware architecture, so this entire point feels far-fetched to me. Only in the most basic GPS-only type deployments could it be possible – where multiple routers or single-purpose GPS trackers would use a TAIP or NMEA type standard.<br />
+All of the other points in this section make sense.</p>
+</div>
+</div>
+<input id="__tabbed_12_2" name="__tabbed_12" type="radio" /><label for="__tabbed_12_2">Response</label><div class="tabbed-content">
+<div class="admonition note">
+<p>The language used here (“Interoperability enables: Mobility service providers to easily change which GPS unit their CAD/AVL system uses because the old and new GPS units transmit data in an <abbr title="A specific ontology, schema, or format used by the mobility industry in order to facilitate the consistent communication of information between devices which is free from cost and restrictions to use; publicly documented in its entirety; actively maintained by an independent organization; contains structured releases, versions, or changelogs; and has an open community of contributors and users, and transparent, inclusive governance.">open standard</abbr> and the CAD/AVL system ingests data in an <abbr title="A specific ontology, schema, or format used by the mobility industry in order to facilitate the consistent communication of information between devices which is free from cost and restrictions to use; publicly documented in its entirety; actively maintained by an independent organization; contains structured releases, versions, or changelogs; and has an open community of contributors and users, and transparent, inclusive governance.">open standard</abbr>.”) is or should be more directly focused on the intention of the co-authors to combat so-called vendor lock-in and the inability of Mobility Service Providers to secure the technology they want to use. The intention of this bullet point is not to suggest that <abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr> means that a specific fine-grained technology will be able to work with another within a single vendor’s suite of components necessarily (although the Principles might provide an incentive in that direction).<br />
+In general, this point should be broadened so that it is about the expectation that <abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr> will allow for MSPs to “right-size” their Mobility Technology Components to meet their existing and projected needs because those components will be better integrated into a larger Mobility Technology System.</p>
+</div>
+</div>
+<input id="__tabbed_12_3" name="__tabbed_12" type="radio" /><label for="__tabbed_12_3">Action</label><div class="tabbed-content">
+<div class="admonition check">
+<p class="admonition-title">Modificaitons Made</p>
+<p>Replace existing language with:  </p>
+<blockquote>
+<p>Mobility service providers to more easily receive the mobility technology components that meet the needs of their uses because components are better integrated into a larger mobility technology system, in which the transmission and ingestion of data is utilizing open standards.”</p>
+</blockquote>
+</div>
+</div>
+</div>
+<p><br></p>
+<h2 id="additional-responses-to-public-review-comments">Additional Responses to Public Review Comments<a class="headerlink" href="#additional-responses-to-public-review-comments" title="Permanent link"> ¶</a></h2>
+<div class="tabbed-set" data-tabs="13:2"><input checked="checked" id="__tabbed_13_1" name="__tabbed_13" type="radio" /><label for="__tabbed_13_1">Concern</label><div class="tabbed-content">
+<div class="admonition quote">
+<p class="admonition-title">Chloe Spano, Cityway</p>
+<p>How does MDIP result in ability of mobility service providers to use data from other MSPs? Through collaborative 1-to-1 agreements?</p>
+</div>
+</div>
+<input id="__tabbed_13_2" name="__tabbed_13" type="radio" /><label for="__tabbed_13_2">Response</label><div class="tabbed-content">
+<div class="admonition note">
+<p class="admonition-title">Noted</p>
+<p>The statement in the MDIP vision (“Mobility service providers can… Easily use their data and data from other mobility providers to increase rider satisfaction and the customer experience through service efficiency and service quality.”) references the ability of data to be more widely available to various consumers in an interconnected network of service provision. It is anticipated that <abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr> will result in a fuller picture of <abbr title="Data used by any mobility technology component to execute its core functions.">mobility data</abbr> for all providers without the need for private one-on-one agreements between operators.</p>
+</div>
+</div>
+</div>
+<p><br></p>
+<div class="tabbed-set" data-tabs="14:2"><input checked="checked" id="__tabbed_14_1" name="__tabbed_14" type="radio" /><label for="__tabbed_14_1">Concern</label><div class="tabbed-content">
+<div class="admonition quote">
+<p class="admonition-title">Chloe Spano, Cityway</p>
+<p>Under implementation responsibilities: Transit Agencies and Governments should allow access keys to data consumers</p>
+</div>
+</div>
+<input id="__tabbed_14_2" name="__tabbed_14" type="radio" /><label for="__tabbed_14_2">Response</label><div class="tabbed-content">
+<div class="admonition note">
+<p class="admonition-title">Noted</p>
+<p>This comment is posted in multiple locations in response to the use of the phrase “without restriction” to the access of data in <abbr title="A specific ontology, schema, or format used by the mobility industry in order to facilitate the consistent communication of information between devices which is free from cost and restrictions to use; publicly documented in its entirety; actively maintained by an independent organization; contains structured releases, versions, or changelogs; and has an open community of contributors and users, and transparent, inclusive governance.">open standard</abbr> or proposed <abbr title="A specific ontology, schema, or format used by the mobility industry in order to facilitate the consistent communication of information between devices which is free from cost and restrictions to use; publicly documented in its entirety; actively maintained by an independent organization; contains structured releases, versions, or changelogs; and has an open community of contributors and users, and transparent, inclusive governance.">open standard</abbr> format. The intention of MDIP is that access keys would constitute an acceptable means of making data available to parties designated by the transit agency or <abbr title="Any organization that transports people or directly facilitates transport (e.g. a public transportation agency, a private tour bus, vehicle share, rideshare, or a non-emergency medical transportation (NEMT) company).">mobility service provider</abbr>.</p>
+</div>
+</div>
+</div>
+<p><br></p>
+<div class="tabbed-set" data-tabs="15:2"><input checked="checked" id="__tabbed_15_1" name="__tabbed_15" type="radio" /><label for="__tabbed_15_1">Concern</label><div class="tabbed-content">
+<div class="admonition quote">
+<p class="admonition-title">Chloe Spano, Cityway</p>
+<p>Change definition of published data so that data published via documented API “must” (rather than “may”) be granted via API key.</p>
+</div>
+</div>
+<input id="__tabbed_15_2" name="__tabbed_15" type="radio" /><label for="__tabbed_15_2">Response</label><div class="tabbed-content">
+<div class="admonition note">
+<p class="admonition-title">Noted</p>
+<p>The impact of this change is that MDIP would not consider data to be published if the API operator were to make the data available without an API key. MDIP is allowing for but not mandating the use of API keys, and the default in some cases might well be for there to be no API key, which appears to be an acceptable use.</p>
+</div>
+</div>
+</div>
+<p><br></p>
+<div class="tabbed-set" data-tabs="16:2"><input checked="checked" id="__tabbed_16_1" name="__tabbed_16" type="radio" /><label for="__tabbed_16_1">Concern</label><div class="tabbed-content">
+<div class="admonition quote">
+<p class="admonition-title">Steve Yaffe, Yaffe Mobility Consulting</p>
+<p>The definition of Mobility Technology Component is key and should be highlighted up front, as this defines which categories of data fields are necessary for <abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr> - to efficiently provide inter-modal and/or multi-provider linked trips. The 6<sup>th</sup> category, &ldquo;Manage the mobility system (e.g. performance reporting, shift selection, non-revenue schedules)&rdquo;, is too broad. Performance Reporting is germane. Each mobility provider&rsquo;s internal processes, including shift selection and non-revenue schedules, are not germane. Internal processes should be explicitly excluded from this effort. This revision will encourage participation by the private sector. The 4<sup>th</sup> and 5<sup>th</sup> categories should be more explicit and combined: &ldquo;Facilitate communications and processes among the staff involved in providing rides (drivers, schedulers, dispatch and other on-board staff) involved in booking, assigning, providing and monitoring rides through hardware, software and protocols&rdquo;. While older systems separate the scheduling, trip assignment, dispatch, and monitoring processes, these are combined by the newer dynamic real-time ride providers.</p>
+</div>
+</div>
+<input id="__tabbed_16_2" name="__tabbed_16" type="radio" /><label for="__tabbed_16_2">Response</label><div class="tabbed-content">
+<div class="admonition note">
+<p class="admonition-title">Noted</p>
+<p>In the published format we anticipate making the definitions easily available throughout the document using tooltips and/or links. The definition should be evident to readers from the first mention.  Internal processes are not excluded from MDIP due to the desire through <abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr> to help identify and eliminate existing gaps in the flow of data for mobility consumers/producers. Generally, there is not industrywide agreement on what constitutes internal processes and making a decision to exclude them here could result in a significant reduction in MDIP’s ability to press the industry toward <abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr>. Additionally, some MDIP coauthors are presently working with industry partners to standardize data for non-revenue services and shift selection.</p>
+</div>
+</div>
+</div>
+<p><br></p>
+<div class="tabbed-set" data-tabs="17:2"><input checked="checked" id="__tabbed_17_1" name="__tabbed_17" type="radio" /><label for="__tabbed_17_1">Concern</label><div class="tabbed-content">
+<div class="admonition quote">
+<p class="admonition-title">Anat Caspi, Taskar Center for Accessible Technology</p>
+<p>I would very much like to see (and contribute to) implementation stories, as well as the production of presentation materials that would allow for dissemination of the principles. Specifically, it would be great to take after the model of Smart Growth America, develop the principles a little bit more, and offer advocates of the principles a coherent set of slides and instructional material from/through which they can evangelize the ideas in the principles.</p>
+</div>
+</div>
+<input id="__tabbed_17_2" name="__tabbed_17" type="radio" /><label for="__tabbed_17_2">Response</label><div class="tabbed-content">
+<div class="admonition note">
+<p class="admonition-title">Noted</p>
+<p>This comment relates specifically to implementation of the principles and not to the document, however it seems like a good course of action for MDIP as we move into the post-v1-publication phase of promoting the principles.</p>
+</div>
+</div>
+</div>
+<p><br></p>
+<div class="tabbed-set" data-tabs="18:2"><input checked="checked" id="__tabbed_18_1" name="__tabbed_18" type="radio" /><label for="__tabbed_18_1">Concern</label><div class="tabbed-content">
+<div class="admonition quote">
+<p class="admonition-title">Weston Shippy,Trillium Transit</p>
+<p>Happy with the product overall! The principles mention end users and mobility service providers as stakeholders who can benefit from interoperable data, but they don&rsquo;t mention planning/regulatory/DOTs or academic researchers. This omission may have been intentional, however, because they were discussed in the drafting process.</p>
+</div>
+</div>
+<input id="__tabbed_18_2" name="__tabbed_18" type="radio" /><label for="__tabbed_18_2">Response</label><div class="tabbed-content">
+<div class="admonition note">
+<p class="admonition-title">Noted</p>
+<p>Planning/regulatory/DOTs are contemplated by the MDIP as being part of Transportation System Managers. Researchers are listed as an independent (albeit undefined) stakeholder in the Vision statement.</p>
+</div>
+</div>
+</div>
+<p><br></p>
+<div class="tabbed-set" data-tabs="19:2"><input checked="checked" id="__tabbed_19_1" name="__tabbed_19" type="radio" /><label for="__tabbed_19_1">Concern</label><div class="tabbed-content">
+<div class="admonition quote">
+<p class="admonition-title">Sean Holman</p>
+<p>I believe that the development of open standards and open source tools is critical to the future of mobility. These principles embody the strength that comes from an aligned approach amongst complimentary projects like MDS, GBFS, and GTFS</p>
+</div>
+</div>
+<input id="__tabbed_19_2" name="__tabbed_19" type="radio" /><label for="__tabbed_19_2">Response</label><div class="tabbed-content">
+<div class="admonition note">
+<p class="admonition-title">Noted</p>
+<p>Comment is supportive of the project.</p>
+</div>
+</div>
+</div>
+<p><br></p>
+<div class="tabbed-set" data-tabs="20:2"><input checked="checked" id="__tabbed_20_1" name="__tabbed_20" type="radio" /><label for="__tabbed_20_1">Concern</label><div class="tabbed-content">
+<div class="admonition quote">
+<p class="admonition-title">Jamie M. Fischer</p>
+<ul>
+<li>The vision for transit operators and the discussion of <abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr>&rsquo;s importance should include a reference to data validation, quality control, and cross-referencing.  </li>
+<li>The vision for transit system managers should make reference to project selection and funding to meet emerging customer needs.  </li>
+</ul>
+</div>
+</div>
+<input id="__tabbed_20_2" name="__tabbed_20" type="radio" /><label for="__tabbed_20_2">Response</label><div class="tabbed-content">
+<div class="admonition note">
+<p class="admonition-title">Noted</p>
+<p>The language that has been selected for MDIP v1 is generally “best available” and in “real-time.” The implementation responsibilities language has more expressive force where quality and validation are concerned. This may be an area to revisit in a future document, but for the time being validation and quality are viewed as areas of enforcement, rather than natural outgrowths of MDIP.</p>
+</div>
+</div>
+</div>
+<p><br></p>
+<div class="tabbed-set" data-tabs="21:2"><input checked="checked" id="__tabbed_21_1" name="__tabbed_21" type="radio" /><label for="__tabbed_21_1">Concern</label><div class="tabbed-content">
+<div class="admonition quote">
+<p class="admonition-title">Jamie M. Fischer</p>
+<p>Re: read/write access requirement in Implementation Responsibilities: Is this reasonable for all transportation technology components? I imagine read-only access would be an easier sell - specifically because of the “free from cost” detail. Write-access might require contractual relationships, unless I’m not understanding the responsibility as written.</p>
+</div>
+</div>
+<input id="__tabbed_21_2" name="__tabbed_21" type="radio" /><label for="__tabbed_21_2">Response</label><div class="tabbed-content">
+<div class="admonition note">
+<p class="admonition-title">Noted</p>
+<p>The stipulation may be overbroad given the broad construction of transportation technology components, resulting in a higher than desired implementation cost. | Language changed from “read/write” to “read-only or read/write.” The default assumption will therefore be read-only</p>
+</div>
+</div>
+</div>
+<p><br></p>
+<div class="tabbed-set" data-tabs="22:2"><input checked="checked" id="__tabbed_22_1" name="__tabbed_22" type="radio" /><label for="__tabbed_22_1">Concern</label><div class="tabbed-content">
+<div class="admonition quote">
+<p class="admonition-title">Drew Dara-Abrams, Interline</p>
+<p>Re: Open Standards. The criteria will likely clash with approaches taken by some other orgs — SAE and the Alliance for Parking Data Standards come to mind. Maybe that is inevitable, but do consider reaching out to discuss</p>
+</div>
+</div>
+<input id="__tabbed_22_2" name="__tabbed_22" type="radio" /><label for="__tabbed_22_2">Response</label><div class="tabbed-content">
+<div class="admonition check">
+<p class="admonition-title">Future Action</p>
+<p>MDIP will coordinate and communicate with SAE, ADPS, CEN and APTA</p>
+</div>
+</div>
+</div>
+<p><br></p>
+<div class="tabbed-set" data-tabs="23:2"><input checked="checked" id="__tabbed_23_1" name="__tabbed_23" type="radio" /><label for="__tabbed_23_1">Concern</label><div class="tabbed-content">
+<div class="admonition quote">
+<p class="admonition-title">Steve White, GMV Syncromatics</p>
+<p>Regarding Implementation Responsibilities to support “adopted and proposed open standards”: My only comment here is that the “proposed” language should be removed. Until a standard is accepted and implemented by other parties, it’s unlikely that even a vendor who is generally agreeable to open standards will start implementing it in hopes that it becomes widely adopted. I realize this is a bit of a catch-22, as the lack of critical mass adoption prevents a critical mass from agreeing to adopt a standard, but few companies will want to commit to adopting “proposed” standards until they see adoption. A good example of this is GTFS-ride for sharing historical APC data. We see the benefit of it, the standard is current, but adoption is so low that it makes no sense for us to invest in adopting it ourselves. Until scheduling providers that have customers in common with us actually adopt it, there is no reason for us to do so and our time is better spent on other endeavors. With that in mind, it would be difficult for us to commit to adopting “proposed” open standards. We would certainly commit to language that says we’d utilize “widely adopted” or “industry accepted” open standards. This “adopted” language makes sense especially when you follow to the next sections in the document which say that transportation technology companies shall “collaboratively develop and adopt open standards where gaps currently exist.” That is agreeable, because it comes with the assumption that other companies would adopt those standards, thus it becomes worth everyone’s time to adopt and no single company would be left as the only one having wasted time adopting a standard that no other companies adopted.</p>
+</div>
+</div>
+<input id="__tabbed_23_2" name="__tabbed_23" type="radio" /><label for="__tabbed_23_2">Response</label><div class="tabbed-content">
+<div class="admonition note">
+<p class="admonition-title">Noted</p>
+<p>The implementation responsibilities are the main enforcement backstop for the principles that prevent them from being merely aspirational. They are intended to serve as a benchmark against which the co-authors, prospective buyers, MSPs, communities, and other interested stakeholders can assess whether or not a given mobility technology component is or isn’t <abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr> compliant.  This topic came up in Admin Review conversations and among co-authors who determined that it was reasonable to establish some definition for “proposed <abbr title="A specific ontology, schema, or format used by the mobility industry in order to facilitate the consistent communication of information between devices which is free from cost and restrictions to use; publicly documented in its entirety; actively maintained by an independent organization; contains structured releases, versions, or changelogs; and has an open community of contributors and users, and transparent, inclusive governance.">open standard</abbr>” that has a higher threshold than merely existing, including the transition of the standard to an independent group for management.</p>
+</div>
+</div>
+</div>
+<h2 id="public-draft-reviewers">Public Draft Reviewers<a class="headerlink" href="#public-draft-reviewers" title="Permanent link"> ¶</a></h2>
+<p>In addition to the co-authors and co-signatories, the public draft was distributed to a multitude of interested public-sector, public-interest, academic, and private-sector organizations and individuals.  We received 13 formal reviews and edits ahead of the September 13<sup>th</sup> 2021 deadline, of which the following organizations and individuals gave permission to disclose their names and affiliations (*for identification purposes only):</p>
+<ul>
+<li>Drew Dara-Abrams, Interline Technologies</li>
+<li>Chloe Spano, Cityway</li>
+<li>Weston Shippy, Trillium Solutions</li>
+<li>Katie Monroe, Transit App</li>
+<li>Steve Yaffe, Yaffe Mobility Consulting</li>
+<li>Sean Holman</li>
+<li>Albert Kochaphum, LA Metro</li>
+<li>Jamie M. Fischer, State of Georgia&rsquo;s Mobility Authorities</li>
+<li>Audrey Denis, Cubic</li>
+<li>Steve White, GMV/Synchromatics Inc.</li>
+</ul>
+<h2 id="co-author-application-and-admission-process">Co-author Application and Admission Process<a class="headerlink" href="#co-author-application-and-admission-process" title="Permanent link"> ¶</a></h2>
+<p>During the Public Review period, organizations were allowed to express interest in joining the co-authors of the Mobility Data Interoperability Principles before the publication of v1.</p>
+<p>On September 27, 2021, the co-authors met to establish a formal process for admitting new co-authors and to vote on applications for co-author status by four organizations.</p>
+<p>The co-authors expressed concern about the potential reputational impact on the Mobility Data Interoperability Principles that could be incurred if for-profit companies were allowed to join as co-authors. Additional concerns were raised including the potential for co-authors to have to pick winners and losers among for-profit applicants, the enforcement of the spirit of the principles, and the ability for the principles to be used primarily as a marketing tool by co-authors.</p>
+<p>The co-authors decided that the marginal benefit to elevating for-profit companies as co-authors rather than as co-signatories was smaller than the marginal cost of allowing for-profit companies to join the ranks of the co-authors of the Principles.</p>
+<p>Consequently, the co-authors have agreed upon the following process for the inclusion of new co-authors:</p>
+<ol>
+<li>New co-authors shall be accepted by application during an open call prior to the release of each version of the Mobility Data Interoperability Principles.  </li>
+<li>Co-authors must be institutions, transit agencies, or other non-profit organizations. Applications will not be accepted from for-profit companies, nor shall such companies be considered eligible to apply.  </li>
+<li>Upon receipt of an application from an eligible organization, the co-authors will schedule a vote on the question of admitting the organization as a co-author.  </li>
+<li>The initial question will be one of unanimous consent: if there are no objections to the admission of the applicant organization, the co-authors will formally move to accept the applicant organization as a co-author.  </li>
+<li>If there are objections, they will be stated and discussed.  </li>
+<li>If the question of admitting the applicant organization should be called again following the discussion of objections, the applicant organization may be admitted with a majority (50%+1 vote) of all co-authors voting in favor.  </li>
+</ol>
+<p>With this process established, consideration was taken up for the four applicant organizations for co-authorship under the new process prior to the release of v1. Of those organizations, three were for-profit firms (Cityway, Cubic, and Transit App) and thus ineligible under the new guidelines. These organizations will be notified of the policy and that their applications have therefore not been accepted. The fourth organization, the Taskar Center for Accessible Technology at University of Washington, was found to be eligible and was admitted as a co-author of the Mobility Data Interoperability Principles without objection.</p>
+<h2 id="pre-final-release-co-author-review">Pre-Final Release Co-Author Review<a class="headerlink" href="#pre-final-release-co-author-review" title="Permanent link"> ¶</a></h2>
+<h3 id="co-author-review-meeting-minutes">Co-Author Review Meeting Minutes<a class="headerlink" href="#co-author-review-meeting-minutes" title="Permanent link"> ¶</a></h3>
+<p>On September 28, 2021, all Proposed Responses to Public Review Comments and Requests for Changes were adopted without objection except for the requested changes by Co-Author Benjie de la Peña/SUMC on the topic of community representation, equity and sustainability.</p>
+<p>Concerns were raised in the objections about the focus on the individual over communities and in the subordination of community needs to individual needs in the proposed revision of the 5<sup>th</sup> Principle. Additionally, concerns were raised in the objections about the proposed revision to the Vision statement, in particular that they did not address sustainability directly.</p>
+<p>On October 5, 2021, the Co-Author group was invited to a meeting to discuss the resolution of the outstanding objections and to develop new proposed revisions to address the Public Review comments. The meeting was opened with a reading of the proposed revisions to the Vision statement and Principle 5. Benjie de la Peña/SUMC presented his objections to the group, and stated that the main desires were the addition of a sixth principle to represent community empowerment and to move equity and sustainability from the Vision statement to the Purpose statement.</p>
+<p>The Co-Author group discussed concerns around adding a sixth principle for communities, particularly that there was not a clear nexus between the Interoperability Principles - which are intended to facilitate the movement of data between actors in a closed system, rather than to serve as an open data project - and community empowerment. Concerns were also raised about the self-defining nature of Communities - which to this point has not been a defined term within the Mobility Data Interoperability Principles.</p>
+<p>Concerns were also raised with the ability of the Co-Authors to serve as experts in the achievement of equity for communities, and with the potential for co-signatories to use the Mobility Data Interoperability Principles to “equity-wash” without meaningful implementation responsibilities. The group discussed potential equity-oriented implementation responsibilities, including a requirement for co-signatories to provide an appeals process, context, and justification for the creation of data types.</p>
+<p>Ultimately, the group came to an agreement that despite concerns around individualism, there wasn’t a clear enough link between Interoperability Principles and community empowerment, or between community empowerment and equity, for inclusion at the Principle level in this document. Additionally, implementation responsibilities were not edited due in part to concerns about who the “do-er” would be and the potential for additional requirements to affect existing commitments from co-signatories.</p>
+<p>The meeting concluded with the Co-Authors moving without objection to present the following changes to the full Co-Author group (Edits in bold):</p>
+<ul>
+<li>Amend the Purpose statement to read:</li>
+</ul>
+<blockquote>
+<p>The purpose of the Mobility Data Interoperability Principles is to foster a transit industry where <abbr title="Data used by any mobility technology component to execute its core functions.">mobility data</abbr> flows freely and securely between systems, between operators, and between providers and the riding public, empowering transit agencies and other mobility service providers and transportation system managers to provide better service, improve the customer experience, <strong>and promoting equity and sustainability.</strong></p>
+</blockquote>
+<ul>
+<li>Amend Principle 5 to read:</li>
+</ul>
+<blockquote>
+<p>All individuals <strong>and members of the public</strong> should be empowered through high-quality, well-distributed <abbr title="Data used by any mobility technology component to execute its core functions.">mobility data</abbr> to find, access, and utilize high-quality mobility options that meet their needs as they see fit, while maintaining their privacy.</p>
+</blockquote>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.expand", "navigation.tabs", "toc.integrate"], "search": "../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.1e8ae164.min.js"></script>
+      
+        <script src="https://unpkg.com/mermaid@8.5.0/dist/mermaid.min.js"></script>
+      
+    
+  </body>
+</html>
