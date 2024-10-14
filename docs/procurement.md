@@ -59,10 +59,10 @@ In order to score an RFP response, it's helpful to provide the staff doing the s
 
 | Negative Indicators | Positive Indicators |
 | :--- | :--- |
-| Data only available as manual exports | data available through a well-documented API |
-| Data is only available in vendor-specific formats   | data is provided and accepted via Well-documented Data Format |
-| Vendor charges extra for access to data in Well-documented Data Formats | vendor contributes to communities of open standards (such as documentation, implementation of standards, or funding) |
-| vendor claims they are the owners of data created by the Agency | vendor describes how PII is securely stored |
+| Data only available as manual exports | Data available through a well-documented API |
+| Data is only available in vendor-specific formats   | Data is provided and accepted via Well-documented Data Format |
+| Vendor charges extra for access to data in Well-documented Data Formats | Vendor contributes to communities of open standards (such as documentation, implementation of standards, or funding) |
+| Vendor claims they are the owners of data created by the Agency | Vendor describes how PII is securely stored |
 |  | Within each document where defined terms are used |
 
 ## Support & Enforcement
