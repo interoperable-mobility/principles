@@ -53,6 +53,18 @@ Interoperability should be included in both lists of project objectives and scop
 | Definitions, which support the objectives, terms, and requirements | Within each document where defined terms are used |
 | Verification of community and cohort feedback | Gathered through reference checks and questions to other mobility agencies |
 
+## Evaluation & Scoring
+
+In order to score an RFP response, it's helpful to provide the staff doing the scoring a rubric they can use to tell whether a response meets the goals of the Interoperability Principles. The below negative/positive indicators can be used by scoring staff to determine whether a respondent meets the goals of the Principles, without them needing to be specifically familiar with their contents.
+
+| Negative Indicators | Positive Indicators |
+| :--- | :--- |
+| Data only available as manual exports | Data available through a well-documented API |
+| Data is only available in vendor-specific formats   | Data is provided and accepted via Well-documented Data Format |
+| Vendor charges extra for access to data in Well-documented Data Formats | Vendor contributes to communities of open standards (such as documentation, implementation of standards, or funding) |
+| Vendor claims they are the owners of data created by the Agency | Vendor describes how PII is securely stored |
+|  | Within each document where defined terms are used |
+
 ## Support & Enforcement
 
 Reach out to the Mobility Data Interoperability Principles co-authors with questions, including help with validating and assessing the data exports from your current software systems.
