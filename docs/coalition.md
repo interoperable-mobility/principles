@@ -3,6 +3,7 @@
 - [California Integrated Travel Project (Cal-ITP)](https://www.calitp.org/)
 - [Denver Regional Transportation District (RTD)](https://www.rtd-denver.com/)
 - [ENTUR](https://entur.no/)
+- [King County, Washington](https://kingcounty.gov/)
 - [Los Angeles County Metropolitan Transportation Authority (Metro)](https://www.metro.net/)
 - [Massachusetts Bay Transportation Authority (MBTA)](https://www.mbta.com/)
 - [Metro Transit (Minnesota)](https://www.metrotransit.org/home)
