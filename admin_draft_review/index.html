@@ -1,0 +1,1091 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://interoperablemobility.org/admin_draft_review/">
+      
+      
+      
+      
+      <link rel="icon" href="../img/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.17">
+    
+    
+      
+        <title>Admin Draft Review - Mobility Data Interoperability Principles</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.bcfcd587.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
+    
+      <link rel="stylesheet" href="../css/additional.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function n(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],n("js",new Date),n("config","G-E6EQB94P7M"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&n("event","search",{search_term:this.value})}),document$.subscribe(function(){var a=document.forms.feedback;if(void 0!==a)for(var e of a.querySelectorAll("[type=submit]"))e.addEventListener("click",function(e){e.preventDefault();var t=document.location.pathname,e=this.getAttribute("data-md-value");n("event","feedback",{page:t,data:e}),a.firstElementChild.disabled=!0;e=a.querySelector(".md-feedback__note [data-md-value='"+e+"']");e&&(e.hidden=!1)}),a.hidden=!1}),location$.subscribe(function(e){n("config","G-E6EQB94P7M",{page_path:e.pathname})})});var e=document.createElement("script");e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=G-E6EQB94P7M",document.getElementById("__analytics").insertAdjacentElement("afterEnd",e)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="amber">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#admin-draft-review" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Mobility Data Interoperability Principles" class="md-header__button md-logo" aria-label="Mobility Data Interoperability Principles" data-md-component="logo">
+      
+  <img src="../img/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Mobility Data Interoperability Principles
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Admin Draft Review
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="amber"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="blue" data-md-color-accent="amber"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/interoperable-mobility/principles" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href=".." class="md-tabs__link">
+        
+  
+    
+  
+  Principles
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../about/" class="md-tabs__link">
+        
+  
+    
+  
+  About
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../implementation/" class="md-tabs__link">
+        
+  
+    
+  
+  Implementation
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../support/" class="md-tabs__link">
+        
+  
+    
+  
+  Support
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../procurement/" class="md-tabs__link">
+        
+  
+    
+  
+  Procurement
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../resources/" class="md-tabs__link">
+        
+  
+    
+  
+  Resources
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../governance/" class="md-tabs__link">
+          
+  
+  Governance
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../definitions/" class="md-tabs__link">
+        
+  
+    
+  
+  Glossary
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Mobility Data Interoperability Principles" class="md-nav__button md-logo" aria-label="Mobility Data Interoperability Principles" data-md-component="logo">
+      
+  <img src="../img/logo.png" alt="logo">
+
+    </a>
+    Mobility Data Interoperability Principles
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/interoperable-mobility/principles" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Principles
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../about/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    About
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../implementation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Implementation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../support/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Support
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../procurement/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Procurement
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../resources/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Resources
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Governance
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Governance
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../governance/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Structure
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_2" id="__nav_7_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Policies
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_2">
+            <span class="md-nav__icon md-icon"></span>
+            Policies
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../policies/code-of-conduct/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Code of Conduct
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../policies/digital-access/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Digital Access
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../policies/mdip-coalition-composition/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Coalition Composition
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../policies/mdip-coalition-decision-making/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Coalition Decision-Making
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../policies/management/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Management
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../policies/openness-transparency/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Openness + Transparency
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../definitions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Glossary
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="admin-draft-review">Admin Draft Review<a class="headerlink" href="#admin-draft-review" title="Permanent link"> ¶</a></h1>
+<p>The Admin draft of the Mobility Data Interoperability Principles was developed as part of the California Integrated Travel Project (Cal-ITP), a joint project of Caltrans, CalSTA and CCJPA to respond to common needs across transit stakeholders in California&hellip;but which aren&rsquo;t unique to California.  </p>
+<p>As much as possible, we (Cal-ITP) would like these principles to reflect a shared vision for transit technology components among the industry as a whole and reduce geographic fragmentation which is often used as an excuse for lack of implementation.  </p>
+<p>As such, we hope to share authorship and ownership as much as is desired by other parties. “Saying it together” is way more powerful than “Caltrans saying something”....so if there is anything we can change in how we are approaching this so that we can all “say it together”, let us know!</p>
+<h2 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link"> ¶</a></h2>
+<ul>
+<li>Add additional reviewers from your organization (or others!) in the Reviewers Table that you feel would strengthen the document through their review by adding their name to the table and commenting with their email address (Cal-ITP will invite).  </li>
+<li>Review the document top-to-bottom and add specific comments or suggestions in-line.<br />
+Add overall comments next to your organization in the  Reviewers Table below  </li>
+<li>Indicate anticipated support for the principles in the  Reviewers Table(see descriptions)  </li>
+<li>Check off your name in the Reviewers Table  </li>
+</ul>
+<p>Questions? Feel free to ping the author Scott Frazier who is the product lead for the Principles as part of the Mobility Service Data stream of work for the Cal-ITP project.  </p>
+<p>THANK YOU</p>
+<h2 id="admin-draft-discussion-session">Admin Draft Discussion Session<a class="headerlink" href="#admin-draft-discussion-session" title="Permanent link"> ¶</a></h2>
+<p>Held Wednesday July 14: 3-4 ET/2-3 CT/1-2MT/12-1 PT</p>
+<h3 id="agendanotes">Agenda/Notes<a class="headerlink" href="#agendanotes" title="Permanent link"> ¶</a></h3>
+<ul>
+<li>Background</li>
+<li>Status update</li>
+<li>High-level questions</li>
+<li>Concern: Is it possible to affect change this way?<ul>
+<li>Group agreed this was a necessary but not sufficient step and that we shouldn’t oversell the principals as “solving everything”.  More work will be needed.</li>
+</ul>
+</li>
+<li>Concern: Why this when there are other things?<ul>
+<li>After discussing other related products, the group in attendance agreed that the Principles fill a needed gap.</li>
+</ul>
+</li>
+<li>Agree on final decision process:</li>
+<li>No disagreement raised at the meeting for the proposed governance process which provides equal weight to all co-authors.</li>
+<li>Discussion of high-level issues:</li>
+<li>Right-sizing the purpose / scope [ see issue discussion ]</li>
+<li>Who are the “do-ers”?  [ see issue discussion ]</li>
+<li>How do we make sure not just “bare minimum” is implemented</li>
+<li>No other issues raised.</li>
+<li>Getting to a public draft</li>
+<li>Proposed process briefly referenced.</li>
+<li>Cal-ITP will ask for assent from tentative co-authors.</li>
+</ul>
+<h2 id="what-we-heard">What we heard<a class="headerlink" href="#what-we-heard" title="Permanent link"> ¶</a></h2>
+<p>While the vast majority of admin review comments reinforced the value and need for this document, the following higher-level concerns raised were as follows:</p>
+<div class="admonition note">
+<p class="admonition-title">Make definitions easy to access up front and in-line</p>
+<p>Definitions are now linked throughout the document via hypertext and a similar approach employed in the Principle’s web mockup.  </p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Make sure mobility, transit, and MaaS are appropriately included consistently throughout the document</p>
+<p>Consistency in terminology has been addressed after admin draft editing was frozen.</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Improve clarity and definitions for (intended) “open” “data standards” vs (not intended) “standards” for “open data”.</p>
+<p>Based on a thorough discussion,  reviewers reached consensus at “<abbr title="A specific ontology, schema, or format used by the mobility industry in order to facilitate the consistent communication of information between devices which is free from cost and restrictions to use; publicly documented in its entirety; actively maintained by an independent organization; contains structured releases, versions, or changelogs; and has an open community of contributors and users, and transparent, inclusive governance.">open standard</abbr>”.</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Tell the story at a high-level better – with graphics</p>
+<p>Agreed. This will be addressed in the v1.0 release.  </p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Better define types of <abbr title="Data used by any mobility technology component to execute its core functions.">mobility data</abbr></p>
+<p>While previous drafts distinguished various requirements for different categories of data – the current draft just defers to the wishes of the mobility providers  (and the regulators who regulate them) as to what to disclose.  </p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">How does this relate with TCRP G-18?</p>
+<p>This would be supportive of any open standards that G-18 comes forward with; numerous reviewers meet with the G-18 team on a regular basis.  </p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">We need a graphic identity and web presence that is cohesive and doesn’t rely on a single organization.</p>
+<p>Agreed.  All content has been moved to neutral internet locations.  </p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">This is a huge scope - should we start smaller?</p>
+<p>Resolved via Admin Draft Discussion Session to be “transit first” but inclusive of other mobility.  </p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Clarify the role of this document with respect to other, similar ones such as the California Minimum GTFS Guidelines.</p>
+<p>The authors have attempted to address this throughout.  </p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">How is this feasible given a competitive private market who will prefer silos? How are these recommendations actionable?</p>
+<p>The Admin draft discussion participants believed this is a necessary but not sufficient first step. Broad agreement and consistency are required in order to make progress.</p>
+</div>
+<h2 id="resolved-issues-in-admin-review">Resolved Issues in Admin Review<a class="headerlink" href="#resolved-issues-in-admin-review" title="Permanent link"> ¶</a></h2>
+<h3 id="open-data-standards-vs-open-source-data-standards-resolved">“Open” Data Standards vs “Open Source” Data Standards - RESOLVED<a class="headerlink" href="#open-data-standards-vs-open-source-data-standards-resolved" title="Permanent link"> ¶</a></h3>
+<p><strong>Purpose</strong>: a term which encompases the attributes already defined.
+<strong>Desires</strong>:  </p>
+<ul>
+<li>Consistency with terms already broadly used  </li>
+<li>Clear in its meaning  </li>
+</ul>
+<p><strong>Decision</strong>: “Open Standard” has been decided upon by the group and implemented throughout.</p>
+<p>Options Considered:</p>
+<table>
+<thead>
+<tr>
+<th>Proposed term</th>
+<th>Comments</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Open Data Standard</td>
+<td>- Can be confused with “standards” for “open data”</td>
+</tr>
+<tr>
+<td></td>
+<td>- The terms &ldquo;open data standard&rdquo; and &ldquo;<abbr title="A specific ontology, schema, or format used by the mobility industry in order to facilitate the consistent communication of information between devices which is free from cost and restrictions to use; publicly documented in its entirety; actively maintained by an independent organization; contains structured releases, versions, or changelogs; and has an open community of contributors and users, and transparent, inclusive governance.">open standard</abbr>&rdquo; are widely used when discussing schema and structure</td>
+</tr>
+<tr>
+<td></td>
+<td>“Open data standard” does have a different definition as referring to public data sets, which makes it confusing in this context. For example, see: [https://datastandards.directory/]</td>
+</tr>
+<tr>
+<td>Open-Source Data Standard</td>
+<td>- “Open source” is for software ownership/management.</td>
+</tr>
+<tr>
+<td>Open Standard (selected)</td>
+<td>- This is the most widely accepted term for a data standard that is open and freely available for anyone to use. See: [https://en.wikipedia.org/wiki/Open_standard]</td>
+</tr>
+<tr>
+<td></td>
+<td>“Open Standard for Data” is another good formulation. See: [https://standards.theodi.org/introduction/what-are-open-standards-for-data/]</td>
+</tr>
+</tbody>
+</table>
+<h4 id="data-typologies">Data typologies<a class="headerlink" href="#data-typologies" title="Permanent link"> ¶</a></h4>
+<p><strong>Purpose</strong>: to distinguish between the type of data which is required for internal system operations and may not be desired to be “public” and data which should be publicly consumable.<br />
+<strong>Decision</strong> : No decision was needed because the distinction between these data types was eliminated from the principles text (as of now)<br />
+<strong>Usage</strong> : As of the current draft, the implications of this apply only to if data should be published at a permalink.  </p>
+<p><strong>Desires</strong>:</p>
+<ul>
+<li>Consistency with terms already broadly used  </li>
+<li>Clear in its meaning  </li>
+</ul>
+<h4 id="application-area-scope-bookends">Application Area Scope Bookends<a class="headerlink" href="#application-area-scope-bookends" title="Permanent link"> ¶</a></h4>
+<p><strong>Purpose</strong>: Determine whether or not <abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr> should extend to such transportation tech components as toll roads, traffic signals, etc.<br />
+<strong>Decision</strong>: Roadways operations, signals, tolls, etc to be excluded at this time in order to maintain a more manageable scope.<br />
+<strong>Desires</strong>:</p>
+<ul>
+<li>Consistent approach for <abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr> in conceptually linked transportation tech components including road management  </li>
+<li>Scope narrow enough to support adaptability and implementability of draft principles  </li>
+</ul>
+<h4 id="backend-tofrom-user-experience-scope-bookends">Backend to/from User Experience Scope Bookends<a class="headerlink" href="#backend-tofrom-user-experience-scope-bookends" title="Permanent link"> ¶</a></h4>
+<p><strong>Purpose</strong>: To determine whether specific languages or formats need to be identified for purposes of assessing <abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr> of systems or if abstraction better preserves the general principle of <abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr><br />
+<strong>Decision</strong>: Remove specific references to programming languages and intra-product data storage formats, maintain specific input/output formats  </p>
+<h4 id="maas-operations-discussion">MaaS Operations Discussion<a class="headerlink" href="#maas-operations-discussion" title="Permanent link"> ¶</a></h4>
+<p><strong>Purpose</strong>: Determine if MaaS is included in this discussion?
+<strong>Decision</strong>:  </p>
+<ul>
+<li>Use “Transit Forward” language, remaining inclusive of other mobility options  </li>
+<li>Remove MaaS-specific or centering language  </li>
+</ul>
+<p>Discussion points:  </p>
+<ul>
+<li>Transit agencies have broader concerns about centering MaaS  </li>
+<li>Inclusion of MaaS terminology can spark issues with co-authorship  </li>
+<li>Many agencies lack policies around MaaS and are not ready for MaaS-specific discussions  </li>
+<li>Other mobility providers and entities want multimodal mobility to continue to be a concern, acknowledge sensitivity of terminology at this stage  </li>
+</ul>
+<h4 id="who-is-the-do-er-in-the-recommendations">Who is the “do-er” in the recommendations?<a class="headerlink" href="#who-is-the-do-er-in-the-recommendations" title="Permanent link"> ¶</a></h4>
+<p><strong>Purpose</strong>: Establish who the recommendations should be directed at
+<strong>Decision</strong>: Recommendations will continue to be pointed at Transportation Tech Components, individual units of hardware or software, rather than individuals or companies</p>
+<h2 id="reviewers">Reviewers<a class="headerlink" href="#reviewers" title="Permanent link"> ¶</a></h2>
+<p>The members of public transit, transportation system managers, academic researchers, national and state DOTs, and non-profit advocates were invited to review the admin draft starting on June 23<sup>rd</sup>, 2021.  </p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Categorization (1)</th>
+<th style="text-align: center;">Non responsive / Not involved (2)</th>
+<th style="text-align: center;">Private reviewer (3)</th>
+<th style="text-align: center;">Public reviewer</th>
+<th style="text-align: center;">Co-signer</th>
+<th style="text-align: center;">Co-author</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Public Transit Provider</td>
+<td style="text-align: center;">31</td>
+<td style="text-align: center;">7</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">5</td>
+</tr>
+<tr>
+<td style="text-align: left;">Non-profits</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">3</td>
+</tr>
+<tr>
+<td style="text-align: left;">Federal + State Organizations</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">3</td>
+</tr>
+<tr>
+<td style="text-align: left;">Regional + Local Government</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">1</td>
+</tr>
+<tr>
+<td style="text-align: left;">Academia</td>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">6</td>
+<td style="text-align: center;">0</td>
+</tr>
+</tbody>
+</table>
+<p>(1) Some organizations could realistically be categorized in multiple categories, but for simplicity of this table were only captured in one so that the cells are additive.<br />
+(2) Some of the unresponsiveness was likely due to invitations not finding the correct recipient within an organization.<br />
+(3) Several reviewers were unable to make their review public due to organizational processes  </p>
+<h3 id="public-reviewers">Public Reviewers<a class="headerlink" href="#public-reviewers" title="Permanent link"> ¶</a></h3>
+<p>(in addition to the [co-authors] and [co-signers])</p>
+<ul>
+<li><a href="http://www.sfcta.org">San Francisco County Transportation Authority (SFCTA)</a>  </li>
+<li><a href="http://www.transitcenter.org">Transit Center</a>  </li>
+</ul>
+<p>Note: staff at roughly a dozen other organizations provided substantive reviews but are maneuvering organizational frameworks for being able to be listed publicly.  </p>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.expand", "navigation.tabs", "toc.integrate"], "search": "../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.1e8ae164.min.js"></script>
+      
+        <script src="https://unpkg.com/mermaid@8.5.0/dist/mermaid.min.js"></script>
+      
+    
+  </body>
+</html>

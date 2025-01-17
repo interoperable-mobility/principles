@@ -1,0 +1,1256 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://interoperablemobility.org/procurement/">
+      
+      
+        <link rel="prev" href="../support/">
+      
+      
+        <link rel="next" href="../resources/">
+      
+      
+      <link rel="icon" href="../img/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.17">
+    
+    
+      
+        <title>Procurement - Mobility Data Interoperability Principles</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.bcfcd587.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
+    
+      <link rel="stylesheet" href="../css/additional.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function n(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],n("js",new Date),n("config","G-E6EQB94P7M"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&n("event","search",{search_term:this.value})}),document$.subscribe(function(){var a=document.forms.feedback;if(void 0!==a)for(var e of a.querySelectorAll("[type=submit]"))e.addEventListener("click",function(e){e.preventDefault();var t=document.location.pathname,e=this.getAttribute("data-md-value");n("event","feedback",{page:t,data:e}),a.firstElementChild.disabled=!0;e=a.querySelector(".md-feedback__note [data-md-value='"+e+"']");e&&(e.hidden=!1)}),a.hidden=!1}),location$.subscribe(function(e){n("config","G-E6EQB94P7M",{page_path:e.pathname})})});var e=document.createElement("script");e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=G-E6EQB94P7M",document.getElementById("__analytics").insertAdjacentElement("afterEnd",e)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="amber">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#interoperable-procurement" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Mobility Data Interoperability Principles" class="md-header__button md-logo" aria-label="Mobility Data Interoperability Principles" data-md-component="logo">
+      
+  <img src="../img/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Mobility Data Interoperability Principles
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Procurement
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="amber"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="blue" data-md-color-accent="amber"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/interoperable-mobility/principles" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href=".." class="md-tabs__link">
+        
+  
+    
+  
+  Principles
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../about/" class="md-tabs__link">
+        
+  
+    
+  
+  About
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../implementation/" class="md-tabs__link">
+        
+  
+    
+  
+  Implementation
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../support/" class="md-tabs__link">
+        
+  
+    
+  
+  Support
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+    
+  
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="./" class="md-tabs__link">
+        
+  
+    
+  
+  Procurement
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../resources/" class="md-tabs__link">
+        
+  
+    
+  
+  Resources
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../governance/" class="md-tabs__link">
+          
+  
+  Governance
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../definitions/" class="md-tabs__link">
+        
+  
+    
+  
+  Glossary
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Mobility Data Interoperability Principles" class="md-nav__button md-logo" aria-label="Mobility Data Interoperability Principles" data-md-component="logo">
+      
+  <img src="../img/logo.png" alt="logo">
+
+    </a>
+    Mobility Data Interoperability Principles
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/interoperable-mobility/principles" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Principles
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../about/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    About
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../implementation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Implementation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../support/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Support
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Procurement
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Procurement
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#why-should-interoperability-be-included-in-procurement" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why should “Interoperability” be included in procurement?
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#where-should-it-be-included" class="md-nav__link">
+    <span class="md-ellipsis">
+      Where should it be included?
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-do-i-include-it" class="md-nav__link">
+    <span class="md-ellipsis">
+      How do I include it?
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#support-enforcement" class="md-nav__link">
+    <span class="md-ellipsis">
+      Support &amp; Enforcement
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contract-language" class="md-nav__link">
+    <span class="md-ellipsis">
+      Contract Language
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#system-requirements" class="md-nav__link">
+    <span class="md-ellipsis">
+      System Requirements
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../resources/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Resources
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Governance
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Governance
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../governance/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Structure
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_2" id="__nav_7_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Policies
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_2">
+            <span class="md-nav__icon md-icon"></span>
+            Policies
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../policies/code-of-conduct/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Code of Conduct
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../policies/digital-access/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Digital Access
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../policies/mdip-coalition-composition/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Coalition Composition
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../policies/mdip-coalition-decision-making/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Coalition Decision-Making
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../policies/management/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Management
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../policies/openness-transparency/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Openness + Transparency
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../definitions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Glossary
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="interoperable-procurement">Interoperable Procurement<a class="headerlink" href="#interoperable-procurement" title="Permanent link"> ¶</a></h1>
+<p>The purpose of this resource is to document why and how <abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr> should be included in a transit technology procurement and provide example language.</p>
+<h2 id="why-should-interoperability-be-included-in-procurement">Why should “Interoperability” be included in procurement?<a class="headerlink" href="#why-should-interoperability-be-included-in-procurement" title="Permanent link"> ¶</a></h2>
+<p>Interoperability relies on the implementation of certain system requirements and business processes. Unless those requirements and processes are contractually guaranteed, they may not be followed consistently.</p>
+<h3 id="resources">Resources<a class="headerlink" href="#resources" title="Permanent link"> ¶</a></h3>
+<ul>
+<li><a href="https://learn.sharedusemobilitycenter.org/casestudy/mobility-interoperability-logic-model-summary/">Getting to <abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr>: the Interoperability Logic Model</a></li>
+</ul>
+<h2 id="where-should-it-be-included">Where should it be included?<a class="headerlink" href="#where-should-it-be-included" title="Permanent link"> ¶</a></h2>
+<p>If possible, the word “<abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr>” and a reference to the MDIP website, along with specific product-relevant content below should be included in all official procurement documentation, including:</p>
+<ul>
+<li>Requests for information (RFIs)</li>
+<li>Requests for proposals (RFPs)</li>
+<li>Requests for qualifications (RFQs)</li>
+<li>Requests for bids (RFBs)</li>
+<li>Purchase Orders (POs)</li>
+<li>Informal solicitations</li>
+<li>Vendor contracts</li>
+<li>Services contracts</li>
+</ul>
+<p>While <abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr> can and should be considered for any technology procurement, the terms below were considered with the following types of technology in mind.</p>
+<ul>
+<li>Fixed-route and demand-response scheduling software</li>
+<li>Fixed-route and demand-response Computer-Aided Dispatch and Automated Vehicle Location (CAD/AVL) systems</li>
+<li>Reporting software</li>
+</ul>
+<p>In the future, this document could cover:</p>
+<ul>
+<li>Automated Passenger Counters (APC) on-board hardware and reporting systems</li>
+<li>Passenger trip planning systems (e.g. trip planners)</li>
+<li>Fare collection systems</li>
+<li>On-board and wayside digital signage</li>
+<li>Operations software such as:</li>
+<li>Yard management</li>
+<li>Train control and signaling</li>
+<li>Bikeshare systems</li>
+</ul>
+<h2 id="how-do-i-include-it">How do I include it?<a class="headerlink" href="#how-do-i-include-it" title="Permanent link"> ¶</a></h2>
+<p>Interoperability should be included in both lists of project objectives and scopes of work where applicable. The suggested statements which implement MDIP in a procurement are described below. A draft contract, scope of work, or terms of service should be published along with any RFP and any vendor exceptions to relevant terms should be noted at the time of proposal.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Item</th>
+<th style="text-align: left;">Typical location</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Overarching project objectives</td>
+<td style="text-align: left;">Contract body or preamble</td>
+</tr>
+<tr>
+<td style="text-align: left;">Ownership and Licensing Terms</td>
+<td style="text-align: left;">Contract body or terms of service</td>
+</tr>
+<tr>
+<td style="text-align: left;">Privacy and Cybersecurity Terms</td>
+<td style="text-align: left;">Contract body, terms of service, or privacy policy</td>
+</tr>
+<tr>
+<td style="text-align: left;">System requirements for the specific piece of technology being procured</td>
+<td style="text-align: left;">Scope of work or terms of service</td>
+</tr>
+<tr>
+<td style="text-align: left;">Definitions, which support the objectives, terms, and requirements</td>
+<td style="text-align: left;">Within each document where defined terms are used</td>
+</tr>
+<tr>
+<td style="text-align: left;">Verification of community and cohort feedback</td>
+<td style="text-align: left;">Gathered through reference checks and questions to other mobility agencies</td>
+</tr>
+</tbody>
+</table>
+<h2 id="support-enforcement">Support &amp; Enforcement<a class="headerlink" href="#support-enforcement" title="Permanent link"> ¶</a></h2>
+<p>Reach out to the Mobility Data Interoperability Principles co-authors with questions, including help with validating and assessing the data exports from your current software systems.</p>
+<h3 id="what-is-my-recourse-if-they-are-not-being-followed">What is my recourse if they are not being followed?<a class="headerlink" href="#what-is-my-recourse-if-they-are-not-being-followed" title="Permanent link"> ¶</a></h3>
+<p>Notify the MDIP Co-Author coalition with your complaint. They will help you:</p>
+<ul>
+<li>Identify if there was a loophole in your procurement;</li>
+<li>Identify recourse options, including:</li>
+<li>Removal of the vendor from the MDIP Co-sponsor list (if applicable)</li>
+<li>Adding the vendor and the relevant product to a list of “products of concern” with a statement about the reasoning.</li>
+</ul>
+<p>Discuss recourse options with your vendor, including:</p>
+<ul>
+<li>A timeline that they can commit to resolving the problem</li>
+<li>A penalty within this contract if they cannot solve it in the specified time</li>
+<li>A penalty for breaking the <abbr title="Data used by any mobility technology component to execute its core functions.">mobility data</abbr> <abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr> principles</li>
+</ul>
+<h2 id="contract-language">Contract Language<a class="headerlink" href="#contract-language" title="Permanent link"> ¶</a></h2>
+<p>This section includes topics that are generally addressed in the body of a contract.</p>
+<p><strong>Remember: always follow your agency&rsquo;s procurement and contracting policies while incorporating the language below.</strong> If those policies and language below directly conflict, a discussion may be in order to change agency policy.</p>
+<h3 id="ownership-and-licensing">Ownership and Licensing<a class="headerlink" href="#ownership-and-licensing" title="Permanent link"> ¶</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">All data transmitted to the System by the Agency, collected from the Agency by the System, or generated by the System using data provided by the Agency is the property of the Agency with full rights to publish, distribute, and use at their discretion.</td>
+</tr>
+<tr>
+<td style="text-align: left;">All data transmitted to the System by the Agency, collected from the Agency by the System, or generated by the System using data provided by the Agency is the property of the Agency with full rights to publish, distribute, and use at their discretion.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="privacy-and-cybersecurity">Privacy and Cybersecurity<a class="headerlink" href="#privacy-and-cybersecurity" title="Permanent link"> ¶</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">The Contractor shall ensure the security of all Personally Identifiable Information (PII).</td>
+</tr>
+<tr>
+<td style="text-align: left;">PII includes but is not limited to the communication with, information provided by, and the movement of individuals or vehicles which are responding to an individual’s needs which could reasonably be associated with them.</td>
+</tr>
+<tr>
+<td style="text-align: left;">PII shall be stored in a manner consistent with <strong>{reference your local or state laws regarding data privacy}</strong>.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Access to PII shall only be given according to a policy determined by the Transit Provider or via the Transit Provider’s expressed written permission.</td>
+</tr>
+<tr>
+<td style="text-align: left;">PII shall follow a data retention policy as set by the Transit Provider.</td>
+</tr>
+<tr>
+<td style="text-align: left;">At contract termination, all PII shall be destroyed within 30 days.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="additional-recommended-requirements">Additional Recommended Requirements<a class="headerlink" href="#additional-recommended-requirements" title="Permanent link"> ¶</a></h3>
+<p>The following subjects are important considerations when ensuring a successful interoperable technology system. There are not specific requirements that all mobility systems must meet with regard to these subjects, but procuring agencies should take time to define and understand their local needs and vendor offers with regard to:</p>
+<ul>
+<li>Implementation and Configuration</li>
+<li>Training</li>
+<li>Performance Reporting</li>
+<li>Issue Resolution</li>
+<li>Customer Service</li>
+</ul>
+<h3 id="definitions">Definitions<a class="headerlink" href="#definitions" title="Permanent link"> ¶</a></h3>
+<p>Definitions which support the terms used in the procurement language throughout this document can be copied from <a href="../definitions/">Definitions</a> which offers a rigorous and regularly updated set of terms as defined by the MDIP co-authors. Only the terms used in the procurement document need to be defined.</p>
+<h2 id="system-requirements">System Requirements<a class="headerlink" href="#system-requirements" title="Permanent link"> ¶</a></h2>
+<p>System requirements will vary greatly based on the technology components included in the procurement scope. The system requirements to support <abbr title="The ability for any mobility technology component to exchange data in an open standard or schema with other components in that system.">interoperability</abbr> described in sections below should be adapted to the particular needs of the agency procuring the system. Specific requirements can be found below in the following categories:</p>
+<ul>
+<li>General system requirements</li>
+<li>Fixed-route and demand-response scheduling software</li>
+<li>Fixed-route CAD/AVL systems</li>
+<li>Reporting software</li>
+</ul>
+<h3 id="general-system-requirements">General system requirements<a class="headerlink" href="#general-system-requirements" title="Permanent link"> ¶</a></h3>
+<p>The following system requirements are applicable to most software and hardware systems purchased by mobility agencies.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Continuous Improvement</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;">Updates to the relevant open standards used by the System within the period of performance should result in updates to the system to support the updated <abbr title="A specific ontology, schema, or format used by the mobility industry in order to facilitate the consistent communication of information between devices which is free from cost and restrictions to use; publicly documented in its entirety; actively maintained by an independent organization; contains structured releases, versions, or changelogs; and has an open community of contributors and users, and transparent, inclusive governance.">open standard</abbr> within 90 days of its approval including:<ul><li>Additions or modifications to the best practices.</li><li>Ability to read and write the updated standard and pass through information in any additional adopted or provisionally adopted/experimental fields.</li><li>Ability to read, write and edit fields pertaining to the schedule within the software.</li></ul></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Storage</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;">The System shall store exported schedule data on the system for the duration of the contract unless it is removed by the client.  Saved data shall be accessible and searchable and available for bulk download.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Security</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;">The System shall provide the ability to obscure certain data to various users in order to reasonably protect individual privacy. <br />The System shall use a secure, account-based authentication system with at least the tiers of privilege and respective capabilities, similar to the following:<br /><ul><li>View-only:<ul><li> View and export data which isn’t privacy-protected</li></ul></li><li>User: above plus<ul><li>Perform scheduling functions</li><li> View data which is privacy-protected</li><li> Export data which isn’t privacy protected</li></ul></li><li>Manager: above plus <ul><li>Export data which is privacy-protected</li></ul></li><li>Administrator: above plus <ul><li> Provision manager-level accounts </li><li> Determine which data fields should be privacy-protected</li></ul></li></ul></td>
+</tr>
+</tbody>
+</table>
+<h3 id="scheduling-systems">Scheduling systems<a class="headerlink" href="#scheduling-systems" title="Permanent link"> ¶</a></h3>
+<h4 id="scheduling-system-description">Scheduling system description<a class="headerlink" href="#scheduling-system-description" title="Permanent link"> ¶</a></h4>
+<p>Scheduling systems exist for both fixed-route and demand-response systems, and while it is possible for a single application to do both this is uncommon. The requirements for each system with respect to the MDIP should be defined separately.</p>
+<p>Fixed-route scheduling system functions:</p>
+<ul>
+<li>Define and publish fixed route schedules in GTFS format and for use in agency CAD/AVL systems</li>
+<li>Manage assignment of vehicles and drivers</li>
+<li>Optionally, importing information from agency databases for these purposes</li>
+</ul>
+<p><img alt="The image depicts a flowchart with five boxes in three columns, flowing left to right. On the left side are the boxes &quot;agency staff&quot; and &quot;agency database&quot;, both flowing into the middle box &quot;scheduling system&quot;, which flows into two boxes on the right side, &quot;CAD/AVL system (ODS)&quot; and &quot;trip planners (GTFS)&quot;. All boxes are dark blue and connected by a solid arrow, except for &quot;agency database&quot; which is a light blue box connecting to the &quot;scheduling system&quot; by a dashed arrow." src="../img/fixed_route_scheduling_system.png" title="fixed route scheduling system" /></p>
+<p>Demand-response scheduling system functions include the following:</p>
+<ul>
+<li>Define and publish scheduled trips for demand-response riders in GTFS-OnDemand format</li>
+<li>Track the performance of scheduled trips</li>
+<li>Manage assignment of vehicles and drivers</li>
+<li>Optionally, importing information from agency databases for these purposes</li>
+</ul>
+<p>Note that there is often no CAD/AVL system separate from the demand-response software system other than the AVL hardware, unlike fixed route transit service where these two systems are often separated.</p>
+<p><img alt="The image depicts a flowchart with six boxes in three columns, flowing left to right. On the left side are the boxes &quot;agency staff&quot; and &quot;agency database&quot;, both flowing into the middle box &quot;scheduling system&quot;, which flows into three boxes on the right side, &quot;Reporting system (TIDES)&quot;, &quot;Trip planners (GTFS-OnDemand)&quot;, and &quot;Brokerages (TDS)&quot;. All boxes are dark blue and connected by a solid arrow, except for &quot;agency database&quot; which is a light blue box connecting to the &quot;scheduling system&quot; by a dashed arrow and &quot;Brokerages&quot; which is a light blue box connecting from the &quot;scheduling system&quot; by a dashed arrow." src="../img/demand_response_scheduling_system.png" title="demand response scheduling system" /></p>
+<h4 id="fixed-route-scheduling-system-requirements">Fixed-route scheduling system requirements<a class="headerlink" href="#fixed-route-scheduling-system-requirements" title="Permanent link"> ¶</a></h4>
+<p>Fixed-route scheduling systems should meet the following requirements to be considered compliant with the MDIP.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Input/Output</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;">The scheduling system shall receive, process, store, and export customer-generated data and derived data, free from additional costs or restrictions. <br />The scheduling system shall receive, store, provide access to, and make available via an appropriate API, data in the most recent version of the following open standards including their best practices:<ul><li>Rider-facing schedule data in GTFS Schedule; and</li><li>As-operated data in the Operational Data Standard (ODS). </li></ul>Best practices shall be defined as both should statements in the standard itself as well as official best practices documents such as the <a href="https://gtfs.org/schedule/best-practices/">GTFS Schedule Best Practices</a>. <br />The scheduling system shall be enabled to receive the following inputs both through an ad-hoc import or by fetching using an API. <ul><li>Driver/operator rosters and associated data necessary to assign drivers/operators to runs in a Well-documented Data Format.</li><li>Vehicle inventory and associated data necessary to assign vehicles to blocks in a Well-documented Data Format. </li></ul>Input data schemas and APIs shall be consistent with any other relevant open standards</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Built-in Enforcement + Monitoring</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;">The scheduling system shall include a mechanism to ensure that exported data is consistent with the above requirements using relevant canonical validators.  Data which would not pass the above requirements using relevant canonical validators shall require an explicit override to export.  Validation reports for each export shall be transparent to the customer and provide a course of action to remedy. <br />Validation errors which are the result of scheduling software errors and cannot be remedied by the customer shall be automatically reported to Customer and Contractor and are subject to Performance Minimums and Recovery Time Objectives.</td>
+</tr>
+</tbody>
+</table>
+<h4 id="demand-response-scheduling-system-requirements">Demand-response scheduling system requirements<a class="headerlink" href="#demand-response-scheduling-system-requirements" title="Permanent link"> ¶</a></h4>
+<p>Demand-response scheduling systems should meet the following requirements to be considered compliant with the MDIP.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Input/Output</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;">The scheduling system shall receive, process, store, and export the following data in the most recent version of the following open standards: <ul><li>Near real-time service parameters in GTFS-OnDemand;</li><li>As-operated data in the TIDES data suite.</li><li>Passenger data in the TIDES data suite or GTFS-Ride.</li></ul>These features shall be free from additional costs or restrictions, other than reasonable restrictions on real-time data downloads.<br />The scheduling system shall provide public access to the following data streams:<br /><ul><li>GTFS-Realtime OnDemand.</li></ul>The scheduling system shall be enabled to receive the following inputs both through an ad-hoc import or by fetching using an API. <br /><ul><li>Driver/operator rosters and associated data necessary to assign drivers/operators to runs in a Well-documented Data Format.</li><li>Vehicle inventory and associated data necessary to assign vehicles to blocks in a Well-documented Data Format.</li></ul></td>
+</tr>
+</tbody>
+</table>
+<h3 id="cadavl-systems">CAD/AVL Systems<a class="headerlink" href="#cadavl-systems" title="Permanent link"> ¶</a></h3>
+<h4 id="cadavl-system-description">CAD/AVL system description<a class="headerlink" href="#cadavl-system-description" title="Permanent link"> ¶</a></h4>
+<p>Computer-aided Dispatch and Automatic Vehicle Location (“CAD/AVL”) systems are commonly marketed separate from scheduling systems for fixed-route systems.</p>
+<p>Fixed route CAD/AVL system functions:</p>
+<ul>
+<li>Import schedule and operational data on to vehicle hardware</li>
+<li>Monitor vehicle adherence to schedules and provide dispatch system capabilities</li>
+<li>Output real-time information regarding the status of the transit system</li>
+<li>Optionally, control various downstream onboard or offboard systems</li>
+</ul>
+<p><img alt="The image depicts a flowchart with four boxes in three columns, flowing left to right. On the left side is the box &quot;scheduling system (ODS)&quot;, flowing into the middle box &quot;CAD/AVL system&quot;, which flows into two boxes on the right side, &quot;Reporting system (TIDES)&quot; and &quot;Trip planners (GTFS-RT)&quot;. All boxes are dark blue and connected by a solid arrow." src="../img/fixed_route_cad_avl.png" title="fixed route cad/avl system" /></p>
+<h4 id="cadavl-system-requirements">CAD/AVL system requirements<a class="headerlink" href="#cadavl-system-requirements" title="Permanent link"> ¶</a></h4>
+<p>Fixed-route CAD/AVL systems should meet the following requirements to be considered compliant with the MDIP.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">The CAD/AVL system shall import, store and export access to the following data in the most recent version of the following open standards: <br />Schedule data in the Operational Data Standard or GTFS-Schedule;<ul><li>As-operated data in the TIDES data suite;</li><li>Passenger data in the TIDES data suite or GTFS-Ride;</li><li>Real-time data on system performance in GTFS-Realtime.</li></ul>These features shall be free from additional costs or restrictions, other than reasonable restrictions on real-time data downloads. <br />Updates to the open standards documented above within the period of performance should result in updates to the CAD/AVL system to support the updated <abbr title="A specific ontology, schema, or format used by the mobility industry in order to facilitate the consistent communication of information between devices which is free from cost and restrictions to use; publicly documented in its entirety; actively maintained by an independent organization; contains structured releases, versions, or changelogs; and has an open community of contributors and users, and transparent, inclusive governance.">open standard</abbr> within 30 days of its approval.</td>
+</tr>
+<tr>
+<td style="text-align: left;">The CAD/AVL system shall provide public access to the following data streams:<ul><li>GTFS-Realtime Vehicle Positions;</li><li>GTFS-Realtime Trip Updates; and</li><li>GTFS-Realtime Alerts.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="reporting-systems">Reporting systems<a class="headerlink" href="#reporting-systems" title="Permanent link"> ¶</a></h3>
+<h4 id="reporting-system-description">Reporting system description<a class="headerlink" href="#reporting-system-description" title="Permanent link"> ¶</a></h4>
+<p>Reporting systems aggregate transit network performance data and visualize and analyze that data.</p>
+<p>Reporting system functions:</p>
+<ul>
+<li>Import schedule and performance data</li>
+<li>Calculate and display relevant performance statistics</li>
+</ul>
+<p><img alt="The image depicts a flowchart with two boxes in two columns, flowing left to right. On the left side is the box &quot;CAD/AVL (TIDES)&quot;, which flows into a box on the right side &quot;Reporting system&quot; . All boxes are dark blue and connected by a solid arrow." src="../img/reporting_system.png" title="reporting system" /></p>
+<h4 id="reporting-system-requirements">Reporting system requirements<a class="headerlink" href="#reporting-system-requirements" title="Permanent link"> ¶</a></h4>
+<p>Reporting systems should meet the following requirements to be considered compliant with the MDIP.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">The reporting system shall import and store the following data in the most recent version of the following open standards: <br />Schedule data in the Operational Data Standard or GTFS-Schedule;<ul><li>As-operated data in the TIDES data suite;</li><li>Passenger data in the TIDES data suite or GTFS-Ride;</li><li>Real-time data on system performance in GTFS-Realtime.</li></ul></td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.expand", "navigation.tabs", "toc.integrate"], "search": "../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.1e8ae164.min.js"></script>
+      
+        <script src="https://unpkg.com/mermaid@8.5.0/dist/mermaid.min.js"></script>
+      
+    
+  </body>
+</html>
